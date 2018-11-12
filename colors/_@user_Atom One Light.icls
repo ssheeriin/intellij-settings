@@ -4,7 +4,7 @@
     <property name="created">2018-10-31T08:23:12</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2018.2.5.0.0</property>
-    <property name="modified">2018-10-31T08:38:39</property>
+    <property name="modified">2018-11-12T10:33:14</property>
     <property name="originalScheme">Atom One Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -210,7 +210,7 @@
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="4b1515" />
+        <option name="BACKGROUND" value="e2d0d0" />
       </value>
     </option>
     <option name="BROWSEWORDATCARET">
