@@ -3,5 +3,8 @@
     <account id="d350ea81-1f45-443f-a6c3-b3a0e25c3a2e" name="I073367">
       <server useHttp="false" host="github.wdf.sap.corp" />
     </account>
+    <account id="2fabec24-e5bf-4ceb-8f50-fa89027d9bf4" name="ssheeriin">
+      <server host="github.com" />
+    </account>
   </component>
 </application>
