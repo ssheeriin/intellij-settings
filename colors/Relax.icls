@@ -1,11 +1,11 @@
 <scheme name="Relax" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-01-07T10:48:16</property>
+    <property name="created">2019-01-08T21:04:59</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2018.3.2.0.0</property>
-    <property name="modified">2019-01-07T16:13:46</property>
-    <property name="originalScheme">Darcula copy</property>
+    <property name="modified">2019-01-08T21:07:44</property>
+    <property name="originalScheme">Relax</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <option name="EDITOR_FONT_SIZE" value="14" />
