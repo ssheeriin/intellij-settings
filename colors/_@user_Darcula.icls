@@ -1,9 +1,9 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2018-11-23T10:38:12</property>
+    <property name="created">2019-01-21T08:36:53</property>
     <property name="ide">Idea</property>
-    <property name="ideVersion">2018.3.0.0</property>
-    <property name="modified">2019-01-11T09:27:29</property>
+    <property name="ideVersion">2018.3.3.0.0</property>
+    <property name="modified">2019-01-21T12:27:18</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -23,23 +23,4 @@
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
     <option name="FILESTATUS_modifiedOutside" value="7385bc" />
   </colors>
-  <attributes>
-    <option name="DEFAULT_IDENTIFIER">
-      <value>
-        <option name="FOREGROUND" value="6897bb" />
-      </value>
-    </option>
-    <option name="DEFAULT_KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="833f63" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="DEFAULT_STATIC_FIELD">
-      <value>
-        <option name="FOREGROUND" value="ffc66d" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-  </attributes>
 </scheme>
