@@ -7,8 +7,9 @@
           <option name="hostUrl" value="https://sf-sonar.devprod.sap.corp" />
           <option name="name" value="SFSF" />
           <option name="login" value="I073367" />
-          <password>dfdedfc3dfc7dfdadf9edff9dfc6df9f</password>
+          <password>dfdedfc3dfc7dfdadf9edff9dfc6df9c</password>
           <organizationKey>default-organization</organizationKey>
+          <enableNotifications>true</enableNotifications>
         </SonarQubeServer>
       </list>
     </option>
