@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="xNO_SUBMIT_prj" />
+    <option name="defaultScopeName" value="xNO_SUBMIT_prj" />
+    <option name="SEARCH_SCOPE" value="xNO_SUBMIT_prj" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
