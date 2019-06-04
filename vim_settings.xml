@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/java/com/successfactors/detailedreportcommon/app/MDFPermissionProvider.java" timestamp="1559635320460">
+        <mark key="'" line="71" column="27" />
+        <mark key="[" line="371" column="0" />
+        <mark key="]" line="388" column="28" />
+        <mark key="." line="388" column="28" />
+        <mark key="^" line="370" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/workspace/trunk/idl-analyticssuitereporting/idl-analyticssuitereporting-service/src/main/java/com/successfactors/analytics/service/permission/util/PermissionUtils.java" timestamp="1559630670640">
         <mark key="[" line="81" column="25" />
         <mark key="]" line="82" column="0" />
@@ -26,50 +33,53 @@
         <mark key="^" line="56" column="103" />
         <mark key="." line="56" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/idl-analyticssuitereporting/idl-analyticssuitereporting-service/src/main/java/com/successfactors/analytics/service/permission/impl/PermissionHelperImpl.java" timestamp="1559631325609">
+      <file name="$USER_HOME$/dev/workspace/trunk/idl-analyticssuitereporting/idl-analyticssuitereporting-service/src/main/java/com/successfactors/analytics/service/permission/impl/PermissionHelperImpl.java" timestamp="1559631328460">
         <mark key="[" line="470" column="93" />
         <mark key="]" line="470" column="93" />
         <mark key="." line="470" column="93" />
         <mark key="^" line="467" column="7" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="150" column="59" filename="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/java/com/successfactors/detailedreportcommon/app/MDFPermissionProvider.java" />
+      <jump line="74" column="27" filename="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/java/com/successfactors/detailedreportcommon/app/MDFPermissionProvider.java" />
+    </jumps>
     <registers>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgU3RvcFdhdGNoIHRpbWVyID0gUGVybWlzc2lvblV0aWxzLmNyZWF0ZVRpbWVyU3RhcnRlZCgp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGNlbGxEYXRhQ3JpdGVyaWE7Cg==</text>
+        <text encoding="base64">ICAgIHRpbWVyLnN0b3AoKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">biIg</text>
+        <text>com.successfactors.detailedreportcommon.app.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFBlcm1pc3Npb25VdGlscy5sb2dUaW1lQW5kU3RvcCh0aW1lciwgbG9nZ2VyLCAiY29tLnN1Y2Nlc3NmYWN0b3JzLmFuYWx5dGljcy5zZXJ2aWNlLnBlcm1pc3Npb24uaW1wbC5QZXJtaXNzaW9uSGVscGVySW1wbC5wcm9jZXNzTG9naWNhbENvbHVtbiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBfbG9nLmluZm8oIiMgVElNRVIgIyA6OiBHZXRPYmplY3QgZCB0b29rIHt9IG1pbGxpc2Vjb25kcyIsIHRpbWVyLmdldFNwbGl0VGltZSgpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIGNlbGxEYXRhQ3JpdGVyaWE7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFBlcm1pc3Npb25VdGlscy5sb2dUaW1lQW5kU3RvcCh0aW1lciwgbG9nZ2VyLCAiY29tLnN1Y2Nlc3NmYWN0b3JzLmFuYWx5dGljcy5zZXJ2aWNlLnBlcm1pc3Npb24uaW1wbC5QZXJtaXNzaW9uSGVscGVySW1wbC5wcm9jZXNzTG9naWNhbENvbHVtbiIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHdhdGNoLnN0b3AoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRvcHdhdGNoIHdhdGNoID0gUGVybWlzc2lvblV0aWxzLmNyZWF0ZVRpbWVyU3RhcnRlZCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHdhdGNoLnN0b3AoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgIHRvcHdhdGNoIHdhdGNoID0gUGVybWlzc2lvblV0aWxzLmNyZWF0ZVRpbWVyU3RhcnRlZCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">biIg</text>
+        <text>com.successfactors.detailedreportcommon.app.</text>
       </register>
     </registers>
     <search>
