@@ -8,7 +8,7 @@
         <mark key="]" line="272" column="0" />
         <mark key="." line="272" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560149796223">
+      <file name="/Dummy.txt" timestamp="1560159143048">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
@@ -28,11 +28,14 @@
         <mark key="]" line="103" column="161" />
         <mark key="." line="103" column="161" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/idl-analyticssuitereporting/idl-analyticssuitereporting-service/src/main/java/com/successfactors/analytics/service/permission/impl/PermissionHelperImpl.java" timestamp="1559644124269">
+      <file name="$USER_HOME$/dev/workspace/trunk/idl-analyticssuitereporting/idl-analyticssuitereporting-service/src/main/java/com/successfactors/analytics/service/permission/impl/PermissionHelperImpl.java" timestamp="1560157861185">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
         <mark key="^" line="467" column="7" />
+      </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/idl-analyticssuitereporting/idl-analyticssuitereporting-api/src/main/java/com/successfactors/analytics/common/PermissionConstants.java" timestamp="1560159200433">
+        <mark key="[" line="10" column="4" />
       </file>
       <file name="/PermissionServiceImplTest.java" timestamp="1560155806633" />
       <file name="$USER_HOME$/dev/workspace/trunk/idl-analyticssuitereporting/idl-analyticssuitereporting-service/src/main/java/com/successfactors/analytics/service/permission/util/PermissionUtils.java" timestamp="1559644154997">
