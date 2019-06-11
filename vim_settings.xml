@@ -8,10 +8,10 @@
         <mark key="]" line="272" column="0" />
         <mark key="." line="272" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560159143048">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="19" />
-        <mark key="." line="2" column="19" />
+      <file name="/Dummy.txt" timestamp="1560163253035">
+        <mark key="[" line="2" column="35" />
+        <mark key="]" line="2" column="36" />
+        <mark key="." line="2" column="36" />
         <mark key="o" line="2" column="31" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/idl-analyticssuitereporting/idl-analyticssuitereporting-service/src/test/java/com/successfactors/analytics/service/permission/impl/PermissionHelperImplTest.java" timestamp="1559810106495">
