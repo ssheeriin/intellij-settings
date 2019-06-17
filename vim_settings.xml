@@ -17,6 +17,31 @@
       <file name="$USER_HOME$/dev/workspace/trunk/idl-analyticssuitereporting/idl-analyticssuitereporting-service/src/test/java/com/successfactors/analytics/service/permission/impl/PermissionHelperImplTest.java" timestamp="1559810106495">
         <mark key="[" line="108" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/idl-analyticssuitereporting/idl-analyticssuitereporting-service/src/main/java/com/successfactors/arb/service/rest/CalculationViewGenerationServiceV2.java" timestamp="1560762782834">
+        <mark key="[" line="597" column="12" />
+        <mark key="]" line="597" column="12" />
+        <mark key="." line="597" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/idl-analyticssuitereporting/idl-analyticssuitereporting-service/src/main/java/com/successfactors/analytics/service/permission/impl/PermissionServiceFacadeImpl.java" timestamp="1560764590130">
+        <mark key="[" line="106" column="12" />
+        <mark key="]" line="106" column="12" />
+        <mark key="." line="106" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/idl-analyticssuitereporting/idl-analyticssuitereporting-service/src/main/java/com/successfactors/analytics/service/permission/impl/PermissionServiceImpl.java" timestamp="1560764953697">
+        <mark key="[" line="136" column="65" />
+        <mark key="]" line="132" column="0" />
+        <mark key="." line="132" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/idl-analyticssuitereporting/idl-analyticssuitereporting-service/src/main/java/com/successfactors/analytics/service/permission/impl/PermissionHelperImpl.java" timestamp="1560761821172">
+        <mark key="'" line="440" column="65" />
+        <mark key="[" line="440" column="53" />
+        <mark key="]" line="440" column="52" />
+        <mark key="." line="440" column="52" />
+        <mark key="^" line="440" column="65" />
+      </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/idl-analyticssuitereporting/idl-analyticssuitereporting-api/src/main/java/com/successfactors/analytics/common/PermissionConstants.java" timestamp="1560232310989">
+        <mark key="[" line="10" column="4" />
+      </file>
       <file name="$USER_HOME$/dev/workspace/trunk/idl-analyticssuitereporting/idl-analyticssuitereporting-service/src/main/java/com/successfactors/analytics/service/permission/util/PermissionUtils.java" timestamp="1559644154997">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -28,15 +53,10 @@
         <mark key="^" line="280" column="43" />
         <mark key="." line="280" column="43" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/java/com/successfactors/detailedreportcommon/util/PermissionUtils.java" timestamp="1560761895065">
-        <mark key="[" line="50" column="47" />
+      <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/java/com/successfactors/detailedreportcommon/util/PermissionUtils.java" timestamp="1560764617701">
+        <mark key="[" line="89" column="44" />
         <mark key="]" line="43" column="8" />
         <mark key="." line="43" column="8" />
-      </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/idl-analyticssuitereporting/idl-analyticssuitereporting-service/src/main/java/com/successfactors/arb/service/rest/CalculationViewGenerationServiceV2.java" timestamp="1560393757987">
-        <mark key="[" line="597" column="12" />
-        <mark key="]" line="597" column="12" />
-        <mark key="." line="597" column="12" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/idl-analyticssuitereporting/idl-analyticssuitereporting-service/src/test/java/com/successfactors/analytics/service/permission/impl/CellPermissionHandlerTest.java" timestamp="1559810053821">
         <mark key="'" line="64" column="5" />
@@ -44,24 +64,11 @@
         <mark key="]" line="75" column="3" />
         <mark key="." line="75" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/idl-analyticssuitereporting/idl-analyticssuitereporting-service/src/main/java/com/successfactors/analytics/service/permission/impl/PermissionServiceFacadeImpl.java" timestamp="1560394513099">
-        <mark key="[" line="94" column="20" />
-      </file>
       <file name="$USER_HOME$/dev/workspace/trunk/idl-analyticssuitereporting/idl-analyticssuitereporting-service/src/main/java/com/successfactors/analytics/service/permission/impl/CellPermissionHandler.java" timestamp="1559807397414">
         <mark key="[" line="52" column="22" />
         <mark key="]" line="26" column="0" />
         <mark key="^" line="56" column="103" />
         <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/idl-analyticssuitereporting/idl-analyticssuitereporting-service/src/main/java/com/successfactors/analytics/service/permission/impl/PermissionHelperImpl.java" timestamp="1560761821172">
-        <mark key="'" line="440" column="65" />
-        <mark key="[" line="440" column="53" />
-        <mark key="]" line="440" column="52" />
-        <mark key="." line="440" column="52" />
-        <mark key="^" line="440" column="65" />
-      </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/idl-analyticssuitereporting/idl-analyticssuitereporting-api/src/main/java/com/successfactors/analytics/common/PermissionConstants.java" timestamp="1560232310989">
-        <mark key="[" line="10" column="4" />
       </file>
     </filemarks>
     <jumps>
@@ -74,23 +81,23 @@
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgU3RvcFdhdGNoIHRpbWVyID0gUGVybWlzc2lvblV0aWxzLmNyZWF0ZVRpbWVyU3RhcnRlZCgp</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">aWYgKHdhdGNoICE9IG51bGwpIHsKICAgICAgICAgICAgd2F0Y2guc3RvcCgpOwogICAgICAgICAgICBsb2dnZXIuaW5mbygiIyBUSU1FUiAjIDo6IEFQSSAtPiB7fSAsIFRpbWUgLT4ge30gbXMiLCBhcGlOYW1lLCB3YXRjaC5nZXRUaW1lKCkpOwogICAgICAgIH0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgU3RyaW5nIGxvZ2ljYWxPYmplY3QgPSByZXF1ZXN0UGFyc2VyLmdldExvZ2ljYWxPYmplY3QoKTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgU3RyaW5nIGxvZ2ljYWxPYmplY3QgPSByZXF1ZXN0UGFyc2VyLmdldExvZ2ljYWxPYmplY3QoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgT2JqZWN0RGVmaW5pdGlvbiBvYmplY3REZWYgPSBzY2FIYW5kbGVyLmV4ZWN1dGUobmV3IEdldE9iamVjdERlZmluaXRpb24obWRmT2JqVHlwZSkpOwo=</text>
+        <text encoding="base64">ICAgICAgU3RyaW5nIGxvZ2ljYWxNb2RlbCA9IGxvZ2ljYWxNb2RlbDsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbWRmZW51bSA9IGdldE1ERlBlcm1pc3Npb25FbnVtKHBlcm1pc3Npb25UeXBlRW51bSwgaW5wdXREYXRhQmVhbi5nZXRTdWJUeXBlKCkpOwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">IGxvZ2dlci5pbmZvKCJTcGVuZCB7fSBtaWxsaXNlY29uZHMgaW4gZ2V0UGVybWlzc2lvbkRldGFpbHNBc3luYygpIiwKICAgICAgICAgICAgICAgIChTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSAtIHN0YXJ0VGltZSkpOw==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgT2JqZWN0RGVmaW5pdGlvbiBvYmplY3REZWYgPSBzY2FIYW5kbGVyLmV4ZWN1dGUobmV3IEdldE9iamVjdERlZmluaXRpb24obWRmT2JqZWN0VHlwZSkpOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">IH0KICAgICAgICAgICAgbG9nZ2VyLmluZm8oIlNwZW5kIHt9IG1pbGxpc2Vjb25kcyBpbiBnZXRQZXJtaXNzaW9uRGV0YWlsc0FzeW5jKCkiLAogICAgICAgICAgICAgICAgKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpIC0gc3RhcnRUaW1lKSk7</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">cHVibGljIExpc3Q8UGVybWlzc2lvblJlc3BvbnNlPiBnZXRQZXJtaXNzaW9uRGV0YWlscyhMaXN0PFBlcm1pc3Npb25SZXF1ZXN0PiBwZXJtaXNzaW9uUmVxdWVzdHMsIFN0cmluZyBwZXJtaXNzaW9uVHlwZSkKICAgICAgdGhyb3dzIFBlcm1pc3Npb25TZXJ2aWNlRXhjZXB0aW9uIHsKICAgIAogICAgaWYgKHBlcm1pc3Npb25SZXF1ZXN0cyA9PSBudWxsIHx8IHBlcm1pc3Npb25UeXBlID09IG51bGwpIHsKICA=</text>
+        <text encoding="base64">aWYgKHdhdGNoICE9IG51bGwpIHsKICAgICAgICAgICAgd2F0Y2guc3RvcCgpOwogICAgICAgICAgICBsb2dnZXIuaW5mbygiIyBUSU1FUiAjIDo6IEFQSSAtPiB7fSAsIFRpbWUgLT4ge30gbXMiLCBhcGlOYW1lLCB3YXRjaC5nZXRUaW1lKCkpOwogICAgICAgIH0=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgT2JqZWN0RGVmaW5pdGlvbiBvYmplY3REZWYgPSBzY2FIYW5kbGVyLmV4ZWN1dGUobmV3IEdldE9iamVjdERlZmluaXRpb24obWRmT2JqVHlwZSkpOwo=</text>
@@ -101,11 +108,11 @@
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgT2JqZWN0RGVmaW5pdGlvbiBvYmplY3REZWYgPSBzY2FIYW5kbGVyLmV4ZWN1dGUobmV3IEdldE9iamVjdERlZmluaXRpb24obWRmT2JqZWN0VHlwZSkpOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgT2JqZWN0RGVmaW5pdGlvbiBvYmplY3REZWYgPSBzY2FIYW5kbGVyLmV4ZWN1dGUobmV3IEdldE9iamVjdERlZmluaXRpb24obWRmT2JqZWN0VHlwZSkpOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">cHVibGljIExpc3Q8UGVybWlzc2lvblJlc3BvbnNlPiBnZXRQZXJtaXNzaW9uRGV0YWlscyhMaXN0PFBlcm1pc3Npb25SZXF1ZXN0PiBwZXJtaXNzaW9uUmVxdWVzdHMsIFN0cmluZyBwZXJtaXNzaW9uVHlwZSkKICAgICAgdGhyb3dzIFBlcm1pc3Npb25TZXJ2aWNlRXhjZXB0aW9uIHsKICAgIAogICAgaWYgKHBlcm1pc3Npb25SZXF1ZXN0cyA9PSBudWxsIHx8IHBlcm1pc3Npb25UeXBlID09IG51bGwpIHsKICA=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>com.successfactors.detailedreportcommon.util.</text>
       </register>
     </registers>
     <search>
