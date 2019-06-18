@@ -17,6 +17,11 @@
         <mark key="." line="2" column="36" />
         <mark key="o" line="2" column="31" />
       </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/idl-analyticssuitereporting/idl-analyticssuitereporting-service/src/main/java/com/successfactors/analytics/service/permission/provider/PermissionMetaDataProviderFactory.java" timestamp="1560845551041">
+        <mark key="[" line="101" column="67" />
+        <mark key="]" line="101" column="67" />
+        <mark key="." line="101" column="67" />
+      </file>
       <file name="$USER_HOME$/dev/workspace/trunk/idl-analyticssuitereporting/idl-analyticssuitereporting-service/src/test/java/com/successfactors/analytics/service/permission/impl/PermissionHelperImplTest.java" timestamp="1559810106495">
         <mark key="[" line="108" column="0" />
       </file>
@@ -30,17 +35,20 @@
         <mark key="]" line="106" column="12" />
         <mark key="." line="106" column="12" />
       </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/java/com/successfactors/detailedreportcommon/app/ModulePermissionProviderFactory.java" timestamp="1560845233457">
+        <mark key="[" line="189" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/workspace/trunk/idl-analyticssuitereporting/idl-analyticssuitereporting-service/src/main/java/com/successfactors/analytics/service/permission/impl/PermissionServiceImpl.java" timestamp="1560765005202">
         <mark key="[" line="136" column="65" />
         <mark key="]" line="132" column="0" />
         <mark key="." line="132" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/idl-analyticssuitereporting/idl-analyticssuitereporting-service/src/main/java/com/successfactors/analytics/service/permission/impl/PermissionHelperImpl.java" timestamp="1560837204622">
-        <mark key="'" line="446" column="65" />
-        <mark key="[" line="184" column="0" />
-        <mark key="]" line="451" column="0" />
-        <mark key="." line="450" column="65" />
-        <mark key="^" line="447" column="18" />
+      <file name="$USER_HOME$/dev/workspace/trunk/idl-analyticssuitereporting/idl-analyticssuitereporting-service/src/main/java/com/successfactors/analytics/service/permission/impl/PermissionHelperImpl.java" timestamp="1560846004849">
+        <mark key="'" line="445" column="65" />
+        <mark key="[" line="509" column="85" />
+        <mark key="]" line="509" column="36" />
+        <mark key="." line="509" column="36" />
+        <mark key="^" line="446" column="18" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/idl-analyticssuitereporting/idl-analyticssuitereporting-api/src/main/java/com/successfactors/analytics/common/PermissionConstants.java" timestamp="1560232310989">
         <mark key="[" line="10" column="4" />
@@ -73,6 +81,11 @@
         <mark key="^" line="56" column="103" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/idl-analyticssuitereporting/idl-analyticssuitereporting-service/src/main/java/com/successfactors/analytics/service/permission/impl/RowPermissionHandler.java" timestamp="1560846489211">
+        <mark key="[" line="53" column="54" />
+        <mark key="]" line="53" column="54" />
+        <mark key="." line="53" column="54" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="150" column="59" filename="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/java/com/successfactors/detailedreportcommon/app/MDFPermissionProvider.java" />
@@ -84,40 +97,42 @@
       <register name="0" type="4">
         <text encoding="base64">aWYobG9nZ2VyLmlzRGVidWdFbmFibGVkKCkpIHsKICAgICAgICAgIGlmKGNlbGxEYXRhQ3JpdGVyaWEgPT1udWxsIHx8IGNlbGxEYXRhQ3JpdGVyaWEuaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZygiQ2VsbCBkYXRhIGNyaXRlcmlhIGlzIG51bGwgb3IgZW1wdHkiKTsKICAgICAgICAgIH0gZWxzZSB7CgogICAgICAgICAgICBjZWxsRGF0YUNyaXRlcmlhLmZvckVhY2goY2RjIC0+IHsKICAgICAgICAgICAgICBsb2dnZXIuZGVidWcoIlNRTDoge30iLCBjZGMuZ2V0U3FsKCkpOwogICAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZygiQmluZCBWYXJpYWJsZXM6IFt7fV0iLCBjZGMuZ2V0QmluZFZhcnMoKSk7CgogICAgICAgICAgICB9KTsKICAgICAgICAgIH0KICAgICAgfQ==</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">YmVhbiAtPiB7CiAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZyhQaWVybWlzc2lvblV0aWxzLmlucHV0RGF0YUJlYW5Bc1N0cmluZyhiZWFuKSk7</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>fo</text>
+      </register>
+      <register name="2" type="4">
+        <text>else {
+      PermissionUtils.logDebug(logger, &quot;Permission provider for SDS : {} is : {}&quot;, subDomainSchema.getSubDomainName(), permissionMetadataProvider.getClass().getName());
+    }</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgIGxvZ2dlci5kZWJ1ZygiQ2VsbCBkYXRhIGNyaXRlcmlhIGlzIG51bGwgb3IgZW1wdHkiKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxvZ2dlci5kZWJ1ZygiQ2VsbCBkYXRhIGNyaXRlcmlhIGlzIG51bGwgb3IgZW1wdHkiKTsK</text>
-      </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>: {}&quot;, bean.getSql());
 
           }</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJCaW5kIFZhcmlhYmxlczogW3t9XSIsIGJlYW4uZ2V0QmluZFZhcnMoKSk7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgU3RyaW5nIGxvZ2ljYWxPYmplY3QgPSByZXF1ZXN0UGFyc2VyLmdldExvZ2ljYWxPYmplY3QoKTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgU3RyaW5nIGxvZ2ljYWxNb2RlbCA9IGxvZ2ljYWxNb2RlbDsK</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">IGxvZ2dlci5pbmZvKCJTcGVuZCB7fSBtaWxsaXNlY29uZHMgaW4gZ2V0UGVybWlzc2lvbkRldGFpbHNBc3luYygpIiwKICAgICAgICAgICAgICAgIChTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSAtIHN0YXJ0VGltZSkpOw==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IH0KICAgICAgICAgICAgbG9nZ2VyLmluZm8oIlNwZW5kIHt9IG1pbGxpc2Vjb25kcyBpbiBnZXRQZXJtaXNzaW9uRGV0YWlsc0FzeW5jKCkiLAogICAgICAgICAgICAgICAgKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpIC0gc3RhcnRUaW1lKSk7</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">aWYgKHdhdGNoICE9IG51bGwpIHsKICAgICAgICAgICAgd2F0Y2guc3RvcCgpOwogICAgICAgICAgICBsb2dnZXIuaW5mbygiIyBUSU1FUiAjIDo6IEFQSSAtPiB7fSAsIFRpbWUgLT4ge30gbXMiLCBhcGlOYW1lLCB3YXRjaC5nZXRUaW1lKCkpOwogICAgICAgIH0=</text>
-      </register>
       <register name="-" type="4">
-        <text>cellDataCriteria</text>
+        <text>fo</text>
       </register>
     </registers>
     <search>
