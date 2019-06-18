@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/workspace/trunk/idl-analyticssuitereporting/idl-analyticssuitereporting-service/src/main/java/com/successfactors/analytics/service/permission/PermissionErrorCode.java" timestamp="1560765942054">
-        <mark key="[" line="10" column="18" />
+      <file name="$USER_HOME$/dev/workspace/trunk/idl-analyticssuitereporting/idl-analyticssuitereporting-service/src/main/java/com/successfactors/analytics/service/permission/PermissionErrorCode.java" timestamp="1560828129900">
+        <mark key="[" line="10" column="56" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/java/com/successfactors/detailedreportcommon/app/MDFPermissionProvider.java" timestamp="1560425327976">
-        <mark key="[" line="486" column="49" />
+      <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/java/com/successfactors/detailedreportcommon/app/MDFPermissionProvider.java" timestamp="1560828105231">
+        <mark key="[" line="498" column="74" />
         <mark key="]" line="486" column="49" />
         <mark key="." line="486" column="49" />
       </file>
@@ -35,12 +35,12 @@
         <mark key="]" line="132" column="0" />
         <mark key="." line="132" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/idl-analyticssuitereporting/idl-analyticssuitereporting-service/src/main/java/com/successfactors/analytics/service/permission/impl/PermissionHelperImpl.java" timestamp="1560767477830">
+      <file name="$USER_HOME$/dev/workspace/trunk/idl-analyticssuitereporting/idl-analyticssuitereporting-service/src/main/java/com/successfactors/analytics/service/permission/impl/PermissionHelperImpl.java" timestamp="1560828175317">
         <mark key="'" line="446" column="65" />
-        <mark key="[" line="470" column="48" />
-        <mark key="]" line="183" column="64" />
-        <mark key="." line="183" column="0" />
-        <mark key="^" line="446" column="65" />
+        <mark key="[" line="184" column="0" />
+        <mark key="]" line="451" column="0" />
+        <mark key="." line="450" column="65" />
+        <mark key="^" line="447" column="18" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/idl-analyticssuitereporting/idl-analyticssuitereporting-api/src/main/java/com/successfactors/analytics/common/PermissionConstants.java" timestamp="1560232310989">
         <mark key="[" line="10" column="4" />
@@ -57,7 +57,6 @@
         <mark key="." line="280" column="43" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/java/com/successfactors/detailedreportcommon/util/PermissionUtils.java" timestamp="1560767214032">
-        <mark key="[" line="114" column="118" />
         <mark key="]" line="106" column="60" />
         <mark key="." line="106" column="60" />
         <mark key="^" line="106" column="60" />
@@ -83,40 +82,42 @@
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgU3RvcFdhdGNoIHRpbWVyID0gUGVybWlzc2lvblV0aWxzLmNyZWF0ZVRpbWVyU3RhcnRlZCgp</text>
+        <text encoding="base64">aWYobG9nZ2VyLmlzRGVidWdFbmFibGVkKCkpIHsKICAgICAgICAgIGlmKGNlbGxEYXRhQ3JpdGVyaWEgPT1udWxsIHx8IGNlbGxEYXRhQ3JpdGVyaWEuaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZygiQ2VsbCBkYXRhIGNyaXRlcmlhIGlzIG51bGwgb3IgZW1wdHkiKTsKICAgICAgICAgIH0gZWxzZSB7CgogICAgICAgICAgICBjZWxsRGF0YUNyaXRlcmlhLmZvckVhY2goY2RjIC0+IHsKICAgICAgICAgICAgICBsb2dnZXIuZGVidWcoIlNRTDoge30iLCBjZGMuZ2V0U3FsKCkpOwogICAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZygiQmluZCBWYXJpYWJsZXM6IFt7fV0iLCBjZGMuZ2V0QmluZFZhcnMoKSk7CgogICAgICAgICAgICB9KTsKICAgICAgICAgIH0KICAgICAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgU3RyaW5nIGxvZ2ljYWxPYmplY3QgPSByZXF1ZXN0UGFyc2VyLmdldExvZ2ljYWxPYmplY3QoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGxvZ2dlci5kZWJ1ZygiQ2VsbCBkYXRhIGNyaXRlcmlhIGlzIG51bGwgb3IgZW1wdHkiKTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGxvZ2dlci5kZWJ1ZygiQ2VsbCBkYXRhIGNyaXRlcmlhIGlzIG51bGwgb3IgZW1wdHkiKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgU3RyaW5nIGxvZ2ljYWxNb2RlbCA9IGxvZ2ljYWxNb2RlbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IGxvZ2dlci5pbmZvKCJTcGVuZCB7fSBtaWxsaXNlY29uZHMgaW4gZ2V0UGVybWlzc2lvbkRldGFpbHNBc3luYygpIiwKICAgICAgICAgICAgICAgIChTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSAtIHN0YXJ0VGltZSkpOw==</text>
+        <text>: {}&quot;, bean.getSql());
+
+          }</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IH0KICAgICAgICAgICAgbG9nZ2VyLmluZm8oIlNwZW5kIHt9IG1pbGxpc2Vjb25kcyBpbiBnZXRQZXJtaXNzaW9uRGV0YWlsc0FzeW5jKCkiLAogICAgICAgICAgICAgICAgKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpIC0gc3RhcnRUaW1lKSk7</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJCaW5kIFZhcmlhYmxlczogW3t9XSIsIGJlYW4uZ2V0QmluZFZhcnMoKSk7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">aWYgKHdhdGNoICE9IG51bGwpIHsKICAgICAgICAgICAgd2F0Y2guc3RvcCgpOwogICAgICAgICAgICBsb2dnZXIuaW5mbygiIyBUSU1FUiAjIDo6IEFQSSAtPiB7fSAsIFRpbWUgLT4ge30gbXMiLCBhcGlOYW1lLCB3YXRjaC5nZXRUaW1lKCkpOwogICAgICAgIH0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgU3RyaW5nIGxvZ2ljYWxPYmplY3QgPSByZXF1ZXN0UGFyc2VyLmdldExvZ2ljYWxPYmplY3QoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgT2JqZWN0RGVmaW5pdGlvbiBvYmplY3REZWYgPSBzY2FIYW5kbGVyLmV4ZWN1dGUobmV3IEdldE9iamVjdERlZmluaXRpb24obWRmT2JqVHlwZSkpOwo=</text>
+        <text encoding="base64">ICAgICAgU3RyaW5nIGxvZ2ljYWxNb2RlbCA9IGxvZ2ljYWxNb2RlbDsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbWRmZW51bSA9IGdldE1ERlBlcm1pc3Npb25FbnVtKHBlcm1pc3Npb25UeXBlRW51bSwgaW5wdXREYXRhQmVhbi5nZXRTdWJUeXBlKCkpOwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">IGxvZ2dlci5pbmZvKCJTcGVuZCB7fSBtaWxsaXNlY29uZHMgaW4gZ2V0UGVybWlzc2lvbkRldGFpbHNBc3luYygpIiwKICAgICAgICAgICAgICAgIChTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSAtIHN0YXJ0VGltZSkpOw==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgT2JqZWN0RGVmaW5pdGlvbiBvYmplY3REZWYgPSBzY2FIYW5kbGVyLmV4ZWN1dGUobmV3IEdldE9iamVjdERlZmluaXRpb24obWRmT2JqZWN0VHlwZSkpOwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">IH0KICAgICAgICAgICAgbG9nZ2VyLmluZm8oIlNwZW5kIHt9IG1pbGxpc2Vjb25kcyBpbiBnZXRQZXJtaXNzaW9uRGV0YWlsc0FzeW5jKCkiLAogICAgICAgICAgICAgICAgKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpIC0gc3RhcnRUaW1lKSk7</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">cHVibGljIExpc3Q8UGVybWlzc2lvblJlc3BvbnNlPiBnZXRQZXJtaXNzaW9uRGV0YWlscyhMaXN0PFBlcm1pc3Npb25SZXF1ZXN0PiBwZXJtaXNzaW9uUmVxdWVzdHMsIFN0cmluZyBwZXJtaXNzaW9uVHlwZSkKICAgICAgdGhyb3dzIFBlcm1pc3Npb25TZXJ2aWNlRXhjZXB0aW9uIHsKICAgIAogICAgaWYgKHBlcm1pc3Npb25SZXF1ZXN0cyA9PSBudWxsIHx8IHBlcm1pc3Npb25UeXBlID09IG51bGwpIHsKICA=</text>
+        <text encoding="base64">aWYgKHdhdGNoICE9IG51bGwpIHsKICAgICAgICAgICAgd2F0Y2guc3RvcCgpOwogICAgICAgICAgICBsb2dnZXIuaW5mbygiIyBUSU1FUiAjIDo6IEFQSSAtPiB7fSAsIFRpbWUgLT4ge30gbXMiLCBhcGlOYW1lLCB3YXRjaC5nZXRUaW1lKCkpOwogICAgICAgIH0=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>cellDataCriteria</text>
       </register>
     </registers>
     <search>
