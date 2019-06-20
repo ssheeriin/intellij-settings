@@ -63,10 +63,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/my/kt/src/test.kt" timestamp="1561046409817">
-        <mark key="[" line="8" column="15" />
-        <mark key="]" line="8" column="15" />
-        <mark key="." line="8" column="15" />
+      <file name="$USER_HOME$/dev/workspace/my/kt/src/test.kt" timestamp="1561047651089">
+        <mark key="'" line="10" column="11" />
+        <mark key="[" line="10" column="9" />
+        <mark key="]" line="10" column="9" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="10" column="9" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/java/com/successfactors/detailedreportcommon/util/PermissionUtils.java" timestamp="1560767214032">
         <mark key="]" line="106" column="60" />
@@ -95,52 +97,51 @@
       <jump line="74" column="27" filename="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/java/com/successfactors/detailedreportcommon/app/MDFPermissionProvider.java" />
       <jump line="63" column="5" filename="$USER_HOME$/dev/workspace/trunk/idl-analyticssuitereporting/idl-analyticssuitereporting-service/src/test/java/com/successfactors/analytics/service/permission/impl/CellPermissionHandlerTest.java" />
       <jump line="440" column="65" filename="$USER_HOME$/dev/workspace/trunk/idl-analyticssuitereporting/idl-analyticssuitereporting-service/src/main/java/com/successfactors/analytics/service/permission/impl/PermissionHelperImpl.java" />
+      <jump line="8" column="11" filename="$USER_HOME$/dev/workspace/my/kt/src/test.kt" />
     </jumps>
     <registers>
       <register name="0" type="4">
         <text encoding="base64">aWYobG9nZ2VyLmlzRGVidWdFbmFibGVkKCkpIHsKICAgICAgICAgIGlmKGNlbGxEYXRhQ3JpdGVyaWEgPT1udWxsIHx8IGNlbGxEYXRhQ3JpdGVyaWEuaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZygiQ2VsbCBkYXRhIGNyaXRlcmlhIGlzIG51bGwgb3IgZW1wdHkiKTsKICAgICAgICAgIH0gZWxzZSB7CgogICAgICAgICAgICBjZWxsRGF0YUNyaXRlcmlhLmZvckVhY2goY2RjIC0+IHsKICAgICAgICAgICAgICBsb2dnZXIuZGVidWcoIlNRTDoge30iLCBjZGMuZ2V0U3FsKCkpOwogICAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZygiQmluZCBWYXJpYWJsZXM6IFt7fV0iLCBjZGMuZ2V0QmluZFZhcnMoKSk7CgogICAgICAgICAgICB9KTsKICAgICAgICAgIH0KICAgICAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFBhcmFtQmVhbiBwYXJhbXMgPSAoUGFyYW1CZWFuKSAgU2VhbUVudlV0aWxzLmdldEluc3RhbmNlKCJwYXJhbXMiLCBmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>MutableM</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpZihuKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIG1hcC5nZXRPckVsc2UobiwgKGspLT4gewo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGlmIChtYXAuZ2V0KG4pID09IG51bGwpIHsKICAgICAgICBpZiAobiA8IDIpIHJldHVybiBuCiAgICAgICAgbWFwLnB1IGZpYihuIC0gMSkgKyBmaWIobiAtIDIpCiAgICB9IGVsc2UgewogICAgICAgIHJldHVybiBtYXAuZ2V0KG4pCiAgICB9Cn0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIFBhcmFtQmVhbiBwYXJhbXMgPSAoUGFyYW1CZWFuKSAgU2VhbUVudlV0aWxzLmdldEluc3RhbmNlKCJwYXJhbXMiLCBmYWxzZSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIGxvZ2dlci5pbmZvKCJQZXJtaXNzaW9uIEtleSBkZXRhaWxzIGZvciB0YWJsZSBmdW5jdGlvbiA6IHt9IiwgcGVybWlzc2lvbkZ1bmN0aW9uRGV0YWlscy5nZXROYW1lKCkpOwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text encoding="base64">YmVhbiAtPiB7CiAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZyhQaWVybWlzc2lvblV0aWxzLmlucHV0RGF0YUJlYW5Bc1N0cmluZyhiZWFuKSk7</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text>else {
       PermissionUtils.logDebug(logger, &quot;Permission provider for SDS : {} is : {}&quot;, subDomainSchema.getSubDomainName(), permissionMetadataProvider.getClass().getName());
     }</text>
       </register>
-      <register name="5" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgIGxvZ2dlci5kZWJ1ZygiQ2VsbCBkYXRhIGNyaXRlcmlhIGlzIG51bGwgb3IgZW1wdHkiKTsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text>: {}&quot;, bean.getSql());
-
-          }</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCJCaW5kIFZhcmlhYmxlczogW3t9XSIsIGJlYW4uZ2V0QmluZFZhcnMoKSk7Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgU3RyaW5nIGxvZ2ljYWxPYmplY3QgPSByZXF1ZXN0UGFyc2VyLmdldExvZ2ljYWxPYmplY3QoKTsK</text>
-      </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>MutableM</text>
       </register>
     </registers>
     <search>
       <last-dir>0</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search />
