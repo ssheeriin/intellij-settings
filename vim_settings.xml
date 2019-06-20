@@ -3,10 +3,27 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dev/workspace/trunk/idl-analyticssuitereporting/idl-analyticssuitereporting-service/src/main/java/com/successfactors/analytics/service/permission/PermissionErrorCode.java" timestamp="1560828129900">
+        <mark key="[" line="10" column="56" />
+      </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/java/com/successfactors/detailedreportcommon/app/MDFPermissionProvider.java" timestamp="1560828105231">
         <mark key="[" line="498" column="74" />
         <mark key="]" line="486" column="49" />
         <mark key="." line="486" column="49" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1560916599644">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="36" />
+        <mark key="." line="2" column="36" />
+        <mark key="o" line="2" column="31" />
+      </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/idl-analyticssuitereporting/idl-analyticssuitereporting-service/src/main/java/com/successfactors/analytics/service/permission/provider/PermissionMetaDataProviderFactory.java" timestamp="1560845551041">
+        <mark key="[" line="101" column="67" />
+        <mark key="]" line="101" column="67" />
+        <mark key="." line="101" column="67" />
+      </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/idl-analyticssuitereporting/idl-analyticssuitereporting-service/src/test/java/com/successfactors/analytics/service/permission/impl/PermissionHelperImplTest.java" timestamp="1559810106495">
+        <mark key="[" line="108" column="0" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/idl-analyticssuitereporting/idl-analyticssuitereporting-service/src/main/java/com/successfactors/arb/service/rest/CalculationViewGenerationServiceV2.java" timestamp="1560762782834">
         <mark key="[" line="597" column="12" />
@@ -21,41 +38,10 @@
       <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/java/com/successfactors/detailedreportcommon/app/ModulePermissionProviderFactory.java" timestamp="1560845233457">
         <mark key="[" line="189" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.successfactors/au-genericobject-service/1.2.201906181046/1085f70e7bfb44873ed4fe02f7303bb4279b985f/au-genericobject-service-1.2.201906181046-sources.jar!/com/successfactors/genericobject/app/impl/MDFRBPFacadeImpl.java" timestamp="1561025637786" />
       <file name="$USER_HOME$/dev/workspace/trunk/idl-analyticssuitereporting/idl-analyticssuitereporting-service/src/main/java/com/successfactors/analytics/service/permission/impl/PermissionServiceImpl.java" timestamp="1560765005202">
         <mark key="[" line="136" column="65" />
         <mark key="]" line="132" column="0" />
         <mark key="." line="132" column="0" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.successfactors/au-genericobject-service/1.2.201906181046/1085f70e7bfb44873ed4fe02f7303bb4279b985f/au-genericobject-service-1.2.201906181046-sources.jar!/com/successfactors/genericobject/app/MDFRBPFacade.java" timestamp="1561025389895" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.successfactors/au-genericobject-service/1.2.201906181046/1085f70e7bfb44873ed4fe02f7303bb4279b985f/au-genericobject-service-1.2.201906181046-sources.jar!/com/successfactors/genericobject/rbp/filter/TcBasedObjectFilter.java" timestamp="1561025750294" />
-      <file name="$USER_HOME$/dev/workspace/trunk/idl-analyticssuitereporting/idl-analyticssuitereporting-service/src/main/java/com/successfactors/analytics/service/permission/impl/CellPermissionHandler.java" timestamp="1560849087561">
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="56" column="103" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/idl-analyticssuitereporting/idl-analyticssuitereporting-service/src/main/java/com/successfactors/analytics/service/permission/impl/RowPermissionHandler.java" timestamp="1561024071366">
-        <mark key="[" line="53" column="54" />
-        <mark key="]" line="131" column="0" />
-        <mark key="." line="131" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/idl-analyticssuitereporting/idl-analyticssuitereporting-service/src/main/java/com/successfactors/analytics/service/permission/PermissionErrorCode.java" timestamp="1560828129900">
-        <mark key="[" line="10" column="56" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1560916599644">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="36" />
-        <mark key="." line="2" column="36" />
-        <mark key="o" line="2" column="31" />
-      </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/idl-analyticssuitereporting/idl-analyticssuitereporting-service/src/main/java/com/successfactors/analytics/service/permission/provider/PermissionMetaDataProviderFactory.java" timestamp="1560845551041">
-        <mark key="[" line="101" column="67" />
-        <mark key="]" line="101" column="67" />
-        <mark key="." line="101" column="67" />
-      </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/java/com/successfactors/rbp/app/api/impl/RBPFacadeImpl.java" timestamp="1561025700087" />
-      <file name="$USER_HOME$/dev/workspace/trunk/idl-analyticssuitereporting/idl-analyticssuitereporting-service/src/test/java/com/successfactors/analytics/service/permission/impl/PermissionHelperImplTest.java" timestamp="1559810106495">
-        <mark key="[" line="108" column="0" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/idl-analyticssuitereporting/idl-analyticssuitereporting-service/src/main/java/com/successfactors/analytics/service/permission/impl/PermissionHelperImpl.java" timestamp="1560849100108">
         <mark key="'" line="452" column="65" />
@@ -77,11 +63,25 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.successfactors/au-genericobject-service/1.2.201906181046/1085f70e7bfb44873ed4fe02f7303bb4279b985f/au-genericobject-service-1.2.201906181046-sources.jar!/com/successfactors/genericobject/rbp/filter/TcBasedHelper.java" timestamp="1561024973942" />
+      <file name="$USER_HOME$/dev/workspace/my/kt/src/test.kt" timestamp="1561046409817">
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="15" />
+        <mark key="." line="8" column="15" />
+      </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/java/com/successfactors/detailedreportcommon/util/PermissionUtils.java" timestamp="1560767214032">
         <mark key="]" line="106" column="60" />
         <mark key="." line="106" column="60" />
         <mark key="^" line="106" column="60" />
+      </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/idl-analyticssuitereporting/idl-analyticssuitereporting-service/src/main/java/com/successfactors/analytics/service/permission/impl/CellPermissionHandler.java" timestamp="1560849087561">
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="56" column="103" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/idl-analyticssuitereporting/idl-analyticssuitereporting-service/src/main/java/com/successfactors/analytics/service/permission/impl/RowPermissionHandler.java" timestamp="1561024071366">
+        <mark key="[" line="53" column="54" />
+        <mark key="]" line="131" column="0" />
+        <mark key="." line="131" column="0" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/java/com/successfactors/detailedreportcommon/app/SCMPermissionProvider.java" timestamp="1561025303721">
         <mark key="[" line="465" column="58" />
@@ -103,8 +103,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgIFBhcmFtQmVhbiBwYXJhbXMgPSAoUGFyYW1CZWFuKSAgU2VhbUVudlV0aWxzLmdldEluc3RhbmNlKCJwYXJhbXMiLCBmYWxzZSk7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFBhcmFtQmVhbiBwYXJhbXMgPSAoUGFyYW1CZWFuKSAgU2VhbUVudlV0aWxzLmdldEluc3RhbmNlKCJwYXJhbXMiLCBmYWxzZSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgIGxvZ2dlci5pbmZvKCJQZXJtaXNzaW9uIEtleSBkZXRhaWxzIGZvciB0YWJsZSBmdW5jdGlvbiA6IHt9IiwgcGVybWlzc2lvbkZ1bmN0aW9uRGV0YWlscy5nZXROYW1lKCkpOwo=</text>
@@ -135,7 +135,7 @@
         <text encoding="base64">ICAgICAgU3RyaW5nIGxvZ2ljYWxPYmplY3QgPSByZXF1ZXN0UGFyc2VyLmdldExvZ2ljYWxPYmplY3QoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>e</text>
       </register>
     </registers>
     <search>
