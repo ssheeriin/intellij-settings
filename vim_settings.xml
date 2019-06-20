@@ -58,6 +58,9 @@
         <mark key="]" line="145" column="0" />
         <mark key="." line="144" column="35" />
       </file>
+      <file name="$USER_HOME$/dev/workspace/my/kt/.gitignore" timestamp="1561048713603">
+        <mark key="[" line="14" column="3" />
+      </file>
       <file name="$USER_HOME$/dev/workspace/trunk/idl-analyticssuitereporting/idl-analyticssuitereporting-service/src/main/java/com/successfactors/analytics/service/permission/util/PermissionUtils.java" timestamp="1559644154997">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -141,7 +144,7 @@
     </registers>
     <search>
       <last-dir>0</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search />
