@@ -4,15 +4,12 @@
     <property name="created">2019-06-20T22:20:31</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2019.1.3.0.0</property>
-    <property name="modified">2019-06-27T08:54:19</property>
+    <property name="modified">2019-08-28T15:29:46</property>
     <property name="originalScheme">gruvbox-theme</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Fira Code Retina" />
-  <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Fira Code Retina" />
   <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="79740e" />
     <option name="ANNOTATIONS_COLOR" value="928374" />
