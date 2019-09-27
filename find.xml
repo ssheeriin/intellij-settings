@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '.../au-V4/au-V4-service/src/main/java/com/successfactors/picklist/dao/impl/oracle/OracleMDFPicklistDAO.java [trunk.au-V4.au-V4-service.main]'" />
+    <option name="defaultScopeName" value="File '.../au-V4/au-V4-service/src/main/java/com/successfactors/picklist/dao/impl/oracle/OracleMDFPicklistDAO.java [trunk.au-V4.au-V4-service.main]'" />
+    <option name="SEARCH_SCOPE" value="File '.../au-V4/au-V4-service/src/main/java/com/successfactors/picklist/dao/impl/oracle/OracleMDFPicklistDAO.java [trunk.au-V4.au-V4-service.main]'" />
     <option name="FILE_MASK" value="*Test.java" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
