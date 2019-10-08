@@ -3,6 +3,7 @@
     <option name="excludedRules">
       <set>
         <option value="kotlin:S125" />
+        <option value="squid:UselessImportCheck" />
       </set>
     </option>
     <option name="sonarQubeServers">
