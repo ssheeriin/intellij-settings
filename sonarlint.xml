@@ -4,6 +4,7 @@
       <set>
         <option value="kotlin:S1186" />
         <option value="kotlin:S125" />
+        <option value="squid:S00100" />
         <option value="squid:UselessImportCheck" />
       </set>
     </option>
