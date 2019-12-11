@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern="git" type="PLAIN_TEXT" />
+      <mapping pattern="nogradleignore" type="PLAIN_TEXT" />
       <mapping ext="dwr" type="PLAIN_TEXT" />
       <mapping ext="txt]" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
