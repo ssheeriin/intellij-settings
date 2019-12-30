@@ -3,7 +3,7 @@
     <property name="created">2019-02-07T21:11:20</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.3.2.0.0</property>
-    <property name="modified">2019-12-30T15:13:49</property>
+    <property name="modified">2019-12-30T15:19:33</property>
     <property name="originalScheme">Horizon</property>
   </metaInfo>
   <colors>
@@ -200,7 +200,7 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="25b0bc" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
@@ -222,7 +222,8 @@
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="aaadb0" />
+        <option name="FOREGROUND" value="e5e8eb" />
+        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -246,7 +247,6 @@
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="e2929c" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
