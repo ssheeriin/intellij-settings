@@ -3,6 +3,7 @@
     <option name="excludedRules">
       <set>
         <option value="java:S1488" />
+        <option value="java:S3599" />
         <option value="kotlin:S1186" />
         <option value="kotlin:S125" />
         <option value="squid:S00100" />
