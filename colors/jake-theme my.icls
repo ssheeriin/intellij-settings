@@ -3,7 +3,7 @@
     <property name="created">2020-03-02T13:44:16</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2019.3.3.0.0</property>
-    <property name="modified">2020-03-02T13:47:44</property>
+    <property name="modified">2020-03-02T14:35:18</property>
     <property name="originalScheme">_@user_jake-theme</property>
   </metaInfo>
   <colors>
@@ -12,14 +12,31 @@
   </colors>
   <attributes>
     <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
+    <option name="DEFAULT_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="de883e" />
       </value>
     </option>
+    <option name="DEFAULT_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="DEFAULT_METADATA">
       <value>
         <option name="FOREGROUND" value="de3c64" />
+      </value>
+    </option>
+    <option name="DEFAULT_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="be9475" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
