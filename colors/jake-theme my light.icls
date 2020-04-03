@@ -3,22 +3,34 @@
     <property name="created">2020-04-01T15:18:40</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2019.3.3.0.0</property>
-    <property name="modified">2020-04-01T16:10:27</property>
+    <property name="modified">2020-04-03T10:11:50</property>
     <property name="originalScheme">jake-theme my</property>
   </metaInfo>
   <colors>
+    <option name="ADDED_LINES_COLOR" value="a2dca2" />
     <option name="CARET_ROW_COLOR" value="d6d6d6" />
     <option name="CONSOLE_BACKGROUND_KEY" value="0" />
+    <option name="DELETED_LINES_COLOR" value="9dabb7" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="7f7f7f" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
     <option name="GUTTER_BACKGROUND" value="f0f0f0" />
+    <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="a0d9a0" />
+    <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="aebdcb" />
+    <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="89abc5" />
     <option name="INDENT_GUIDE" value="d6d6d6" />
     <option name="LINE_NUMBERS_COLOR" value="62686e" />
+    <option name="MODIFIED_LINES_COLOR" value="7da2bb" />
     <option name="RECENT_LOCATIONS_SELECTION" value="a7a7a7" />
     <option name="RIGHT_MARGIN_COLOR" value="eaeaea" />
     <option name="SELECTED_INDENT_GUIDE" value="bababa" />
     <option name="TEARLINE_COLOR" value="bababa" />
+    <option name="VCS_ANNOTATIONS_COLOR_1" value="d3e6ca" />
+    <option name="VCS_ANNOTATIONS_COLOR_2" value="e0ddd9" />
+    <option name="VCS_ANNOTATIONS_COLOR_3" value="c6d0e2" />
+    <option name="VCS_ANNOTATIONS_COLOR_4" value="dccadc" />
+    <option name="VCS_ANNOTATIONS_COLOR_5" value="dda6a9" />
     <option name="VISUAL_INDENT_GUIDE" value="bababa" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="c5b591" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
