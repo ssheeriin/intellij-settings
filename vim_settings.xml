@@ -46,26 +46,40 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1586981250856">
-        <mark key="[" line="3" column="20" />
-        <mark key="]" line="3" column="21" />
-        <mark key="." line="3" column="21" />
-      </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-ui/src/main/java/com/successfactors/picklist/ui/controller/PicklistController.java" timestamp="1586994735500">
-        <mark key="[" line="279" column="25" />
-        <mark key="]" line="277" column="18" />
-        <mark key="^" line="277" column="18" />
-        <mark key="." line="277" column="17" />
-      </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/test/java/com/successfactors/picklist/service/impl/GetOptionIdByPickListIdAndExternalCodeImplTest.java" timestamp="1586977937233">
-        <mark key="[" line="11" column="60" />
-      </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/test/java/com/successfactors/picklist/service/impl/GetOptionIdAndNonUniqueExternalCodeByPicklistIdImplTest.java" timestamp="1586979170441">
         <mark key="[" line="38" column="68" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/java/com/successfactors/picklist/service/impl/PicklistServiceImpl.java" timestamp="1586990337469">
+      <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/resources/activity-role-map.xml" timestamp="1586980861913">
+        <mark key="[" line="926" column="103" />
+        <mark key="]" line="1322" column="62" />
+        <mark key="." line="1322" column="62" />
+        <mark key="^" line="1319" column="11" />
+      </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/test/java/com/successfactors/picklist/service/impl/PicklistServiceImplTest.java" timestamp="1587010847741">
+        <mark key="[" line="290" column="0" />
+        <mark key="]" line="290" column="0" />
+        <mark key="^" line="138" column="75" />
+        <mark key="." line="290" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/java/com/successfactors/picklist/service/impl/GetOptionIdAndNonUniqueExternalCodeByPicklistIdImpl.java" timestamp="1586978774944">
+        <mark key="[" line="31" column="28" />
+        <mark key="]" line="31" column="29" />
+        <mark key="." line="31" column="29" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1587010884776">
+        <mark key="[" line="3" column="2" />
+        <mark key="]" line="3" column="3" />
+        <mark key="." line="3" column="3" />
+      </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-ui/src/main/java/com/successfactors/picklist/ui/controller/PicklistController.java" timestamp="1586995797807">
+        <mark key="[" line="279" column="25" />
+        <mark key="]" line="277" column="18" />
+        <mark key="^" line="277" column="18" />
+        <mark key="." line="277" column="17" />
+      </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/java/com/successfactors/picklist/service/impl/PicklistServiceImpl.java" timestamp="1587010640677">
         <mark key="]" line="163" column="0" />
         <mark key="." line="163" column="0" />
       </file>
@@ -75,50 +89,28 @@
         <mark key="." line="13" column="93" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/resources/activity-feature-map.xml" timestamp="1586980877244">
-        <mark key="[" line="3157" column="58" />
-        <mark key="]" line="3157" column="58" />
-        <mark key="^" line="3142" column="7" />
-        <mark key="." line="3157" column="58" />
+        <mark key="[" line="3160" column="58" />
+        <mark key="]" line="3160" column="58" />
+        <mark key="^" line="3145" column="7" />
+        <mark key="." line="3160" column="58" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/java/com/successfactors/picklist/service/GetPicklistChildOptionsByParentOptionId.java" timestamp="1586978080000">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="7" column="3" />
-        <mark key="^" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/test/java/com/successfactors/picklist/service/impl/GetOptionIdListByPickListIdAndExternalCodesImplTest.java" timestamp="1586977804337">
-        <mark key="[" line="13" column="65" />
-        <mark key="]" line="18" column="2" />
-        <mark key="^" line="50" column="143" />
-        <mark key="." line="18" column="2" />
-      </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/resources/activity-role-map.xml" timestamp="1586980861913">
-        <mark key="[" line="925" column="103" />
-        <mark key="]" line="1321" column="62" />
-        <mark key="." line="1321" column="62" />
-        <mark key="^" line="1318" column="11" />
-      </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/java/com/successfactors/picklist/service/GetOptionIdAndNonUniqueExternalCodeByPicklistId.java" timestamp="1586978683559">
-        <mark key="[" line="9" column="59" />
+      <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/java/com/successfactors/picklist/service/GetOptionIdAndNonUniqueExternalCodeByPicklistId.java" timestamp="1587008377916">
+        <mark key="[" line="10" column="0" />
         <mark key="]" line="8" column="2" />
         <mark key="^" line="8" column="2" />
         <mark key="." line="8" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/test/java/com/successfactors/picklist/service/impl/GetPicklistOptValueByOptionIdsImplTest.java" timestamp="1586977970041">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/java/com/successfactors/picklist/service/impl/GetOptionIdAndNonUniqueExternalCodeByPicklistIdImpl.java" timestamp="1586978774944">
-        <mark key="[" line="31" column="28" />
-        <mark key="]" line="31" column="29" />
-        <mark key="." line="31" column="29" />
-      </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-ui/dependencies.gradle" timestamp="1586991015355">
         <mark key="[" line="355" column="121" />
       </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/java/com/successfactors/picklist/service/GetAllOptionsWithLabelsByPicklistIdAndLocale.java" timestamp="1587008347810">
+        <mark key="[" line="8" column="13" />
+      </file>
       <file name="/fragment.java" timestamp="1586978888932">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/java/com/successfactors/picklist/service/GetLabelAndOptionIdByPicklistId.java" timestamp="1587008358167">
+        <mark key="[" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/java/com/successfactors/picklist/service/impl/GetPicklistChildOptionsByParentOptionIdImpl.java" timestamp="1586980738366">
         <mark key="[" line="32" column="10" />
@@ -172,38 +164,38 @@
       <register name="0" type="2">
         <text encoding="base64">LyoqCiAqIExlZ2FjeSBwaWNrbGlzdDogZ2V0IG1hcChsYWJlbCwgb3B0aW9uIGlkKSBieSBwYXJlbnQgb3B0aW9uIGlkCiAqLwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ID0gImVuXyI7CiAgICAgIE1hcDxMb25nLCBTdHJpbmc+IHIyID0gcGlja2xpc3RTZXJ2aWNlLmdldEFsbE9wdGlvbnNXaXRoTGFiZWxzQnlQ</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICB9Cn0=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>SCA permission changes</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IGNoYW5nZWQgYWxsIGRhbyBjYWxscyB0byBTQ0EgY2FsbHMKMikgQWRkZWQgbmV3IFNDQSBjbGFzc2VzIGZvciB0aG9zZSBtaXNzaW5nIG9uZXM=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgQXNzZXJ0LmZhaWwoIlVuZXhwZWN0ZWQgZXhjZXB0aW9uIiwgZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKFNlcnZpY2VBcHBsaWNhdGlvbkV4Y2VwdGlvbiBlKSB7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">IEBUZXN0KGdyb3VwcyA9IHsiY2hlY2tpbiJ9KQogIHB1YmxpYyB2b2lkIHRlc3RHZXRPcHRpb25JREV4dGVybmFsQ29kZU1hcEJ5UGlja2xpc3RJRCgpIHRocm93cyBTZXJ2aWNlQXBwbGljYXRpb25FeGNlcHRpb24gewogICAgbmV3IEV4cGVjdGF0aW9ucygpIHt7CiAgICAgIHNjYUhhbmRsZXIuZXhlY3V0ZSh3aXRoSW5zdGFuY2VPZihHZXRPcHRpb25JZEFuZE5vblVuaXF1ZUV4dGVybmFsQ29kZUJ5UGlja2xpc3RJZC5jbGFzcykpOwogICAgICB0aW1lcyA9IDE7CiAgICAgIHJlc3VsdCA9IENvbGxlY3Rpb25zLmVtcHR5TWFwKCk7CiAgICB9fTsKICAgIE1hcDxMb25nLCBTdHJpbmc+IHJlc3VsdCA9IGltcGwuZ2V0T3B0aW9uSURFeHRlcm5hbENvZGVNYXBCeVBpY2tsaXN0SUQoIiIsIHRydWUpOwoKICAgIGFzc2VydE5vdE51bGwocmVzdWx0KTsKICAgIGFzc2VydFRydWUocmVzdWx0LmlzRW1wdHkoKSk7CiAgfQoKICBAVGVzdChncm91cHMgPSB7ImNoZWNraW4ifSwgZXhwZWN0ZWRFeGNlcHRpb25zID0gU2VydmljZUFwcGxpY2F0aW9uRXhjZXB0aW9uLmNsYXNzKQogIHB1YmxpYyB2b2lkIHRlc3RHZXRPcHRpb25JREV4dGVybmFsQ29kZU1hcEJ5UGlja2xpc3RJRF9zY2FFeGNlcHRpb24oKSB0aHJvd3MgU2VydmljZUFwcGxpY2F0aW9uRXhjZXB0aW9uIHsKICAgIG5ldyBFeHBlY3RhdGlvbnMoKSB7ewogICAgICBzY2FIYW5kbGVyLmV4ZWN1dGUod2l0aEluc3RhbmNlT2YoR2V0T3B0aW9uSWRBbmROb25VbmlxdWVFeHRlcm5hbENvZGVCeVBpY2tsaXN0SWQuY2xhc3MpKTsKICAgICAgdGltZXMgPSAxOwogICAgICByZXN1bHQgPSBuZXcgU2VydmljZUFwcGxpY2F0aW9uRXhjZXB0aW9uKCk7CiAgICB9fTsKICAgIGltcGwuZ2V0T3B0aW9uSURFeHRlcm5hbENvZGVNYXBCeVBpY2tsaXN0SUQoIiIsIHRydWUpOzsKICB9</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgQXNzZXJ0LmFzc2VydE5vdE51bGwocmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgIGFzc2VydE5vdE51bGwocmVzdWx0KTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ID0gImVuXyI7CiAgICAgIE1hcDxMb25nLCBTdHJpbmc+IHIyID0gcGlja2xpc3RTZXJ2aWNlLmdldEFsbE9wdGlvbnNXaXRoTGFiZWxzQnlQ</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmVzdWx0ID0gImVuX1VTIjsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">IGNoYW5nZWQgYWxsIGRhbyBjYWxscyB0byBTQ0EgY2FsbHMKMikgQWRkZWQgbmV3IFNDQSBjbGFzc2VzIGZvciB0aG9zZSBtaXNzaW5nIG9uZXM=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY21kLgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>SCA permission changes</text>
       </register>
     </registers>
   </component>
