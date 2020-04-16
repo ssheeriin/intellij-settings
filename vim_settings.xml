@@ -77,12 +77,6 @@
         <mark key="]" line="69" column="13" />
         <mark key="." line="69" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/resources/activity-feature-map.xml" timestamp="1586980877244">
-        <mark key="[" line="3160" column="58" />
-        <mark key="]" line="3160" column="58" />
-        <mark key="^" line="3145" column="7" />
-        <mark key="." line="3160" column="58" />
-      </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/java/com/successfactors/picklist/service/GetOptionIdAndNonUniqueExternalCodeByPicklistId.java" timestamp="1587008377916">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="8" column="2" />
@@ -100,6 +94,7 @@
         <mark key="^" line="138" column="75" />
         <mark key="." line="290" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/java/com/successfactors/smartsuite/service/impl/MigratePicklistAndLabelTableDataImpl.java" timestamp="1587074399747" />
       <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/java/com/successfactors/picklist/service/impl/GetOptionIdAndNonUniqueExternalCodeByPicklistIdImpl.java" timestamp="1587066429475">
         <mark key="[" line="17" column="2" />
         <mark key="]" line="33" column="29" />
