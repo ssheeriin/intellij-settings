@@ -99,8 +99,11 @@
         <mark key="]" line="33" column="29" />
         <mark key="." line="33" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/picklist/service/Test.java" timestamp="1587162699303">
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/picklist/service/Test.java" timestamp="1587163924593">
         <mark key="[" line="2" column="16" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="9" column="1" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/java/com/successfactors/picklist/service/GetAllOptionsWithLabelsByPicklistIdAndLocale.java" timestamp="1587066327128">
         <mark key="[" line="5" column="0" />
