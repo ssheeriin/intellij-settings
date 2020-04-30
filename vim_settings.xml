@@ -63,6 +63,7 @@
         <mark key="^" line="27" column="27" />
         <mark key="." line="13" column="21" />
       </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/idl-analytics-core/idl-analytics-core-service/dependencies.gradle" timestamp="1588271717863" />
       <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/java/com/successfactors/picklist/service/impl/ExportPicklistsInChunkImpl.java" timestamp="1588110302539">
         <mark key="[" line="46" column="57" />
         <mark key="]" line="46" column="56" />
