@@ -48,7 +48,6 @@
     <filemarks>
       <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/java/com/successfactors/picklist/service/impl/GetPickListV2Impl.java" timestamp="1588177392425" />
       <file name="$USER_HOME$/dev/workspace/trunk/idl-cofoundation/idl-cofoundation-service/ivy.xml" timestamp="1588305376538" />
-      <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/java/com/successfactors/smartsuite/service/impl/AddingPicklistLabelIdMappingImpl.java" timestamp="1588045555414" />
       <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/java/com/successfactors/picklist/service/GetPicklistFilteredByValue.java" timestamp="1588184564418" />
       <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/java/com/successfactors/picklist/service/GetPickListV1.java" timestamp="1588176609260" />
       <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/java/com/successfactors/picklist/service/impl/GetPicklistImpl.java" timestamp="1588046652736" />
@@ -68,6 +67,11 @@
         <mark key="[" line="46" column="57" />
         <mark key="]" line="46" column="56" />
         <mark key="." line="46" column="45" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1588355567408">
+        <mark key="[" line="3" column="2" />
+        <mark key="]" line="3" column="3" />
+        <mark key="." line="3" column="3" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/java/com/successfactors/picklist/dao/impl/oracle/MDFPicklistDAO.java" timestamp="1588187277475" />
       <file name="$USER_HOME$/dev/workspace/trunk/au-businessconfig/au-businessconfig-ui/ivy.xml" timestamp="1588305452654" />
@@ -134,7 +138,7 @@
         <text encoding="base64">ICAgICAgbG9nLndhcm4oInI1IC0+IHt9IFxuIHI2IC0+IHt9IFxuIHI3IC0+IFtdIFxuIHI4IC0+IHt9IFxuIiwgcjUsIHI2LCByNywgcjgpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>it.split(&quot;/&quot;).get(1);</text>
+        <text>fix sca issue, formatting</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgcGlja2xpc3RTZXJ2aWNlLgo=</text>
@@ -161,7 +165,7 @@
         <text encoding="base64">IEBUZXN0KGdyb3VwcyA9IHsiY2hlY2tpbiJ9KQogIHB1YmxpYyB2b2lkIHRlc3RHZXRPcHRpb25JREV4dGVybmFsQ29kZU1hcEJ5UGlja2xpc3RJRCgpIHRocm93cyBTZXJ2aWNlQXBwbGljYXRpb25FeGNlcHRpb24gewogICAgbmV3IEV4cGVjdGF0aW9ucygpIHt7CiAgICAgIHNjYUhhbmRsZXIuZXhlY3V0ZSh3aXRoSW5zdGFuY2VPZihHZXRPcHRpb25JZEFuZE5vblVuaXF1ZUV4dGVybmFsQ29kZUJ5UGlja2xpc3RJZC5jbGFzcykpOwogICAgICB0aW1lcyA9IDE7CiAgICAgIHJlc3VsdCA9IENvbGxlY3Rpb25zLmVtcHR5TWFwKCk7CiAgICB9fTsKICAgIE1hcDxMb25nLCBTdHJpbmc+IHJlc3VsdCA9IGltcGwuZ2V0T3B0aW9uSURFeHRlcm5hbENvZGVNYXBCeVBpY2tsaXN0SUQoIiIsIHRydWUpOwoKICAgIGFzc2VydE5vdE51bGwocmVzdWx0KTsKICAgIGFzc2VydFRydWUocmVzdWx0LmlzRW1wdHkoKSk7CiAgfQoKICBAVGVzdChncm91cHMgPSB7ImNoZWNraW4ifSwgZXhwZWN0ZWRFeGNlcHRpb25zID0gU2VydmljZUFwcGxpY2F0aW9uRXhjZXB0aW9uLmNsYXNzKQogIHB1YmxpYyB2b2lkIHRlc3RHZXRPcHRpb25JREV4dGVybmFsQ29kZU1hcEJ5UGlja2xpc3RJRF9zY2FFeGNlcHRpb24oKSB0aHJvd3MgU2VydmljZUFwcGxpY2F0aW9uRXhjZXB0aW9uIHsKICAgIG5ldyBFeHBlY3RhdGlvbnMoKSB7ewogICAgICBzY2FIYW5kbGVyLmV4ZWN1dGUod2l0aEluc3RhbmNlT2YoR2V0T3B0aW9uSWRBbmROb25VbmlxdWVFeHRlcm5hbENvZGVCeVBpY2tsaXN0SWQuY2xhc3MpKTsKICAgICAgdGltZXMgPSAxOwogICAgICByZXN1bHQgPSBuZXcgU2VydmljZUFwcGxpY2F0aW9uRXhjZXB0aW9uKCk7CiAgICB9fTsKICAgIGltcGwuZ2V0T3B0aW9uSURFeHRlcm5hbENvZGVNYXBCeVBpY2tsaXN0SUQoIiIsIHRydWUpOzsKICB9</text>
       </register>
       <register name="-" type="4">
-        <text>it.split(&quot;/&quot;).get(1);</text>
+        <text>fix sca issue, formatting</text>
       </register>
     </registers>
   </component>
