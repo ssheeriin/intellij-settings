@@ -56,11 +56,11 @@
         <mark key="]" line="49" column="39" />
         <mark key="." line="49" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/my/myKt/src/main/kotlin/dev/sherin/scrap/scrap.kt" timestamp="1588186348862">
-        <mark key="[" line="16" column="28" />
-        <mark key="]" line="13" column="21" />
-        <mark key="^" line="27" column="27" />
-        <mark key="." line="13" column="21" />
+      <file name="$USER_HOME$/dev/workspace/my/myKt/src/main/kotlin/dev/sherin/scrap/scrap.kt" timestamp="1588364066537">
+        <mark key="p" line="6" column="78" />
+        <mark key="[" line="26" column="36" />
+        <mark key="]" line="22" column="16" />
+        <mark key="." line="22" column="16" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/idl-analytics-core/idl-analytics-core-service/dependencies.gradle" timestamp="1588277942698" />
       <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/java/com/successfactors/picklist/service/impl/ExportPicklistsInChunkImpl.java" timestamp="1588110302539">
@@ -134,38 +134,44 @@
       <register name="0" type="2">
         <text encoding="base64">LyoqCiAqIExlZ2FjeSBwaWNrbGlzdDogZ2V0IG1hcChsYWJlbCwgb3B0aW9uIGlkKSBieSBwYXJlbnQgb3B0aW9uIGlkCiAqLwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgbG9nLndhcm4oInI1IC0+IHt9IFxuIHI2IC0+IHt9IFxuIHI3IC0+IFtdIFxuIHI4IC0+IHt9IFxuIiwgcjUsIHI2LCByNywgcjgpOwo=</text>
+      <register name="1" type="4">
+        <text>if(!audited) {
+                    writer.write(folder)
+                    writer.write(&quot;\n&quot;)
+                }</text>
       </register>
       <register name="&quot;" type="4">
-        <text>fix sca issue, formatting</text>
+        <text>if(!audited) {
+                    writer.write(folder)
+                    writer.write(&quot;\n&quot;)
+                }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcGlja2xpc3RTZXJ2aWNlLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text>2) fix sonar issues</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cn0=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDsK</text>
+        <text encoding="base64">ICAgICAgICB2YXIgY29tcG9uZW50ID0gIiIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgbW9kdWxlID0gIiIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbG9nLndhcm4oInI1IC0+IHt9IFxuIHI2IC0+IHt9IFxuIHI3IC0+IFtdIFxuIHI4IC0+IHt9IFxuIiwgcjUsIHI2LCByNywgcjgpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IEBUZXN0KGdyb3VwcyA9IHsiY2hlY2tpbiJ9KQogIHB1YmxpYyB2b2lkIHRlc3RHZXRPcHRpb25JREV4dGVybmFsQ29kZU1hcEJ5UGlja2xpc3RJRCgpIHRocm93cyBTZXJ2aWNlQXBwbGljYXRpb25FeGNlcHRpb24gewogICAgbmV3IEV4cGVjdGF0aW9ucygpIHt7CiAgICAgIHNjYUhhbmRsZXIuZXhlY3V0ZSh3aXRoSW5zdGFuY2VPZihHZXRPcHRpb25JZEFuZE5vblVuaXF1ZUV4dGVybmFsQ29kZUJ5UGlja2xpc3RJZC5jbGFzcykpOwogICAgICB0aW1lcyA9IDE7CiAgICAgIHJlc3VsdCA9IENvbGxlY3Rpb25zLmVtcHR5TWFwKCk7CiAgICB9fTsKICAgIE1hcDxMb25nLCBTdHJpbmc+IHJlc3VsdCA9IGltcGwuZ2V0T3B0aW9uSURFeHRlcm5hbENvZGVNYXBCeVBpY2tsaXN0SUQoIiIsIHRydWUpOwoKICAgIGFzc2VydE5vdE51bGwocmVzdWx0KTsKICAgIGFzc2VydFRydWUocmVzdWx0LmlzRW1wdHkoKSk7CiAgfQoKICBAVGVzdChncm91cHMgPSB7ImNoZWNraW4ifSwgZXhwZWN0ZWRFeGNlcHRpb25zID0gU2VydmljZUFwcGxpY2F0aW9uRXhjZXB0aW9uLmNsYXNzKQogIHB1YmxpYyB2b2lkIHRlc3RHZXRPcHRpb25JREV4dGVybmFsQ29kZU1hcEJ5UGlja2xpc3RJRF9zY2FFeGNlcHRpb24oKSB0aHJvd3MgU2VydmljZUFwcGxpY2F0aW9uRXhjZXB0aW9uIHsKICAgIG5ldyBFeHBlY3RhdGlvbnMoKSB7ewogICAgICBzY2FIYW5kbGVyLmV4ZWN1dGUod2l0aEluc3RhbmNlT2YoR2V0T3B0aW9uSWRBbmROb25VbmlxdWVFeHRlcm5hbENvZGVCeVBpY2tsaXN0SWQuY2xhc3MpKTsKICAgICAgdGltZXMgPSAxOwogICAgICByZXN1bHQgPSBuZXcgU2VydmljZUFwcGxpY2F0aW9uRXhjZXB0aW9uKCk7CiAgICB9fTsKICAgIGltcGwuZ2V0T3B0aW9uSURFeHRlcm5hbENvZGVNYXBCeVBpY2tsaXN0SUQoIiIsIHRydWUpOzsKICB9</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgcGlja2xpc3RTZXJ2aWNlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>fix sca issue, formatting</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
   </component>
