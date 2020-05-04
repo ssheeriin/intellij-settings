@@ -14,8 +14,13 @@
       <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/dependencies.gradle" timestamp="1588626277953">
         <mark key="[" line="552" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/dependencies.gradle" timestamp="1588626248594">
-        <mark key="[" line="147" column="10" />
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-api/dependencies.gradle" timestamp="1588627136931">
+        <mark key="[" line="39" column="114" />
+      </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/dependencies.gradle" timestamp="1588627401493">
+        <mark key="[" line="150" column="2" />
+        <mark key="]" line="148" column="95" />
+        <mark key="." line="148" column="95" />
       </file>
       <file name="/" timestamp="1588625221645">
         <mark key="[" line="0" column="0" />
@@ -24,7 +29,14 @@
     <jumps />
   </component>
   <component name="VimRegisterSettings">
-    <registers />
+    <registers>
+      <register name="&quot;" type="4">
+        <text>idl</text>
+      </register>
+      <register name="-" type="4">
+        <text>idl</text>
+      </register>
+    </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
