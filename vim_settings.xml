@@ -75,6 +75,7 @@
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/java/com/successfactors/picklist/dao/impl/oracle/MDFPicklistDAO.java" timestamp="1588187277475" />
       <file name="$USER_HOME$/dev/workspace/trunk/au-businessconfig/au-businessconfig-ui/ivy.xml" timestamp="1588305452654" />
+      <file name="$USER_HOME$/dev/workspace/trunk/au-businessconfig/au-businessconfig-service/dependencies.gradle" timestamp="1588364440267" />
       <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/test/java/com/successfactors/smartsuite/service/impl/MigratePicklistAndLabelTableDataImplTest.java" timestamp="1588110466711" />
       <file name="$USER_HOME$/dev/workspace/trunk/au-workflow/au-workflow-service/dependencies.gradle" timestamp="1588283794729">
         <mark key="[" line="558" column="14" />
