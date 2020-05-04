@@ -1,5 +1,0 @@
-<application>
-  <component name="ExternalResourceManagerImpl">
-    <resource url="http://www.thymeleaf.org" location="$USER_HOME$/Downloads/xhtml11-thymeleaf-2.dtd" />
-  </component>
-</application>
