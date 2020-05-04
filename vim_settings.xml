@@ -17,10 +17,15 @@
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-api/dependencies.gradle" timestamp="1588627136931">
         <mark key="[" line="39" column="114" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/dependencies.gradle" timestamp="1588627401493">
-        <mark key="[" line="150" column="2" />
-        <mark key="]" line="148" column="95" />
-        <mark key="." line="148" column="95" />
+      <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-ui/dependencies.gradle" timestamp="1588628408233">
+        <mark key="[" line="465" column="118" />
+        <mark key="]" line="387" column="0" />
+        <mark key="." line="387" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/dependencies.gradle" timestamp="1588628270521">
+        <mark key="[" line="156" column="122" />
+        <mark key="]" line="215" column="0" />
+        <mark key="." line="215" column="0" />
       </file>
       <file name="/" timestamp="1588625221645">
         <mark key="[" line="0" column="0" />
@@ -30,11 +35,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>idl</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBjb21waWxlKGdyb3VwOiAnY29tLnN1Y2Nlc3NmYWN0b3JzJywgbmFtZTogJ2F1LVY0LXNlcnZpY2UnLCB2ZXJzaW9uOiAnJHtjb20uc3VjY2Vzc2ZhY3RvcnMuYXUtVjQudmVyc2lvbn0nKQo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb21waWxlKGdyb3VwOiAnY29tLnN1Y2Nlc3NmYWN0b3JzJywgbmFtZTogJ2F1LVY0LXNlcnZpY2UnLCB2ZXJzaW9uOiAnJHtjb20uc3VjY2Vzc2ZhY3RvcnMuYXUtVjQudmVyc2lvbn0nKQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text>idl</text>
+        <text>service</text>
       </register>
     </registers>
   </component>
