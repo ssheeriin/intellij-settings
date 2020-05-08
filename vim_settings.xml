@@ -11,22 +11,22 @@
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/test/java/com/successfactors/smartsuite/util/PicklistMigrationUtilsTest.java" timestamp="1588872642025">
         <mark key="[" line="243" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588956077543">
+      <file name="/Dummy.txt" timestamp="1588961485965">
         <mark key="e" line="0" column="0" />
         <mark key="i" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="3" column="2" />
+        <mark key="]" line="3" column="2" />
+        <mark key="." line="3" column="2" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-ui/dependencies.gradle" timestamp="1588956312601">
         <mark key="[" line="48" column="54" />
         <mark key="]" line="48" column="54" />
         <mark key="." line="48" column="54" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/test/java/com/successfactors/picklist/service/impl/PicklistServiceImplTest.java" timestamp="1588871266759">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/test/java/com/successfactors/picklist/service/impl/PicklistServiceImplTest.java" timestamp="1588961460530">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-ui/src/main/java/com/successfactors/picklist/ui/fb/FBAdminPicklistImport.java" timestamp="1588956299334" />
       <file name="$USER_HOME$/dev/workspace/trunk/au-ise/au-ise-web/src/main/webapp/ui/ise/js/util/WorkflowEditor.js" timestamp="1588805681922">
@@ -57,11 +57,6 @@
       <file name="$USER_HOME$/dev/workspace/trunk/au-ise/au-ise-web/src/main/webapp/ui/ise/js/controller/RuleComponentController.js" timestamp="1588805646628">
         <mark key="[" line="10" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-peopleprofile/au-peopleprofile-web/src/main/webapp/ui/peopleprofile/js/actionSearchPopup.js" timestamp="1588804440951">
-        <mark key="[" line="750" column="158" />
-        <mark key="]" line="750" column="158" />
-        <mark key="." line="750" column="158" />
-      </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-peopleprofile/au-peopleprofile-web/ivy.xml" timestamp="1588804480436">
         <mark key="[" line="34" column="144" />
         <mark key="]" line="34" column="145" />
@@ -70,9 +65,9 @@
       <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-ui/dependencies.gradle" timestamp="1588895466863">
         <mark key="[" line="555" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/dependencies.gradle" timestamp="1588888848901">
-        <mark key="]" line="260" column="0" />
-        <mark key="." line="260" column="0" />
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/dependencies.gradle" timestamp="1588961940815">
+        <mark key="]" line="261" column="0" />
+        <mark key="." line="261" column="0" />
       </file>
     </filemarks>
     <jumps />
@@ -83,34 +78,38 @@
         <text encoding="base64">aW1wb3J0IGVkdS5lbW9yeS5tYXRoY3MuYmFja3BvcnQuamF2YS51dGlsLkNvbGxlY3Rpb25zOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>api</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">SklSQTogQUZULTE3ODMwCkRlc2NyaXB0aW9uOiBQaWNrbGlzdCBtb2R1bGFyaXphdGlvbiAtIHJlZmFjdG9yIGNvZGUgYW5kIHVwZGF0ZSByZWZlcmVuY2VzCkNoYW5nZXM6IAoxKSBtb3ZlIHBpY2tsaXN0IGFuZCBzbWFydHN1aXRlIHBhY2thZ2VzIHRvIGF1LXBpY2tsaXN0CjIpIHVwZGF0ZWQgZGVwZW5kZW5jeSBmaWxlcyBmb3IgYXUtdjQsIGF1LXBpY2tsaXN0IGFuZCBidWlsZC1zeXN0ZW0KMykgdXBkYXRlIFVJIGNvbnRyb2xsZXIgY2hhbmdlcyBpbiBtb2R1bGVzIAo0KSB1cGRhdGVkIGRlcGVuZGVuY3kgZmlsZSBmb3IgbW9kdWxlcyBmb3IgdWkgY29udHJvbGxlcnMKNSkgdXBkYXRlIGtub3duIGN5Y2xpYyBkZXBlbmRlbmN5IGJldHdlZW4gYXUtdjQgYW5kIGF1LXBpY2tsaXN0IAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">bW92ZSBwaWNrbGlzdCBhbmQgc21hcnRzdWl0ZSBwYWNrYWdlcyB0byBhdS1waWNrbGlzdAoyKSB1cGRhdGVkIGRlcGVuZGVuY3kgZmlsZXMgZm9yIGF1LXY0LCBhdS1waWNrbGlzdCBhbmQgYnVpbGQtc3lzdGVtCjMpIHVwZGF0ZSBVSSBjb250cm9sbGVyIGNoYW5nZXMgaW4gbW9kdWxlcyAKNCkgdXBkYXRlZCBkZXBlbmRlbmN5IGZpbGUgZm9yIG1vZHVsZXMgZm9yIHVpIGNvbnRyb2xsZXJzCg==</text>
       </register>
       <register name="3" type="2">
-        <text>v4_deps</text>
+        <text>5) update known cyclic dependency between au-v4 and au-picklist</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPHN0cmluZz5jb20uc3VjY2Vzc2ZhY3RvcnMucGlja2xpc3QudWkuY29udHJvbGxlci5QaWNrbGlzdENvbnRyb2xsZXI8L3N0cmluZz4K</text>
+      <register name="4" type="4">
+        <text>move picklist and smartsuite packages to au-picklist
+2) updated dependency files for au-v4, au-picklist and build-system
+3) update UI controller changes in modules 
+4) updated dependency file for modules for ui controllers
+5) update known cyclic dependency between au-v4 and au-picklist</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPHN0cmluZz5jb20uc3VjY2Vzc2ZhY3RvcnMucGlja2xpc3QudWkuY29udHJvbGxlci5QaWNrbGlzdENvbnRyb2xsZXI8L3N0cmluZz4K</text>
+        <text encoding="base64">aW1wb3J0IGVkdS5lbW9yeS5tYXRoY3MuYmFja3BvcnQuamF2YS51dGlsLkNvbGxlY3Rpb25zOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPHN0cmluZz5jb20uc3VjY2Vzc2ZhY3RvcnMucGlja2xpc3QudWkuY29udHJvbGxlci5QaWNrbGlzdENvbnRyb2xsZXI8L3N0cmluZz4K</text>
+        <text encoding="base64">SklSQTogQUZULTE3ODMwCkRlc2NyaXB0aW9uOiBQaWNrbGlzdCBtb2R1bGFyaXphdGlvbiAtIHJlZmFjdG9yIGNvZGUgYW5kIHVwZGF0ZSByZWZlcmVuY2VzCkNoYW5nZXM6IAoxKSBtb3ZlIHBpY2tsaXN0IGFuZCBzbWFydHN1aXRlIHBhY2thZ2VzIHRvIGF1LXBpY2tsaXN0CjIpIHVwZGF0ZWQgZGVwZW5kZW5jeSBmaWxlcyBmb3IgYXUtdjQsIGF1LXBpY2tsaXN0IGFuZCBidWlsZC1zeXN0ZW0KMykgdXBkYXRlIFVJIGNvbnRyb2xsZXIgY2hhbmdlcyBpbiBtb2R1bGVzIAo0KSB1cGRhdGVkIGRlcGVuZGVuY3kgZmlsZSBmb3IgbW9kdWxlcyBmb3IgdWkgY29udHJvbGxlcnMKNSkgdXBkYXRlIGtub3duIGN5Y2xpYyBkZXBlbmRlbmN5IGJldHdlZW4gYXUtdjQgYW5kIGF1LXBpY2tsaXN0IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPHN0cmluZz5jb20uc3VjY2Vzc2ZhY3RvcnMucGlja2xpc3QudWkuY29udHJvbGxlci5QaWNrbGlzdENvbnRyb2xsZXI8L3N0cmluZz4K</text>
+        <text>v4_deps</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgPHN0cmluZz5jb20uc3VjY2Vzc2ZhY3RvcnMucGlja2xpc3QudWkuY29udHJvbGxlci5QaWNrbGlzdENvbnRyb2xsZXI8L3N0cmluZz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPHN0cmluZz5jb20uc3VjY2Vzc2ZhY3RvcnMucGlja2xpc3QudWkuY29udHJvbGxlci5QaWNrbGlzdENvbnRyb2xsZXI8L3N0cmluZz4K</text>
       </register>
       <register name="-" type="4">
-        <text>api</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
   </component>
