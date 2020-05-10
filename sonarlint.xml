@@ -1,0 +1,16 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sf-sonar.devprod.sap.corp" />
+          <option name="name" value="SF Sonar" />
+          <option name="login" value="I073367" />
+          <password>dfdedfc3dfc7dfdadf9edff9dfc6df93</password>
+          <organizationKey>default-organization</organizationKey>
+          <enableNotifications>true</enableNotifications>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
