@@ -26,7 +26,15 @@
         <mark key="]" line="1" column="149" />
         <mark key="." line="1" column="149" />
       </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/bizx-docker-dev/docker-compose.yml" timestamp="1589233768509">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.successfactors/au-homepage-ui/trunk.1.2.202005080725/240bdc7c9f0faee688586aa90e3f16ff1d576d49/au-homepage-ui-trunk.1.2.202005080725-sources.jar!/com/successfactors/homepage/ui/controller/LandingPageController.java" timestamp="1589232953341" />
+      <file name="$USER_HOME$/dev/workspace/trunk/bizx-docker-dev/bin/run.sh" timestamp="1589233908653" />
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/picklist/service/GetPicklistsV2.java" timestamp="1589230197448" />
+      <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-ui/src/main/java/com/successfactors/platform/ui/topnav/TopNavTabProvider.java" timestamp="1589232995219" />
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/test/java/com/successfactors/picklist/dao/impl/oracle/OracleMDFPicklistDAOTest.java" timestamp="1589226315721">
         <mark key="[" line="84" column="14" />
         <mark key="]" line="105" column="15" />
@@ -41,12 +49,18 @@
         <mark key="]" line="3" column="4" />
         <mark key="." line="3" column="4" />
       </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/build-system/sfs-local-overrides/tomcat-dev-docker-hana/sf_conf/sfserver.properties" timestamp="1589233652592">
+        <mark key="[" line="216" column="18" />
+        <mark key="]" line="216" column="19" />
+        <mark key="." line="216" column="19" />
+      </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/test/java/com/successfactors/picklist/service/instancesync/impl/AddUpdatePicklistsCmdImplTest.java" timestamp="1589148028994">
         <mark key="[" line="120" column="26" />
         <mark key="]" line="50" column="20" />
         <mark key="." line="50" column="19" />
         <mark key="^" line="50" column="20" />
       </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-ui/src/main/java/com/successfactors/platform/ui/controller/topnav/TopNavBarController.java" timestamp="1589233016660" />
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/test/java/com/successfactors/smartsuite/service/impl/AddingPicklistLabelIdMappingImplTest.java" timestamp="1589226488829">
         <mark key="[" line="239" column="26" />
       </file>
@@ -65,16 +79,34 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGVkdS5lbW9yeS5tYXRoY3MuYmFja3BvcnQuamF2YS51dGlsLkNvbGxlY3Rpb25zOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>ixed dependencie</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXUtcGlja2xpc3Qtc2VydmljZSA8LS0+IFtjb21waWxlXSA=</text>
+        <text>oracle:
+    image: ${REGISTRY}/${ORA_IMAGE}
+    hostname: oracle
+    ports:
+      - 1521:1521
+    networks:
+      - default
+    mem_limit: &quot;1200m&quot;
+  oracle-v2: #This is needed for db migration
+    extends:
+      service: oracle
+    image: docker.wdf.sap.corp:51129/oracle/${ORA_IMAGE}
+    hostname: oracle-backup
+    volumes:
+      - /data/scripts/:/data/scripts/
+      - /tmp:/restore/
+      - ./migrate/runRestore.sh:/root/runRestore.sh
+    command: /init.sh
+    shm_size: 1G</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXUtcGlja2xpc3Qtc2VydmljZSA8LS0+IFtjb21waWxlXSA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGVkdS5lbW9yeS5tYXRoY3MuYmFja3BvcnQuamF2YS51dGlsLkNvbGxlY3Rpb25zOwo=</text>
       </register>
       <register name="4" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXUtcGlja2xpc3Qtc2VydmljZSA8LS0+IFtjb21waWxlXSA=</text>
@@ -95,7 +127,7 @@
         <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXUtcGlja2xpc3Qtc2VydmljZSA8LS0+IFtjb21waWxlXSA=</text>
       </register>
       <register name="-" type="4">
-        <text>ixed dependencie</text>
+        <text>SPRING</text>
       </register>
     </registers>
   </component>
