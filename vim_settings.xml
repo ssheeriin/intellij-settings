@@ -52,12 +52,6 @@
         <mark key="[" line="239" column="26" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-peopleprofile/au-peopleprofile-sap.ginkgo.uilib-web/src/main/uilib/sap/ginkgo/uilib/services/DWRServices.js" timestamp="1589302587064" />
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/test/java/com/successfactors/picklist/dao/impl/oracle/OracleMDFPicklistDAOTest.java" timestamp="1589226315721">
-        <mark key="[" line="84" column="14" />
-        <mark key="]" line="105" column="15" />
-        <mark key="." line="105" column="14" />
-        <mark key="^" line="105" column="15" />
-      </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/picklist/dao/impl/oracle/MDFPicklistDAO.java" timestamp="1589235601710" />
     </filemarks>
     <jumps />
