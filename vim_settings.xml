@@ -38,8 +38,12 @@
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-peopleprofile/au-peopleprofile-sap.sf.onboarding-web/src/main/webapp/ui/peopleprofile/resources/sap/sf/onboarding/pendinghires/services/DWRServices.js" timestamp="1589301192482" />
       <file name="$USER_HOME$/dev/workspace/trunk/SIT-Configuration/bizx-sfv4/SIT-ADFv2-JobInfo-critical.json" timestamp="1589309495390" />
-      <file name="$USER_HOME$/dev/workspace/my/devkit/refactor.sh" timestamp="1589411707158">
-        <mark key="[" line="3" column="0" />
+      <file name="$USER_HOME$/dev/workspace/my/devkit/refactor.sh" timestamp="1589434190955">
+        <mark key="'" line="91" column="0" />
+        <mark key="[" line="160" column="0" />
+        <mark key="]" line="160" column="0" />
+        <mark key="^" line="98" column="4" />
+        <mark key="." line="160" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.successfactors/idl-comdf-service/trunk.1.0.202005080330/451b6eac4c5fa50f723964f21f5d2ac62dbcdf16/idl-comdf-service-trunk.1.0.202005080330-sources.jar!/com/successfactors/comdf/meta/resolver/field/impl/AbstractCOMDFFieldResolver.java" timestamp="1589407121664" />
       <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/java/com/successfactors/smartsuite/util/PicklistMigrationUtils.java" timestamp="1589407257405" />
@@ -52,60 +56,46 @@
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="92" column="20" filename="$USER_HOME$/dev/workspace/my/devkit/refactor.sh" />
+      <jump line="91" column="0" filename="$USER_HOME$/dev/workspace/my/devkit/refactor.sh" />
+    </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">dXBkYXRlIGZyb20gVjQgdG8gcGlja2xpc3QKMikg</text>
+      <register name="1" type="2">
+        <text encoding="base64">I3NfbW9kdWxlcz0oJ2F1LVY0L2F1LVY0LWFwaScgJ2F1LVY0L2F1LVY0LXNlcnZpY2UnICdhdS1WNC9hdS1WNC11aScpCiNkX21vZHVsZXM9KCdhdS1waWNrbGlzdC9hdS1waWNrbGlzdC1hcGknICdhdS1waWNrbGlzdC9hdS1waWNrbGlzdC1zZXJ2aWNlJyAnYXUtcGlja2xpc3QvYXUtcGlja2xpc3QtdWknKQojcGFja2FnZXM9KCIvY29tL3N1Y2Nlc3NmYWN0b3JzL3BpY2tsaXN0LyIgIi9jb20vc3VjY2Vzc2ZhY3RvcnMvc21hcnRzdWl0ZS8iKQojc291cmNlcz0oJy9zcmMvbWFpbi9qYXZhJyAnL3NyYy90ZXN0L2phdmEnICcvc3JjL21haW4vcmVzb3VyY2VzJyAnL3NyYy90ZXN0L3Jlc291cmNlcycpCiMKIyNmb3IgbSBpbiAiJHshc19tb2R1bGVzW0BdfSIKI2RvCiMgIGVjaG8gY29weWluZyBwaWNrbGlzdCBwYWNrYWdlIGZyb20gJHtzX21vZHVsZXNbJG1dfQojICBmb3Igc3JjIGluICIke3NvdXJjZXNbQF19IgojICBkbwojICAgICAgZm9yIHBrZyBpbiAiJHtwYWNrYWdlc1tAXX0iCiMgICAgICBkbwojCiMgICAgICAgIGZyb209JEJBU0Uke3NfbW9kdWxlc1skbV19JHNyYyRwa2cKIyAgICAgICAgdG89JEJBU0Uke2RfbW9kdWxlc1skbV19JHNyYyRwa2cKIwojICAgICAgICBlY2hvIGNyZWF0aW5nIGRpcmVjdG9yeSAkdG8KIyAgICAgICAgZWNobwojICAgICAgICBta2RpciAtcCAkdG8KIwojICAgICAgICBlY2hvCiMgICAgICAgIGVjaG8gY29weWluZyAkZnJvbSB0byAkdG8KIyAgICAgICAgZWNobyAiY3AgLXJ2ZiAkZnJvbSogJHRvIgojICAgICAgICBjcCAtcnZmICRmcm9tKiAkdG8KIyAgICAgICAgZWNobwojCiMgICAgICAgIGVjaG8KIyAgICAgICAgZWNobyByZW1vdmluZy4uLi4uICRmcm9tCiMgICAgICAgIHJtIC1ydmYgJGZyb20KIyAgICAgICAgZWNobwojICAgICAgZG9uZQojCiMgIGRvbmUKI2RvbmUKIwojbWtkaXIgLXAgJEJBU0UvYXUtcGlja2xpc3QvYXUtcGlja2xpc3Qtc2VydmljZS9zcmMvbWFpbi9qYXZhL2NvbS9zdWNjZXNzZmFjdG9ycy9sZWdhY3kvc2VydmljZS9pbXBsCiNjcCAtdmYgJEJBU0UvYXUtVjQvYXUtVjQtc2VydmljZS9zcmMvbWFpbi9qYXZhL2NvbS9zdWNjZXNzZmFjdG9ycy9sZWdhY3kvc2VydmljZS9HZXRQaWNrbGlzdEV4cG9ydFN0YXR1cy5qYXZhICAkQkFTRS9hdS1waWNrbGlzdC9hdS1waWNrbGlzdC1zZXJ2aWNlL3NyYy9tYWluL2phdmEvY29tL3N1Y2Nlc3NmYWN0b3JzL2xlZ2FjeS9zZXJ2aWNlL0dldFBpY2tsaXN0RXhwb3J0U3RhdHVzLmphdmEKI3JtIC12ZiAkQkFTRS9hdS1WNC9hdS1WNC1zZXJ2aWNlL3NyYy9tYWluL2phdmEvY29tL3N1Y2Nlc3NmYWN0b3JzL2xlZ2FjeS9zZXJ2aWNlL0dldFBpY2tsaXN0RXhwb3J0U3RhdHVzLmphdmEKIwojY3AgLXZmICRCQVNFL2F1LVY0L2F1LVY0LXNlcnZpY2Uvc3JjL21haW4vamF2YS9jb20vc3VjY2Vzc2ZhY3RvcnMvbGVnYWN5L3NlcnZpY2UvaW1wbC9HZXRQaWNrbGlzdEV4cG9ydFN0YXR1c0ltcGwuamF2YSAgJEJBU0UvYXUtcGlja2xpc3QvYXUtcGlja2xpc3Qtc2VydmljZS9zcmMvbWFpbi9qYXZhL2NvbS9zdWNjZXNzZmFjdG9ycy9sZWdhY3kvc2VydmljZS9pbXBsL0dldFBpY2tsaXN0RXhwb3J0U3RhdHVzSW1wbC5qYXZhCiNybSAtdmYgICRCQVNFL2F1LVY0L2F1LVY0LXNlcnZpY2Uvc3JjL21haW4vamF2YS9jb20vc3VjY2Vzc2ZhY3RvcnMvbGVnYWN5L3NlcnZpY2UvaW1wbC9HZXRQaWNrbGlzdEV4cG9ydFN0YXR1c0ltcGwuamF2YQojCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>dependencies</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">I3NfbW9kdWxlcz0oJ2F1LVY0L2F1LVY0LWFwaScgJ2F1LVY0L2F1LVY0LXNlcnZpY2UnICdhdS1WNC9hdS1WNC11aScpCiNkX21vZHVsZXM9KCdhdS1waWNrbGlzdC9hdS1waWNrbGlzdC1hcGknICdhdS1waWNrbGlzdC9hdS1waWNrbGlzdC1zZXJ2aWNlJyAnYXUtcGlja2xpc3QvYXUtcGlja2xpc3QtdWknKQojcGFja2FnZXM9KCIvY29tL3N1Y2Nlc3NmYWN0b3JzL3BpY2tsaXN0LyIgIi9jb20vc3VjY2Vzc2ZhY3RvcnMvc21hcnRzdWl0ZS8iKQojc291cmNlcz0oJy9zcmMvbWFpbi9qYXZhJyAnL3NyYy90ZXN0L2phdmEnICcvc3JjL21haW4vcmVzb3VyY2VzJyAnL3NyYy90ZXN0L3Jlc291cmNlcycpCiMKIyNmb3IgbSBpbiAiJHshc19tb2R1bGVzW0BdfSIKI2RvCiMgIGVjaG8gY29weWluZyBwaWNrbGlzdCBwYWNrYWdlIGZyb20gJHtzX21vZHVsZXNbJG1dfQojICBmb3Igc3JjIGluICIke3NvdXJjZXNbQF19IgojICBkbwojICAgICAgZm9yIHBrZyBpbiAiJHtwYWNrYWdlc1tAXX0iCiMgICAgICBkbwojCiMgICAgICAgIGZyb209JEJBU0Uke3NfbW9kdWxlc1skbV19JHNyYyRwa2cKIyAgICAgICAgdG89JEJBU0Uke2RfbW9kdWxlc1skbV19JHNyYyRwa2cKIwojICAgICAgICBlY2hvIGNyZWF0aW5nIGRpcmVjdG9yeSAkdG8KIyAgICAgICAgZWNobwojICAgICAgICBta2RpciAtcCAkdG8KIwojICAgICAgICBlY2hvCiMgICAgICAgIGVjaG8gY29weWluZyAkZnJvbSB0byAkdG8KIyAgICAgICAgZWNobyAiY3AgLXJ2ZiAkZnJvbSogJHRvIgojICAgICAgICBjcCAtcnZmICRmcm9tKiAkdG8KIyAgICAgICAgZWNobwojCiMgICAgICAgIGVjaG8KIyAgICAgICAgZWNobyByZW1vdmluZy4uLi4uICRmcm9tCiMgICAgICAgIHJtIC1ydmYgJGZyb20KIyAgICAgICAgZWNobwojICAgICAgZG9uZQojCiMgIGRvbmUKI2RvbmUKIwojbWtkaXIgLXAgJEJBU0UvYXUtcGlja2xpc3QvYXUtcGlja2xpc3Qtc2VydmljZS9zcmMvbWFpbi9qYXZhL2NvbS9zdWNjZXNzZmFjdG9ycy9sZWdhY3kvc2VydmljZS9pbXBsCiNjcCAtdmYgJEJBU0UvYXUtVjQvYXUtVjQtc2VydmljZS9zcmMvbWFpbi9qYXZhL2NvbS9zdWNjZXNzZmFjdG9ycy9sZWdhY3kvc2VydmljZS9HZXRQaWNrbGlzdEV4cG9ydFN0YXR1cy5qYXZhICAkQkFTRS9hdS1waWNrbGlzdC9hdS1waWNrbGlzdC1zZXJ2aWNlL3NyYy9tYWluL2phdmEvY29tL3N1Y2Nlc3NmYWN0b3JzL2xlZ2FjeS9zZXJ2aWNlL0dldFBpY2tsaXN0RXhwb3J0U3RhdHVzLmphdmEKI3JtIC12ZiAkQkFTRS9hdS1WNC9hdS1WNC1zZXJ2aWNlL3NyYy9tYWluL2phdmEvY29tL3N1Y2Nlc3NmYWN0b3JzL2xlZ2FjeS9zZXJ2aWNlL0dldFBpY2tsaXN0RXhwb3J0U3RhdHVzLmphdmEKIwojY3AgLXZmICRCQVNFL2F1LVY0L2F1LVY0LXNlcnZpY2Uvc3JjL21haW4vamF2YS9jb20vc3VjY2Vzc2ZhY3RvcnMvbGVnYWN5L3NlcnZpY2UvaW1wbC9HZXRQaWNrbGlzdEV4cG9ydFN0YXR1c0ltcGwuamF2YSAgJEJBU0UvYXUtcGlja2xpc3QvYXUtcGlja2xpc3Qtc2VydmljZS9zcmMvbWFpbi9qYXZhL2NvbS9zdWNjZXNzZmFjdG9ycy9sZWdhY3kvc2VydmljZS9pbXBsL0dldFBpY2tsaXN0RXhwb3J0U3RhdHVzSW1wbC5qYXZhCiNybSAtdmYgICRCQVNFL2F1LVY0L2F1LVY0LXNlcnZpY2Uvc3JjL21haW4vamF2YS9jb20vc3VjY2Vzc2ZhY3RvcnMvbGVnYWN5L3NlcnZpY2UvaW1wbC9HZXRQaWNrbGlzdEV4cG9ydFN0YXR1c0ltcGwuamF2YQojCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">I3NfbW9kdWxlcz0oJ2F1LVY0L2F1LVY0LWFwaScgJ2F1LVY0L2F1LVY0LXNlcnZpY2UnICdhdS1WNC9hdS1WNC11aScpCiNkX21vZHVsZXM9KCdhdS1waWNrbGlzdC9hdS1waWNrbGlzdC1hcGknICdhdS1waWNrbGlzdC9hdS1waWNrbGlzdC1zZXJ2aWNlJyAnYXUtcGlja2xpc3QvYXUtcGlja2xpc3QtdWknKQojcGFja2FnZXM9KCIvY29tL3N1Y2Nlc3NmYWN0b3JzL3BpY2tsaXN0LyIgIi9jb20vc3VjY2Vzc2ZhY3RvcnMvc21hcnRzdWl0ZS8iKQojc291cmNlcz0oJy9zcmMvbWFpbi9qYXZhJyAnL3NyYy90ZXN0L2phdmEnICcvc3JjL21haW4vcmVzb3VyY2VzJyAnL3NyYy90ZXN0L3Jlc291cmNlcycpCiMKIyNmb3IgbSBpbiAiJHshc19tb2R1bGVzW0BdfSIKI2RvCiMgIGVjaG8gY29weWluZyBwaWNrbGlzdCBwYWNrYWdlIGZyb20gJHtzX21vZHVsZXNbJG1dfQojICBmb3Igc3JjIGluICIke3NvdXJjZXNbQF19IgojICBkbwojICAgICAgZm9yIHBrZyBpbiAiJHtwYWNrYWdlc1tAXX0iCiMgICAgICBkbwojCiMgICAgICAgIGZyb209JEJBU0Uke3NfbW9kdWxlc1skbV19JHNyYyRwa2cKIyAgICAgICAgdG89JEJBU0Uke2RfbW9kdWxlc1skbV19JHNyYyRwa2cKIwojICAgICAgICBlY2hvIGNyZWF0aW5nIGRpcmVjdG9yeSAkdG8KIyAgICAgICAgZWNobwojICAgICAgICBta2RpciAtcCAkdG8KIwojICAgICAgICBlY2hvCiMgICAgICAgIGVjaG8gY29weWluZyAkZnJvbSB0byAkdG8KIyAgICAgICAgZWNobyAiY3AgLXJ2ZiAkZnJvbSogJHRvIgojICAgICAgICBjcCAtcnZmICRmcm9tKiAkdG8KIyAgICAgICAgZWNobwojCiMgICAgICAgIGVjaG8KIyAgICAgICAgZWNobyByZW1vdmluZy4uLi4uICRmcm9tCiMgICAgICAgIHJtIC1ydmYgJGZyb20KIyAgICAgICAgZWNobwojICAgICAgZG9uZQojCiMgIGRvbmUKI2RvbmUKIwojbWtkaXIgLXAgJEJBU0UvYXUtcGlja2xpc3QvYXUtcGlja2xpc3Qtc2VydmljZS9zcmMvbWFpbi9qYXZhL2NvbS9zdWNjZXNzZmFjdG9ycy9sZWdhY3kvc2VydmljZS9pbXBsCiNjcCAtdmYgJEJBU0UvYXUtVjQvYXUtVjQtc2VydmljZS9zcmMvbWFpbi9qYXZhL2NvbS9zdWNjZXNzZmFjdG9ycy9sZWdhY3kvc2VydmljZS9HZXRQaWNrbGlzdEV4cG9ydFN0YXR1cy5qYXZhICAkQkFTRS9hdS1waWNrbGlzdC9hdS1waWNrbGlzdC1zZXJ2aWNlL3NyYy9tYWluL2phdmEvY29tL3N1Y2Nlc3NmYWN0b3JzL2xlZ2FjeS9zZXJ2aWNlL0dldFBpY2tsaXN0RXhwb3J0U3RhdHVzLmphdmEKI3JtIC12ZiAkQkFTRS9hdS1WNC9hdS1WNC1zZXJ2aWNlL3NyYy9tYWluL2phdmEvY29tL3N1Y2Nlc3NmYWN0b3JzL2xlZ2FjeS9zZXJ2aWNlL0dldFBpY2tsaXN0RXhwb3J0U3RhdHVzLmphdmEKIwojY3AgLXZmICRCQVNFL2F1LVY0L2F1LVY0LXNlcnZpY2Uvc3JjL21haW4vamF2YS9jb20vc3VjY2Vzc2ZhY3RvcnMvbGVnYWN5L3NlcnZpY2UvaW1wbC9HZXRQaWNrbGlzdEV4cG9ydFN0YXR1c0ltcGwuamF2YSAgJEJBU0UvYXUtcGlja2xpc3QvYXUtcGlja2xpc3Qtc2VydmljZS9zcmMvbWFpbi9qYXZhL2NvbS9zdWNjZXNzZmFjdG9ycy9sZWdhY3kvc2VydmljZS9pbXBsL0dldFBpY2tsaXN0RXhwb3J0U3RhdHVzSW1wbC5qYXZhCiNybSAtdmYgICRCQVNFL2F1LVY0L2F1LVY0LXNlcnZpY2Uvc3JjL21haW4vamF2YS9jb20vc3VjY2Vzc2ZhY3RvcnMvbGVnYWN5L3NlcnZpY2UvaW1wbC9HZXRQaWNrbGlzdEV4cG9ydFN0YXR1c0ltcGwuamF2YQojCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>oracle:
-    image: ${REGISTRY}/${ORA_IMAGE}
-    hostname: oracle
-    ports:
-      - 1521:1521
-    networks:
-      - default
-    mem_limit: &quot;1200m&quot;
-  oracle-v2: #This is needed for db migration
-    extends:
-      service: oracle
-    image: docker.wdf.sap.corp:51129/oracle/${ORA_IMAGE}
-    hostname: oracle-backup
-    volumes:
-      - /data/scripts/:/data/scripts/
-      - /tmp:/restore/
-      - ./migrate/runRestore.sh:/root/runRestore.sh
-    command: /init.sh
-    shm_size: 1G</text>
+      <register name="3" type="2">
+        <text>echo &quot;&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGVkdS5lbW9yeS5tYXRoY3MuYmFja3BvcnQuamF2YS51dGlsLkNvbGxlY3Rpb25zOwo=</text>
+        <text>check_and_create_dir_from_file</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXUtcGlja2xpc3Qtc2VydmljZSA8LS0+IFtjb21waWxlXSA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXUtcGlja2xpc3Qtc2VydmljZSA8LS0+IFtjb21waWxlXSA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXUtcGlja2xpc3Qtc2VydmljZSA8LS0+IFtjb21waWxlXSA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">IAo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXUtcGlja2xpc3Qtc2VydmljZSA8LS0+IFtjb21waWxlXSA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBmaWxlID0gJDI=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXUtcGlja2xpc3Qtc2VydmljZSA8LS0+IFtjb21waWxlXSA=</text>
+      <register name="9" type="2">
+        <text>t=&quot;test.*&quot;
+echo `echo ${t:0:${#t}-2}`</text>
       </register>
       <register name="-" type="4">
-        <text>dependencies</text>
+        <text>${BASE}au-picklist/${d_mod}/src/main/java/$dir</text>
       </register>
     </registers>
   </component>
