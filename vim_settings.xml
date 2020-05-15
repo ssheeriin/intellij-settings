@@ -29,11 +29,6 @@
         <mark key="]" line="16" column="6" />
         <mark key="." line="16" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-api/dependencies.gradle" timestamp="1589568822270">
-        <mark key="[" line="19" column="4" />
-        <mark key="]" line="18" column="4" />
-        <mark key="." line="18" column="4" />
-      </file>
       <file name="$USER_HOME$/dev/workspace/my/devkit/refactor.sh" timestamp="1589573774397">
         <mark key="'" line="91" column="0" />
         <mark key="[" line="160" column="0" />
@@ -45,11 +40,6 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/build.config" timestamp="1589569394455">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="149" />
-        <mark key="." line="1" column="149" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-api/src/main/java/com/successfactors/smartsuite/util/PicklistMigrationUtils.java" timestamp="1589569096345">
         <mark key="[" line="131" column="6" />
