@@ -20,47 +20,41 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/smartsuite/util/PicklistMigrationUtils.java" timestamp="1589917860593">
-        <mark key="[" line="108" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/workspace/my/devkit/checkoutAndAddDependencies.py" timestamp="1589915170487">
-        <mark key="[" line="224" column="67" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/workspace/my/devkit/path-operations.txt" timestamp="1589916926397">
-        <mark key="[" line="40" column="92" />
-        <mark key="]" line="38" column="105" />
-        <mark key="." line="38" column="105" />
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/test/java/com/successfactors/picklist/service/impl/PicklistServiceImplTest.java" timestamp="1589921482978">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-api/src/main/java/com/successfactors/smartsuite/util/PicklistMigrationUtils.java" timestamp="1589920273610">
         <mark key="[" line="97" column="6" />
         <mark key="]" line="97" column="6" />
         <mark key="." line="97" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589917624119">
-        <mark key="e" line="0" column="2" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="/Dummy.txt" timestamp="1589922570552">
+        <mark key="[" line="7" column="62" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-ui/dependencies.gradle" timestamp="1589918025875" />
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-ui/src/main/java/com/successfactors/smartsuite/ui/controller/PickListMergeConflictDecisionController.java" timestamp="1589920443488" />
-      <file name="/dependencies.gradle" timestamp="1589918021442" />
-      <file name="$USER_HOME$/dev/workspace/my/devkit/pl-mod.incoming3.txt" timestamp="1589915834142">
-        <mark key="[" line="0" column="1" />
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/test/java/com/successfactors/smartsuite/service/impl/PostMigrationVerificationTest.java" timestamp="1589921958146">
+        <mark key="[" line="31" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/smartsuite/util/PicklistMigrationInternalUtils.java" timestamp="1589917855176">
-        <mark key="[" line="143" column="17" />
-        <mark key="]" line="143" column="17" />
-        <mark key="." line="143" column="17" />
+      <file name="/dependencies.gradle" timestamp="1589918021442" />
+      <file name="/GenerateLabelIdsForPickListValues.java" timestamp="1589922758453">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="28" column="72" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/workspace/my/devkit/pl-mod.incoming3.txt" timestamp="1589923488637">
+        <mark key="[" line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/smartsuite/util/PicklistMigrationInternalUtils.java" timestamp="1589923389806">
+        <mark key="[" line="189" column="9" />
+        <mark key="]" line="131" column="44" />
+        <mark key="." line="131" column="44" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/dependencies.gradle" timestamp="1589919804233" />
-      <file name="$USER_HOME$/dev/workspace/my/devkit/refactor2.sh" timestamp="1589916960873">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
-      </file>
       <file name="/fragment.java" timestamp="1589920142700">
         <mark key="[" line="0" column="0" />
       </file>
@@ -73,37 +67,37 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text>git rm au-V4-service/src/main/java/com/successfactors/provisioningconfigframework/schedulejob/MigratePicklistsToMDFGlobaljob.java</text>
+        <text encoding="base64">aW1wb3J0IGVkdS5lbW9yeS5tYXRoY3MuYmFja3BvcnQuamF2YS51dGlsLkNvbGxlY3Rpb25zOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>extends PicklistMigrationUtils</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBlbHNlCg==</text>
+        <text>git rm au-V4-service/src/main/java/com/successfactors/provisioningconfigframework/schedulejob/MigratePicklistsToMDFGlobaljob.java</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">MSkgZGQgZ2FzLnhtbCA=</text>
+        <text encoding="base64">ICBlbHNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICAgICAgICBQaWNrbGlzdE1pZ3JhdGlvblV0aWxzLmdldENvbXBhbmllc0ZsYWdnZWRGb3JNaWdyYXRpb24oc2NhSGFuZGxlciwgZnRwLCBjb21wYW55SWQpOwo+Pj4+Pj4+IFN0YXNoZWQgY2hhbmdlcw==</text>
+        <text encoding="base64">MSkgZGQgZ2FzLnhtbCA=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQppbXBvcnQgY29tLnN1Y2Nlc3NmYWN0b3JzLnNtYXJ0c3VpdGUudXRpbC5QaWNrbGlzdE1pZ3JhdGlvblV0aWxzOwo+Pj4+Pj4+IFN0YXNoZWQgY2hhbmdlcwo=</text>
+        <text encoding="base64">PT09PT09PQogICAgICAgICAgICBQaWNrbGlzdE1pZ3JhdGlvblV0aWxzLmdldENvbXBhbmllc0ZsYWdnZWRGb3JNaWdyYXRpb24oc2NhSGFuZGxlciwgZnRwLCBjb21wYW55SWQpOwo+Pj4+Pj4+IFN0YXNoZWQgY2hhbmdlcw==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCj09PT09PT0KaW1wb3J0IHN0YXRpYyBjb20uc3VjY2Vzc2ZhY3RvcnMuam9ic2NoZWR1bGVyLlNjaGVkdWxlZEpvYkF0dHIuQXR0clR5cGUuUFJPVklTSU9OSU5HX1NVUFBPUlQ7Cj4+Pj4+Pj4gU3Rhc2hlZCBjaGFuZ2Vz</text>
+        <text encoding="base64">PT09PT09PQppbXBvcnQgY29tLnN1Y2Nlc3NmYWN0b3JzLnNtYXJ0c3VpdGUudXRpbC5QaWNrbGlzdE1pZ3JhdGlvblV0aWxzOwo+Pj4+Pj4+IFN0YXNoZWQgY2hhbmdlcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCj09PT09PT0KaW1wb3J0IHN0YXRpYyBjb20uc3VjY2Vzc2ZhY3RvcnMuam9ic2NoZWR1bGVyLlNjaGVkdWxlZEpvYkF0dHIuQXR0clR5cGUuUFJPVklTSU9OSU5HX1NVUFBPUlQ7Cj4+Pj4+Pj4gU3Rhc2hlZCBjaGFuZ2Vz</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQppbXBvcnQgamF2YXgubmFtaW5nLk5hbWluZ0V4Y2VwdGlvbjsKaW1wb3J0IGphdmEucm1pLlJlbW90ZUV4Y2VwdGlvbjsKaW1wb3J0IGphdmEudXRpbC5DYWxlbmRhcjsKaW1wb3J0IGphdmEudXRpbC5EYXRlOwppbXBvcnQgamF2YS51dGlsLkhhc2hNYXA7CmltcG9ydCBqYXZhLnV0aWwuSGFzaFNldDsKaW1wb3J0IGphdmEudXRpbC5NYXA7CmltcG9ydCBqYXZhLnV0aWwuU2V0Owo+Pj4+Pj4+IFN0YXNoZWQgY2hhbmdlcwo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">PT09PT09PQppbXBvcnQgamF2YXgubmFtaW5nLk5hbWluZ0V4Y2VwdGlvbjsKaW1wb3J0IGphdmEucm1pLlJlbW90ZUV4Y2VwdGlvbjsKaW1wb3J0IGphdmEudXRpbC5DYWxlbmRhcjsKaW1wb3J0IGphdmEudXRpbC5EYXRlOwppbXBvcnQgamF2YS51dGlsLkhhc2hNYXA7CmltcG9ydCBqYXZhLnV0aWwuSGFzaFNldDsKaW1wb3J0IGphdmEudXRpbC5NYXA7CmltcG9ydCBqYXZhLnV0aWwuU2V0Owo+Pj4+Pj4+IFN0YXNoZWQgY2hhbmdlcwo=</text>
+      </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>extends PicklistMigrationUtils</text>
       </register>
     </registers>
   </component>
