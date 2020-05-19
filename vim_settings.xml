@@ -20,7 +20,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1589911941686">
+      <file name="/Dummy.txt" timestamp="1589914016875">
         <mark key="e" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="0" />
@@ -54,6 +54,11 @@
         <mark key="[" line="13" column="6" />
         <mark key="]" line="13" column="6" />
       </file>
+      <file name="$USER_HOME$/dev/workspace/my/devkit/path-operations.txt" timestamp="1589913888296">
+        <mark key="[" line="40" column="92" />
+        <mark key="]" line="38" column="105" />
+        <mark key="." line="38" column="105" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="92" column="20" filename="$USER_HOME$/dev/workspace/my/devkit/refactor.sh" />
@@ -65,8 +70,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICBlbHNlCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBlbHNlCg==</text>
+      <register name="&quot;" type="4">
+        <text>service</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">MSkgZGQgZ2FzLnhtbCA=</text>
@@ -93,7 +98,7 @@
         <text encoding="base64">IHJldHVybiBQaWNrbGlzdE1pZ3JhdGlvblV0aWxzLmVuYWJsZU1lcmdlQ29uZmxpY3RVSSgpOwogICA=</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>service</text>
       </register>
     </registers>
   </component>
