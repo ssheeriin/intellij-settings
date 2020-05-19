@@ -33,10 +33,10 @@
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/my/devkit/checkoutAndAddDependencies.py" timestamp="1589928809726">
-        <mark key="[" line="235" column="16" />
-        <mark key="]" line="234" column="3" />
-        <mark key="." line="234" column="2" />
+      <file name="$USER_HOME$/dev/workspace/my/devkit/checkoutAndAddDependencies.py" timestamp="1589930741811">
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="236" column="53" />
+        <mark key="." line="236" column="53" />
         <mark key="^" line="234" column="3" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-api/src/main/java/com/successfactors/smartsuite/util/PicklistMigrationUtils.java" timestamp="1589920273610">
@@ -44,8 +44,8 @@
         <mark key="]" line="97" column="6" />
         <mark key="." line="97" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589926108439">
-        <mark key="[" line="7" column="62" />
+      <file name="/Dummy.txt" timestamp="1589929177303">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
@@ -82,7 +82,7 @@
         <text encoding="base64">aW1wb3J0IGVkdS5lbW9yeS5tYXRoY3MuYmFja3BvcnQuamF2YS51dGlsLkNvbGxlY3Rpb25zOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>service</text>
+        <text>component</text>
       </register>
       <register name="2" type="2">
         <text>git rm au-V4-service/src/main/java/com/successfactors/provisioningconfigframework/schedulejob/MigratePicklistsToMDFGlobaljob.java</text>
@@ -109,7 +109,7 @@
         <text encoding="base64">PT09PT09PQppbXBvcnQgamF2YXgubmFtaW5nLk5hbWluZ0V4Y2VwdGlvbjsKaW1wb3J0IGphdmEucm1pLlJlbW90ZUV4Y2VwdGlvbjsKaW1wb3J0IGphdmEudXRpbC5DYWxlbmRhcjsKaW1wb3J0IGphdmEudXRpbC5EYXRlOwppbXBvcnQgamF2YS51dGlsLkhhc2hNYXA7CmltcG9ydCBqYXZhLnV0aWwuSGFzaFNldDsKaW1wb3J0IGphdmEudXRpbC5NYXA7CmltcG9ydCBqYXZhLnV0aWwuU2V0Owo+Pj4+Pj4+IFN0YXNoZWQgY2hhbmdlcwo=</text>
       </register>
       <register name="-" type="4">
-        <text>service</text>
+        <text>component</text>
       </register>
     </registers>
   </component>
