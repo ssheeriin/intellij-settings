@@ -44,10 +44,10 @@
       <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-web/src/main/webapp/ui/WEB-INF/classes/rmgmt/groups/js/grouped_OneAdmin.xml" timestamp="1589837085799" />
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/test/java/com/successfactors/picklist/dao/impl/oracle/MDFPicklistDAOUTest.java" timestamp="1589837437809" />
       <file name="$USER_HOME$/dev/workspace/trunk/au-peopleprofile/au-peopleprofile-web/src/main/webapp/ui/peopleprofile/js/smrfLazyloader.js" timestamp="1589835046581" />
-      <file name="$USER_HOME$/dev/workspace/my/devkit/checkoutAndAddDependencies.py" timestamp="1589845663088">
-        <mark key="[" line="39" column="24" />
-        <mark key="]" line="221" column="4" />
-        <mark key="." line="221" column="4" />
+      <file name="$USER_HOME$/dev/workspace/my/devkit/checkoutAndAddDependencies.py" timestamp="1589847115921">
+        <mark key="[" line="156" column="0" />
+        <mark key="]" line="237" column="8" />
+        <mark key="." line="237" column="8" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-web/src/main/webapp/ui/admin/js/employeeField/backgroundElementsController.js" timestamp="1589837183801" />
       <file name="/Dummy.txt" timestamp="1589837984573">
@@ -76,7 +76,7 @@
         <text encoding="base64">MSkgZGQgZ2FzLnhtbCA=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>process_dependency</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">PT09PT09PQogICAgICAgICAgICBQaWNrbGlzdE1pZ3JhdGlvblV0aWxzLmdldENvbXBhbmllc0ZsYWdnZWRGb3JNaWdyYXRpb24oc2NhSGFuZGxlciwgZnRwLCBjb21wYW55SWQpOwo+Pj4+Pj4+IFN0YXNoZWQgY2hhbmdlcw==</text>
@@ -104,7 +104,7 @@
 2) Fix failing tests</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>process_dependency</text>
       </register>
     </registers>
   </component>
