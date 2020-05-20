@@ -22,6 +22,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1589996662229">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="7" />
+        <mark key="." line="3" column="7" />
+      </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/smartsuite/service/impl/MigrateLegacyPicklistOptionIdsImpl.java" timestamp="1589995172808" />
     </filemarks>
     <jumps>
