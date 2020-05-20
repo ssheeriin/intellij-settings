@@ -75,24 +75,18 @@
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/build.config" timestamp="1589999556284">
         <mark key="[" line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-genericobject/au-genericobject-web/build.config" timestamp="1589999122937">
-        <mark key="[" line="0" column="33" />
-      </file>
-      <file name="$USER_HOME$/dev/workspace/my/devkit/checkoutAndAddDependencies.py" timestamp="1590013686692">
-        <mark key="'" line="275" column="8" />
-        <mark key="[" line="274" column="4" />
-        <mark key="]" line="256" column="0" />
-        <mark key="." line="256" column="0" />
+      <file name="$USER_HOME$/dev/workspace/my/devkit/checkoutAndAddDependencies.py" timestamp="1590017313635">
+        <mark key="'" line="290" column="8" />
+        <mark key="[" line="267" column="41" />
+        <mark key="]" line="68" column="29" />
+        <mark key="." line="68" column="21" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/idl-permission/idl-permission-service/dependencies.gradle" timestamp="1590001104117">
         <mark key="[" line="211" column="58" />
         <mark key="]" line="211" column="58" />
         <mark key="." line="211" column="58" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-genericobject/au-genericobject-testbase/build.config" timestamp="1589999071816">
-        <mark key="[" line="0" column="37" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1590007770895">
+      <file name="/Dummy.txt" timestamp="1590018256477">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -110,39 +104,39 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IHAgPSBzdWJwcm9jZXNzLlBvcGVuKAogICAgWydnaXQnLCAnY2hlY2tvdXQnLCAnZmVhdHVyZS9BRlQtMTc3MTknXSwgY3dkPScuLycgKyBjKQogIHAud2FpdCgp</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>checkout</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CmZvciBjcG50IGluIGNvbXBvbmVudHM6CiAgaWYgY3BudCBub3QgaW4gKCdhdS1waWNrbGlzdCcsICdhdS1WNCcpOgogICAg</text>
+      <register name="2" type="4">
+        <text>checkout_component(cpnt)
+    # delete_component(cpnt)</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRkcHJpbnQoIlByb2Nlc3Npbmcge30iLmZvcm1hdChpbmNvbWluZykpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">CmZvciBjcG50IGluIGNvbXBvbmVudHM6CiAgaWYgY3BudCBub3QgaW4gKCdhdS1waWNrbGlzdCcsICdhdS1WNCcpOgogICAg</text>
       </register>
-      <register name="7" type="4">
-        <text>if not modules[module_from]:
-    modules[module_from] = []</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ZGQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">MSkgZml4IHRlc3RzIA==</text>
+        <text encoding="base64">ICAgIGRkcHJpbnQoIlByb2Nlc3Npbmcge30iLmZvcm1hdChpbmNvbWluZykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>deps[m]</text>
+        <text>checkout</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21taXRfY2hhbmdlc1w+</text>
