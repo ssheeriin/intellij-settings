@@ -78,11 +78,11 @@
       <file name="$USER_HOME$/dev/workspace/trunk/au-genericobject/au-genericobject-web/build.config" timestamp="1589999122937">
         <mark key="[" line="0" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/my/devkit/checkoutAndAddDependencies.py" timestamp="1590008857413">
-        <mark key="'" line="273" column="8" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
+      <file name="$USER_HOME$/dev/workspace/my/devkit/checkoutAndAddDependencies.py" timestamp="1590010649238">
+        <mark key="'" line="274" column="8" />
+        <mark key="[" line="255" column="0" />
+        <mark key="]" line="255" column="0" />
+        <mark key="." line="255" column="0" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/idl-permission/idl-permission-service/dependencies.gradle" timestamp="1590001104117">
         <mark key="[" line="211" column="58" />
@@ -117,34 +117,29 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">CmZvciBjcG50IGluIGNvbXBvbmVudHM6CiAgaWYgY3BudCBub3QgaW4gKCdhdS1waWNrbGlzdCcsICdhdS1WNCcpOgogICAg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRkcHJpbnQoIlByb2Nlc3Npbmcge30iLmZvcm1hdChpbmNvbWluZykpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ZGQK</text>
       </register>
-      <register name="5" type="4">
-        <text>if not modules[module_from]:
-    modules[module_from] = []</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGRkcHJpbnQoIlByb2Nlc3Npbmcge30iLmZvcm1hdChpbmNvbWluZykpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ZGQK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">MSkgZml4IHRlc3RzIA==</text>
+      <register name="7" type="4">
+        <text>if not modules[module_from]:
+    modules[module_from] = []</text>
       </register>
-      <register name="8" type="4">
-        <text>move picklist and smartsuite packages to au-picklist
-2) updated dependency files for au-v4, au-picklist and build-system
-3) update UI controller changes in modules 
-4) updated dependency file for modules for ui controllers
-5) update known cyclic dependency between au-v4 and au-picklist
-6) fix tests</text>
+      <register name="8" type="2">
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">MSkgZml4IHRlc3RzIA==</text>
       </register>
       <register name="-" type="4">
         <text>deps[m]</text>
