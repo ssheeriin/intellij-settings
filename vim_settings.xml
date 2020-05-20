@@ -22,12 +22,34 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1589996662229">
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/build.config" timestamp="1589998719210">
+        <mark key="[" line="0" column="25" />
+      </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/au-genericobject/au-genericobject-web/build.config" timestamp="1589999122937">
+        <mark key="[" line="0" column="33" />
+      </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/idl-instancesync/idl-instancesync-service/build.config" timestamp="1589998907540">
+        <mark key="[" line="0" column="39" />
+      </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/au-genericobject/au-genericobject-api/build.config" timestamp="1589997602122">
+        <mark key="[" line="0" column="56" />
+      </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/au-genericobject/au-genericobject-testbase/build.config" timestamp="1589999071816">
+        <mark key="[" line="0" column="37" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1589998571036">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="7" />
         <mark key="." line="3" column="7" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/smartsuite/service/impl/MigrateLegacyPicklistOptionIdsImpl.java" timestamp="1589995172808" />
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-api/build.config" timestamp="1589998558331">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/au-genericobject/au-genericobject-service/build.config" timestamp="1589998177679">
+        <mark key="[" line="0" column="37" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="92" column="20" filename="$USER_HOME$/dev/workspace/my/devkit/refactor.sh" />
@@ -47,7 +69,7 @@
 6) fix tests</text>
       </register>
       <register name="&quot;" type="4">
-        <text>DIT</text>
+        <text>service</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ZGQK</text>
@@ -74,7 +96,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>DIT</text>
+        <text>service</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21taXRfY2hhbmdlc1w+</text>
