@@ -22,22 +22,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590603541524">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/dependencies.gradle" timestamp="1590602955475" />
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-api/dependencies.gradle" timestamp="1590081361831">
-        <mark key="[" line="14" column="66" />
-        <mark key="]" line="14" column="65" />
-        <mark key="." line="14" column="65" />
-      </file>
       <file name="$USER_HOME$/dev/workspace/my/devkit/checkoutAndAddDependencies.py" timestamp="1590597617167">
         <mark key="[" line="331" column="10" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-genericobject/au-genericobject-api/build.config" timestamp="1590602958065">
         <mark key="[" line="0" column="103" />
+      </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-api/src/main/java/com/successfactors/smartsuite/util/PicklistMigrationUtils.java" timestamp="1590083275503">
+        <mark key="[" line="261" column="13" />
+        <mark key="]" line="261" column="13" />
+        <mark key="." line="261" column="13" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1590606328276">
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/dependencies.gradle" timestamp="1590083522865">
         <mark key="[" line="145" column="57" />
@@ -45,18 +44,9 @@
         <mark key="." line="145" column="57" />
         <mark key="^" line="176" column="2" />
       </file>
+      <file name="$USER_HOME$/dev/workspace/my/devkit/refactor2.sh" timestamp="1590606118140" />
       <file name="/fragment.java" timestamp="1590083421845">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-api/src/main/java/com/successfactors/smartsuite/util/PicklistMigrationUtils.java" timestamp="1590083275503">
-        <mark key="[" line="261" column="13" />
-        <mark key="]" line="261" column="13" />
-        <mark key="." line="261" column="13" />
-      </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/smartsuite/util/PicklistMigrationServiceUtils.java" timestamp="1590083262536">
-        <mark key="[" line="983" column="11" />
-        <mark key="]" line="983" column="11" />
-        <mark key="." line="983" column="11" />
       </file>
     </filemarks>
     <jumps>
