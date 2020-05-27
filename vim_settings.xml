@@ -22,19 +22,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590598448808">
+      <file name="/Dummy.txt" timestamp="1590603541524">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk_temp/au-ruleengine/au-ruleengine-ui/dependencies.gradle" timestamp="1590080904392">
-        <mark key="[" line="22" column="58" />
-        <mark key="]" line="22" column="58" />
-        <mark key="." line="22" column="58" />
-      </file>
-      <file name="$USER_HOME$/dev/workspace/trunk_temp/idl-cofoundation/idl-cofoundation-api/ivy.xml" timestamp="1590080949820">
-        <mark key="[" line="67" column="5" />
-      </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/dependencies.gradle" timestamp="1590602955475" />
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-api/dependencies.gradle" timestamp="1590081361831">
         <mark key="[" line="14" column="66" />
         <mark key="]" line="14" column="65" />
@@ -42,6 +35,9 @@
       </file>
       <file name="$USER_HOME$/dev/workspace/my/devkit/checkoutAndAddDependencies.py" timestamp="1590597617167">
         <mark key="[" line="331" column="10" />
+      </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/au-genericobject/au-genericobject-api/build.config" timestamp="1590602958065">
+        <mark key="[" line="0" column="103" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/dependencies.gradle" timestamp="1590083522865">
         <mark key="[" line="145" column="57" />
