@@ -22,7 +22,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590597397504">
+      <file name="/Dummy.txt" timestamp="1590598448808">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -42,11 +42,6 @@
       </file>
       <file name="$USER_HOME$/dev/workspace/my/devkit/checkoutAndAddDependencies.py" timestamp="1590597617167">
         <mark key="[" line="331" column="10" />
-      </file>
-      <file name="$USER_HOME$/dev/workspace/trunk_temp/au-ruleengine/au-ruleengine-gorule/dependencies.gradle" timestamp="1590080870841">
-        <mark key="[" line="20" column="58" />
-        <mark key="]" line="20" column="58" />
-        <mark key="." line="20" column="58" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/dependencies.gradle" timestamp="1590083522865">
         <mark key="[" line="145" column="57" />
