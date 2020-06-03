@@ -22,7 +22,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591153804328">
+      <file name="/Dummy.txt" timestamp="1591203570357">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
@@ -62,11 +62,9 @@
       <file name="$USER_HOME$/dev/workspace/trunk/au-genericobject/au-genericobject-fileio/build.config" timestamp="1591149383759">
         <mark key="[" line="0" column="40" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/my/devkit/refactor2.sh" timestamp="1591156284116" />
       <file name="$USER_HOME$/dev/workspace/trunk/au-genericobject/au-genericobject-testbase/build.config" timestamp="1591149525772">
         <mark key="[" line="0" column="60" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/my/devkit/path-operations.txt" timestamp="1591155562216" />
     </filemarks>
     <jumps>
       <jump line="92" column="20" filename="$USER_HOME$/dev/workspace/my/devkit/refactor.sh" />
