@@ -22,7 +22,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-peopleprofile/au-peopleprofile-sap.sf.peopleprofile-web/src/test/ect/view/block/JobHistoryTableControlTest.js" timestamp="1591139987235" />
+      <file name="$USER_HOME$/dev/workspace/trunk/au-peopleprofile/au-peopleprofile-sap.sf.peopleprofile-web/src/test/ect/view/block/JobHistoryTableControlTest.js" timestamp="1591143691119">
+        <mark key="[" line="78" column="2" />
+        <mark key="]" line="73" column="62" />
+        <mark key="^" line="73" column="62" />
+        <mark key="." line="73" column="61" />
+      </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-ise/au-ise-service/dependencies.gradle" timestamp="1591137409452">
         <mark key="[" line="229" column="40" />
         <mark key="]" line="130" column="102" />
