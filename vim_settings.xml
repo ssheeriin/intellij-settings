@@ -25,10 +25,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591309720354">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="26" />
-        <mark key="." line="1" column="26" />
+      <file name="/Dummy.txt" timestamp="1591310672618">
+        <mark key="u" line="0" column="1" />
+        <mark key="[" line="1" column="1" />
+        <mark key="]" line="0" column="25" />
+        <mark key="." line="0" column="2" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-genericobject/au-genericobject-service/build.config" timestamp="1591150865837">
         <mark key="[" line="0" column="121" />
