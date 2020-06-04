@@ -33,8 +33,8 @@
       <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-web/dependencies.gradle" timestamp="1591297808006" />
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/picklist/service/impl/GetPicklistImpl.java" timestamp="1591249261593" />
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/picklist/service/impl/PicklistSupport.java" timestamp="1591222611379" />
-      <file name="/Dummy.txt" timestamp="1591297881861">
-        <mark key="[" line="1" column="25" />
+      <file name="/Dummy.txt" timestamp="1591305407514">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="26" />
         <mark key="." line="1" column="26" />
       </file>
