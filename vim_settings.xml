@@ -17,6 +17,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -45,8 +48,8 @@
       <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/build.config" timestamp="1591149291214">
         <mark key="[" line="1" column="113" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-workflow/au-workflow-service/dependencies.gradle" timestamp="1591149893231">
-        <mark key="[" line="416" column="0" />
+      <file name="$USER_HOME$/dev/workspace/trunk/au-workflow/au-workflow-service/dependencies.gradle" timestamp="1591249415741">
+        <mark key="[" line="416" column="3" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/.au-workflow/au-workflow-testbase/dependencies.gradle" timestamp="1591215707230">
         <mark key="[" line="204" column="8" />
@@ -63,7 +66,7 @@
       <file name="$USER_HOME$/dev/workspace/trunk/au-genericobject/au-genericobject-service/build.config" timestamp="1591150865837">
         <mark key="[" line="0" column="121" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/picklist/service/impl/GetPicklistImpl.java" timestamp="1591222928323" />
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/picklist/service/impl/GetPicklistImpl.java" timestamp="1591249261593" />
       <file name="$USER_HOME$/dev/workspace/trunk/au-genericobject/au-genericobject-fileio/build.config" timestamp="1591149383759">
         <mark key="[" line="0" column="40" />
       </file>
