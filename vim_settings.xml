@@ -25,24 +25,50 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591329613336">
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/test/java/com/successfactors/picklist/service/impl/PicklistServiceImplTest.java" timestamp="1591336878615">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/picklist/util/PicklistCache.java" timestamp="1591338449785" />
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/test/java/com/successfactors/picklist/service/impl/GenerateLabelIdsForPickListValuesImplTest.java" timestamp="1591336946836">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-ui/src/main/java/com/successfactors/legacy/ui/fb/provisioning/FuncBlockCompaniesDetails_CompanyDetails.java" timestamp="1591336490678">
+        <mark key="[" line="9727" column="31" />
+      </file>
+      <file name="/PicklistMigrationUtils.java" timestamp="1591338203645" />
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-api/src/main/java/com/successfactors/smartsuite/util/PicklistMigrationUtils.java" timestamp="1591339676994">
+        <mark key="[" line="596" column="6" />
+        <mark key="]" line="596" column="6" />
+        <mark key="." line="596" column="6" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1591336674083">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/smartsuite/util/PicklistMigrationInternalUtils.java" timestamp="1591327239399">
-        <mark key="[" line="117" column="43" />
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-api/src/main/java/com/successfactors/picklist/util/PicklistCache.java" timestamp="1591338495746" />
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/smartsuite/service/impl/SaveLegacyPicklistsToMDFPickListsImpl.java" timestamp="1591339375341">
+        <mark key="[" line="283" column="38" />
+        <mark key="]" line="283" column="38" />
+        <mark key="." line="283" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/my/devkit/refactor2.sh" timestamp="1591309420686">
-        <mark key="[" line="50" column="67" />
-        <mark key="]" line="50" column="67" />
-        <mark key="." line="50" column="67" />
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/test/java/com/successfactors/smartsuite/service/impl/SaveLegacyPicklistsToMDFPickListsImplTest.java" timestamp="1591339128615">
+        <mark key="[" line="72" column="15" />
+        <mark key="]" line="72" column="15" />
+        <mark key="." line="72" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/picklist/dao/impl/oracle/MDFPicklistDAO.java" timestamp="1591326363182">
-        <mark key="[" line="1565" column="38" />
-      </file>
-      <file name="/fragment.java" timestamp="1591329763670">
+      <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-ui/dependencies.gradle" timestamp="1591336518953" />
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/dependencies.gradle" timestamp="1591338522891" />
+      <file name="/fragment.java" timestamp="1591339610340">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-api/src/main/java/com/successfactors/smartsuite/util/PicklistMigrationUtils.java" timestamp="1591329526246" />
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/smartsuite/util/PicklistMigrationServiceUtils.java" timestamp="1591337662524">
+        <mark key="[" line="2400" column="13" />
+        <mark key="]" line="2384" column="12" />
+        <mark key="." line="2384" column="12" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="92" column="20" filename="$USER_HOME$/dev/workspace/my/devkit/refactor.sh" />
@@ -55,39 +81,38 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text>Picklist modularization - add picklist dependency</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zYXAuZGIuamRiY2V4dC53cmFwcGVyLkNvbm5lY3Rpb247Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>add picklist dependency</text>
+        <text>.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBmb3IgbGV0dGVyIGluIHN0cmluZy5hc2NpaV9sb3dlcmNhc2U6CiMgICAgIGZvciBjcG50IGluIGNvbXBvbmVudHM6CiMgICAgICAgICBpZiBjcG50IGluICgnYXUtVjQnLCAnYXUtcGlja2xpc3QnKToKIyAgICAgICAgICAgICBjb250aW51ZQojCiMgICAgICAgICBwcmludChmImNwbnQgLS0+ICIgKyBjcG50KQojCiMgICAgICAgICBpZiBub3QgKGNwbnQuc3RhcnRzd2l0aCgiaWRsLSIgKyBsZXR0ZXIpIG9yIGNwbnQuc3RhcnRzd2l0aCgiYXUtIiArIGxldHRlcikpOgojICAgICAgICAgICAgIHAgPSBzdWJwcm9jZXNzLlBvcGVuKFsnbXYnLCAnLXYnLCBjcG50LCAnLicrY3BudF0sCiMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY3dkPScvVXNlcnMvSTA3MzM2Ny9kZXYvd29ya3NwYWNlL3RydW5rJykKIyAgICAgICAgICAgICBwLndhaXQoKQojICAgICAgICAgZWxzZToKIyAgICAgICAgICAgICBwID0gc3VicHJvY2Vzcy5Qb3BlbihbJ212JywgJy12JywgJy4nK2NwbnQsIGNwbnRdLAojICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGN3ZD0nL1VzZXJzL0kwNzMzNjcvZGV2L3dvcmtzcGFjZS90cnVuaycpCiMgICAgICAgICAgICAgcC53YWl0KCkKIyAgICAgICAgICAgICB1cGRhdGVfcmVwb3MoY3BudCkKIwojICAgICBwID0gc3VicHJvY2Vzcy5Qb3BlbihbJ2dyYWRsZScsICdjb21waWxlSmF2YSddLAojICAgICAgICAgICAgICAgICAgICAgICAgICBjd2Q9Jy9Vc2Vycy9JMDczMzY3L2Rldi93b3Jrc3BhY2UvdHJ1bmsnKQojICAgICBwLndhaXQoKQojICAgICBpZihwLnJldHVybmNvZGUgIT0gMCk6CiMgICAgICAgICBwcmludChjcG50KQ==</text>
+        <text>Picklist modularization - add picklist dependency</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">IyBmb3IgbGV0dGVyIGluIHN0cmluZy5hc2NpaV9sb3dlcmNhc2U6CiMgICAgIGZvciBjcG50IGluIGNvbXBvbmVudHM6CiMgICAgICAgICBpZiBjcG50IGluICgnYXUtVjQnLCAnYXUtcGlja2xpc3QnKToKIyAgICAgICAgICAgICBjb250aW51ZQojCiMgICAgICAgICBwcmludChmImNwbnQgLS0+ICIgKyBjcG50KQojCiMgICAgICAgICBpZiBub3QgKGNwbnQuc3RhcnRzd2l0aCgiaWRsLSIgKyBsZXR0ZXIpIG9yIGNwbnQuc3RhcnRzd2l0aCgiYXUtIiArIGxldHRlcikpOgojICAgICAgICAgICAgIHAgPSBzdWJwcm9jZXNzLlBvcGVuKFsnbXYnLCAnLXYnLCBjcG50LCAnLicrY3BudF0sCiMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY3dkPScvVXNlcnMvSTA3MzM2Ny9kZXYvd29ya3NwYWNlL3RydW5rJykKIyAgICAgICAgICAgICBwLndhaXQoKQojICAgICAgICAgZWxzZToKIyAgICAgICAgICAgICBwID0gc3VicHJvY2Vzcy5Qb3BlbihbJ212JywgJy12JywgJy4nK2NwbnQsIGNwbnRdLAojICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGN3ZD0nL1VzZXJzL0kwNzMzNjcvZGV2L3dvcmtzcGFjZS90cnVuaycpCiMgICAgICAgICAgICAgcC53YWl0KCkKIyAgICAgICAgICAgICB1cGRhdGVfcmVwb3MoY3BudCkKIwojICAgICBwID0gc3VicHJvY2Vzcy5Qb3BlbihbJ2dyYWRsZScsICdjb21waWxlSmF2YSddLAojICAgICAgICAgICAgICAgICAgICAgICAgICBjd2Q9Jy9Vc2Vycy9JMDczMzY3L2Rldi93b3Jrc3BhY2UvdHJ1bmsnKQojICAgICBwLndhaXQoKQojICAgICBpZihwLnJldHVybmNvZGUgIT0gMCk6CiMgICAgICAgICBwcmludChjcG50KQ==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">Cgoj</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICBwcmludChmIntiY29sb3JzLkhFQURFUn1cblxuICBjb21taXR0aW5nIHtjb21wb25lbnR9ICBcblxue2Jjb2xvcnMuRU5EQ30iKQo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>.format(deps,
                                                                         module_from)</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAjZGVsZXRlIGJyYW5jaAo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">IHAgPSBzdWJwcm9jZXNzLlBvcGVuKAogICAgWydnaXQnLCAnY2hlY2tvdXQnLCAnZmVhdHVyZS9BRlQtMTc3MTknXSwgY3dkPScuLycgKyBjKQogIHAud2FpdCgp</text>
       </register>
-      <register name="9" type="4">
-        <text>checkout_component(cpnt)
-    # delete_component(cpnt)</text>
-      </register>
       <register name="-" type="4">
-        <text>add picklist dependency</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21taXRfY2hhbmdlc1w+</text>
