@@ -25,30 +25,29 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1591638145352">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/smartsuite/service/impl/SaveLegacyPicklistsToMDFPickListsImpl.java" timestamp="1591339375341">
         <mark key="[" line="283" column="38" />
         <mark key="]" line="283" column="38" />
         <mark key="." line="283" column="38" />
       </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/test/resources/db/hana/create_tables.sql" timestamp="1591639000838" />
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-api/build.config" timestamp="1591342465950">
         <mark key="[" line="0" column="149" />
-      </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/test/java/com/successfactors/smartsuite/service/impl/SaveLegacyPicklistsToMDFPickListsImplTest.java" timestamp="1591339128615">
-        <mark key="[" line="72" column="15" />
-        <mark key="]" line="72" column="15" />
-        <mark key="." line="72" column="15" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-legacydatamodel/au-legacydatamodel-successiondatamodel/build.config" timestamp="1591342544140">
         <mark key="[" line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/my/devkit/refactor2.sh" timestamp="1591634821509" />
+      <file name="$USER_HOME$/dev/workspace/my/devkit/refactor2.sh" timestamp="1591637312174" />
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/dependencies.gradle" timestamp="1591637763712">
+        <mark key="[" line="74" column="62" />
+        <mark key="]" line="74" column="62" />
+        <mark key="." line="74" column="62" />
+      </file>
       <file name="/fragment.java" timestamp="1591339610340">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/smartsuite/util/PicklistMigrationServiceUtils.java" timestamp="1591337662524">
-        <mark key="[" line="2400" column="13" />
-        <mark key="]" line="2384" column="12" />
-        <mark key="." line="2384" column="12" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-api/src/main/java/com/successfactors/smartsuite/util/PicklistMigrationUtils.java" timestamp="1591380509687">
         <mark key="[" line="596" column="6" />
@@ -67,38 +66,41 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">SklSQTogQUZULTE3ODMwClBpY2tsaXN0IG1vZHVsYXJpemF0aW9uIC0gIA==</text>
+        <text>1) updated from main line</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">SklSQTogQUZULTE3ODMwClBpY2tsaXN0IG1vZHVsYXJpemF0aW9uIC0gIA==</text>
+      <register name="&quot;" type="4">
+        <text>service</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zYXAuZGIuamRiY2V4dC53cmFwcGVyLkNvbm5lY3Rpb247Cg==</text>
+      <register name="2" type="4">
+        <text>move picklist and smartsuite packages to au-picklist
+2) updated dependency files for au-v4, au-picklist and build-system
+3) update UI controller changes in modules 
+4) updated dependency file for modules for ui controllers
+5) update known cyclic dependency between au-v4 and au-picklist</text>
       </register>
       <register name="3" type="2">
-        <text>Picklist modularization - add picklist dependency</text>
+        <text encoding="base64">SklSQTogQUZULTE3ODMwClBpY2tsaXN0IG1vZHVsYXJpemF0aW9uIC0gIA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBmb3IgbGV0dGVyIGluIHN0cmluZy5hc2NpaV9sb3dlcmNhc2U6CiMgICAgIGZvciBjcG50IGluIGNvbXBvbmVudHM6CiMgICAgICAgICBpZiBjcG50IGluICgnYXUtVjQnLCAnYXUtcGlja2xpc3QnKToKIyAgICAgICAgICAgICBjb250aW51ZQojCiMgICAgICAgICBwcmludChmImNwbnQgLS0+ICIgKyBjcG50KQojCiMgICAgICAgICBpZiBub3QgKGNwbnQuc3RhcnRzd2l0aCgiaWRsLSIgKyBsZXR0ZXIpIG9yIGNwbnQuc3RhcnRzd2l0aCgiYXUtIiArIGxldHRlcikpOgojICAgICAgICAgICAgIHAgPSBzdWJwcm9jZXNzLlBvcGVuKFsnbXYnLCAnLXYnLCBjcG50LCAnLicrY3BudF0sCiMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY3dkPScvVXNlcnMvSTA3MzM2Ny9kZXYvd29ya3NwYWNlL3RydW5rJykKIyAgICAgICAgICAgICBwLndhaXQoKQojICAgICAgICAgZWxzZToKIyAgICAgICAgICAgICBwID0gc3VicHJvY2Vzcy5Qb3BlbihbJ212JywgJy12JywgJy4nK2NwbnQsIGNwbnRdLAojICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGN3ZD0nL1VzZXJzL0kwNzMzNjcvZGV2L3dvcmtzcGFjZS90cnVuaycpCiMgICAgICAgICAgICAgcC53YWl0KCkKIyAgICAgICAgICAgICB1cGRhdGVfcmVwb3MoY3BudCkKIwojICAgICBwID0gc3VicHJvY2Vzcy5Qb3BlbihbJ2dyYWRsZScsICdjb21waWxlSmF2YSddLAojICAgICAgICAgICAgICAgICAgICAgICAgICBjd2Q9Jy9Vc2Vycy9JMDczMzY3L2Rldi93b3Jrc3BhY2UvdHJ1bmsnKQojICAgICBwLndhaXQoKQojICAgICBpZihwLnJldHVybmNvZGUgIT0gMCk6CiMgICAgICAgICBwcmludChjcG50KQ==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zYXAuZGIuamRiY2V4dC53cmFwcGVyLkNvbm5lY3Rpb247Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>Picklist modularization - add picklist dependency</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Cgoj</text>
+      <register name="6" type="2">
+        <text encoding="base64">IyBmb3IgbGV0dGVyIGluIHN0cmluZy5hc2NpaV9sb3dlcmNhc2U6CiMgICAgIGZvciBjcG50IGluIGNvbXBvbmVudHM6CiMgICAgICAgICBpZiBjcG50IGluICgnYXUtVjQnLCAnYXUtcGlja2xpc3QnKToKIyAgICAgICAgICAgICBjb250aW51ZQojCiMgICAgICAgICBwcmludChmImNwbnQgLS0+ICIgKyBjcG50KQojCiMgICAgICAgICBpZiBub3QgKGNwbnQuc3RhcnRzd2l0aCgiaWRsLSIgKyBsZXR0ZXIpIG9yIGNwbnQuc3RhcnRzd2l0aCgiYXUtIiArIGxldHRlcikpOgojICAgICAgICAgICAgIHAgPSBzdWJwcm9jZXNzLlBvcGVuKFsnbXYnLCAnLXYnLCBjcG50LCAnLicrY3BudF0sCiMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY3dkPScvVXNlcnMvSTA3MzM2Ny9kZXYvd29ya3NwYWNlL3RydW5rJykKIyAgICAgICAgICAgICBwLndhaXQoKQojICAgICAgICAgZWxzZToKIyAgICAgICAgICAgICBwID0gc3VicHJvY2Vzcy5Qb3BlbihbJ212JywgJy12JywgJy4nK2NwbnQsIGNwbnRdLAojICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGN3ZD0nL1VzZXJzL0kwNzMzNjcvZGV2L3dvcmtzcGFjZS90cnVuaycpCiMgICAgICAgICAgICAgcC53YWl0KCkKIyAgICAgICAgICAgICB1cGRhdGVfcmVwb3MoY3BudCkKIwojICAgICBwID0gc3VicHJvY2Vzcy5Qb3BlbihbJ2dyYWRsZScsICdjb21waWxlSmF2YSddLAojICAgICAgICAgICAgICAgICAgICAgICAgICBjd2Q9Jy9Vc2Vycy9JMDczMzY3L2Rldi93b3Jrc3BhY2UvdHJ1bmsnKQojICAgICBwLndhaXQoKQojICAgICBpZihwLnJldHVybmNvZGUgIT0gMCk6CiMgICAgICAgICBwcmludChjcG50KQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcmludChmIntiY29sb3JzLkhFQURFUn1cblxuICBjb21taXR0aW5nIHtjb21wb25lbnR9ICBcblxue2Jjb2xvcnMuRU5EQ30iKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>.format(deps,
-                                                                        module_from)</text>
+        <text encoding="base64">Cgoj</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAjZGVsZXRlIGJyYW5jaAo=</text>
+        <text encoding="base64">ICBwcmludChmIntiY29sb3JzLkhFQURFUn1cblxuICBjb21taXR0aW5nIHtjb21wb25lbnR9ICBcblxue2Jjb2xvcnMuRU5EQ30iKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bWFzcyBjb2RlIGZvcm1hdCA=</text>
+        <text>service</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21taXRfY2hhbmdlc1w+</text>
