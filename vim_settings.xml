@@ -25,34 +25,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591638145352">
+      <file name="/Dummy.txt" timestamp="1591640067881">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/smartsuite/service/impl/SaveLegacyPicklistsToMDFPickListsImpl.java" timestamp="1591339375341">
-        <mark key="[" line="283" column="38" />
-        <mark key="]" line="283" column="38" />
-        <mark key="." line="283" column="38" />
-      </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/test/resources/db/hana/create_tables.sql" timestamp="1591639000838" />
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-api/build.config" timestamp="1591342465950">
-        <mark key="[" line="0" column="149" />
-      </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-legacydatamodel/au-legacydatamodel-successiondatamodel/build.config" timestamp="1591342544140">
-        <mark key="[" line="0" column="26" />
-      </file>
       <file name="$USER_HOME$/dev/workspace/my/devkit/refactor2.sh" timestamp="1591637312174" />
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/dependencies.gradle" timestamp="1591637763712">
-        <mark key="[" line="74" column="62" />
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/dependencies.gradle" timestamp="1591639927552">
+        <mark key="[" line="74" column="63" />
         <mark key="]" line="74" column="62" />
         <mark key="." line="74" column="62" />
       </file>
-      <file name="/fragment.java" timestamp="1591339610340">
+      <file name="/fragment.java" timestamp="1591640243474">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-api/src/main/java/com/successfactors/smartsuite/util/PicklistMigrationUtils.java" timestamp="1591380509687">
-        <mark key="[" line="596" column="6" />
-        <mark key="]" line="596" column="6" />
-        <mark key="." line="596" column="6" />
       </file>
     </filemarks>
     <jumps>
