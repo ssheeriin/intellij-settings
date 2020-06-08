@@ -25,8 +25,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/build.config" timestamp="1591643493070">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/smartsuite/util/PicklistMigrationUtils.java" timestamp="1591642470603">
         <mark key="[" line="109" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-api/src/main/java/com/successfactors/smartsuite/util/PicklistMigrationUtils.java" timestamp="1591644134069">
+        <mark key="[" line="580" column="8" />
+        <mark key="]" line="580" column="8" />
+        <mark key="." line="580" column="8" />
       </file>
       <file name="/Dummy.txt" timestamp="1591640067881">
         <mark key="[" line="0" column="0" />
@@ -38,13 +46,13 @@
         <mark key="]" line="74" column="62" />
         <mark key="." line="74" column="62" />
       </file>
-      <file name="/fragment.java" timestamp="1591640243474">
+      <file name="/fragment.java" timestamp="1591643972257">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/smartsuite/util/PicklistMigrationServiceUtils.java" timestamp="1591642602859">
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/smartsuite/util/PicklistMigrationServiceUtils.java" timestamp="1591644110766">
         <mark key="[" line="137" column="27" />
-        <mark key="]" line="5343" column="12" />
-        <mark key="." line="5343" column="12" />
+        <mark key="]" line="5327" column="12" />
+        <mark key="." line="5327" column="12" />
       </file>
     </filemarks>
     <jumps>
@@ -61,7 +69,7 @@
         <text>1) updated from main line</text>
       </register>
       <register name="&quot;" type="4">
-        <text>service</text>
+        <text>.</text>
       </register>
       <register name="2" type="4">
         <text>move picklist and smartsuite packages to au-picklist
@@ -92,7 +100,7 @@
         <text encoding="base64">ICBwcmludChmIntiY29sb3JzLkhFQURFUn1cblxuICBjb21taXR0aW5nIHtjb21wb25lbnR9ICBcblxue2Jjb2xvcnMuRU5EQ30iKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>service</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21taXRfY2hhbmdlc1w+</text>
