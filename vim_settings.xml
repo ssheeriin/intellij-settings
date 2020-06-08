@@ -25,6 +25,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/test/java/com/successfactors/smartsuite/util/PicklistMigrationUtilsTest.java" timestamp="1591648490840">
+        <mark key="[" line="249" column="27" />
+        <mark key="]" line="254" column="34" />
+        <mark key="." line="254" column="34" />
+      </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/test/java/com/successfactors/picklist/service/impl/PicklistServiceImplTest.java" timestamp="1591645581070">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -41,20 +46,24 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/test/java/com/successfactors/picklist/dao/impl/oracle/OracleMDFPicklistDAOTest.java" timestamp="1591647833846" />
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-api/src/main/java/com/successfactors/smartsuite/util/PicklistMigrationUtils.java" timestamp="1591644134069">
         <mark key="[" line="580" column="8" />
         <mark key="]" line="580" column="8" />
         <mark key="." line="580" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591646264019">
-        <mark key="[" line="3" column="2" />
+      <file name="/Dummy.txt" timestamp="1591648752704">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-ui/src/main/java/com/successfactors/express/ui/jsdao/goals/GoalsEnumLabelHandler.java" timestamp="1591644851822" />
-      <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/test/resources/db/hana/create_tables.sql" timestamp="1591639000838" />
       <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/java/com/successfactors/legacy/bean/ScaleBean.java" timestamp="1591646164701" />
-      <file name="$USER_HOME$/dev/workspace/my/devkit/refactor2.sh" timestamp="1591637312174" />
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/test/java/com/successfactors/smartsuite/service/impl/SaveLegacyPicklistsToMDFPickListsImplTest.java" timestamp="1591647850245">
+        <mark key="[" line="76" column="15" />
+        <mark key="]" line="76" column="15" />
+        <mark key="." line="76" column="15" />
+      </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/dependencies.gradle" timestamp="1591646365621">
         <mark key="[" line="74" column="63" />
         <mark key="]" line="74" column="62" />
@@ -63,7 +72,7 @@
       <file name="/fragment.java" timestamp="1591643972257">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/smartsuite/util/PicklistMigrationServiceUtils.java" timestamp="1591644110766">
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/smartsuite/util/PicklistMigrationServiceUtils.java" timestamp="1591648401550">
         <mark key="[" line="137" column="27" />
         <mark key="]" line="5327" column="12" />
         <mark key="." line="5327" column="12" />
@@ -80,49 +89,48 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="4">
-        <text>move picklist and smartsuite packages to au-picklist
-2) updated dependency files for au-v4, au-picklist and build-system
-3) update UI controller changes in modules 
-4) updated dependency file for modules for ui controllers
-5) update known cyclic dependency between au-v4 and au-picklist</text>
+        <text>@BeforeMethod
+  public void setup() {
+     
+  }</text>
       </register>
       <register name="&quot;" type="4">
+        <text>getLastMigratedDate</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgIE9iamVjdERlZmluaXRpb24gbG9jYWxpemVkRGF0YU9iamVjdERlZiwgUGFyYW1CZWFuIHBhcmFtcw==</text>
+      </register>
+      <register name="3" type="4">
         <text>move picklist and smartsuite packages to au-picklist
 2) updated dependency files for au-v4, au-picklist and build-system
 3) update UI controller changes in modules 
 4) updated dependency file for modules for ui controllers
 5) update known cyclic dependency between au-v4 and au-picklist</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zYXAuZGIuamRiY2V4dC53cmFwcGVyLkNvbm5lY3Rpb247Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGVkdS5lbW9yeS5tYXRoY3MuYmFja3BvcnQuamF2YS51dGlsLkNvbGxlY3Rpb25zOwo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5zYXAuZGIuamRiY2V4dC53cmFwcGVyLkNvbm5lY3Rpb247Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGVkdS5lbW9yeS5tYXRoY3MuYmFja3BvcnQuamF2YS51dGlsLkNvbGxlY3Rpb25zOwo=</text>
+      </register>
+      <register name="6" type="2">
         <text>1) updated from main line</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>move picklist and smartsuite packages to au-picklist
 2) updated dependency files for au-v4, au-picklist and build-system
 3) update UI controller changes in modules 
 4) updated dependency file for modules for ui controllers
 5) update known cyclic dependency between au-v4 and au-picklist</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">SklSQTogQUZULTE3ODMwClBpY2tsaXN0IG1vZHVsYXJpemF0aW9uIC0gIA==</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5zYXAuZGIuamRiY2V4dC53cmFwcGVyLkNvbm5lY3Rpb247Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text>Picklist modularization - add picklist dependency</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">IyBmb3IgbGV0dGVyIGluIHN0cmluZy5hc2NpaV9sb3dlcmNhc2U6CiMgICAgIGZvciBjcG50IGluIGNvbXBvbmVudHM6CiMgICAgICAgICBpZiBjcG50IGluICgnYXUtVjQnLCAnYXUtcGlja2xpc3QnKToKIyAgICAgICAgICAgICBjb250aW51ZQojCiMgICAgICAgICBwcmludChmImNwbnQgLS0+ICIgKyBjcG50KQojCiMgICAgICAgICBpZiBub3QgKGNwbnQuc3RhcnRzd2l0aCgiaWRsLSIgKyBsZXR0ZXIpIG9yIGNwbnQuc3RhcnRzd2l0aCgiYXUtIiArIGxldHRlcikpOgojICAgICAgICAgICAgIHAgPSBzdWJwcm9jZXNzLlBvcGVuKFsnbXYnLCAnLXYnLCBjcG50LCAnLicrY3BudF0sCiMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY3dkPScvVXNlcnMvSTA3MzM2Ny9kZXYvd29ya3NwYWNlL3RydW5rJykKIyAgICAgICAgICAgICBwLndhaXQoKQojICAgICAgICAgZWxzZToKIyAgICAgICAgICAgICBwID0gc3VicHJvY2Vzcy5Qb3BlbihbJ212JywgJy12JywgJy4nK2NwbnQsIGNwbnRdLAojICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGN3ZD0nL1VzZXJzL0kwNzMzNjcvZGV2L3dvcmtzcGFjZS90cnVuaycpCiMgICAgICAgICAgICAgcC53YWl0KCkKIyAgICAgICAgICAgICB1cGRhdGVfcmVwb3MoY3BudCkKIwojICAgICBwID0gc3VicHJvY2Vzcy5Qb3BlbihbJ2dyYWRsZScsICdjb21waWxlSmF2YSddLAojICAgICAgICAgICAgICAgICAgICAgICAgICBjd2Q9Jy9Vc2Vycy9JMDczMzY3L2Rldi93b3Jrc3BhY2UvdHJ1bmsnKQojICAgICBwLndhaXQoKQojICAgICBpZihwLnJldHVybmNvZGUgIT0gMCk6CiMgICAgICAgICBwcmludChjcG50KQ==</text>
-      </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>getLastMigratedDate</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21taXRfY2hhbmdlc1w+</text>
