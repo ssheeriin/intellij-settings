@@ -35,23 +35,12 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/build.config" timestamp="1591643493070">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/smartsuite/util/PicklistMigrationUtils.java" timestamp="1591642470603">
-        <mark key="[" line="109" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/test/java/com/successfactors/picklist/service/impl/GenerateLabelIdsForPickListValuesImplTest.java" timestamp="1591645966240">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/test/java/com/successfactors/picklist/dao/impl/oracle/OracleMDFPicklistDAOTest.java" timestamp="1591647833846" />
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-api/src/main/java/com/successfactors/smartsuite/util/PicklistMigrationUtils.java" timestamp="1591644134069">
-        <mark key="[" line="580" column="8" />
-        <mark key="]" line="580" column="8" />
-        <mark key="." line="580" column="8" />
-      </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-ui/src/main/java/com/successfactors/express/ui/jsdao/goals/GoalsEnumLabelHandler.java" timestamp="1591644851822" />
       <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/test/resources/db/hana/create_tables.sql" timestamp="1591649552524" />
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/test/resources/db/hana/create_person_search_tables.sql" timestamp="1591649543512" />
@@ -68,9 +57,6 @@
         <mark key="[" line="74" column="63" />
         <mark key="]" line="74" column="62" />
         <mark key="." line="74" column="62" />
-      </file>
-      <file name="/fragment.java" timestamp="1591643972257">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/smartsuite/util/PicklistMigrationServiceUtils.java" timestamp="1591648401550">
         <mark key="[" line="137" column="27" />
