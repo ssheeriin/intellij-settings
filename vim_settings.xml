@@ -41,6 +41,11 @@
         <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/test/java/com/successfactors/picklist/dao/impl/oracle/OracleMDFPicklistDAOTest.java" timestamp="1591647833846" />
+      <file name="/Dummy.txt" timestamp="1591657552940">
+        <mark key="[" line="3" column="1" />
+        <mark key="]" line="3" column="2" />
+        <mark key="." line="3" column="2" />
+      </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-ui/src/main/java/com/successfactors/express/ui/jsdao/goals/GoalsEnumLabelHandler.java" timestamp="1591644851822" />
       <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/test/resources/db/hana/create_tables.sql" timestamp="1591649552524" />
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/test/resources/db/hana/create_person_search_tables.sql" timestamp="1591649543512" />
@@ -81,7 +86,7 @@
   }</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Zml4IHRlc3Qg</text>
+        <text>fix test</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICAgIE9iamVjdERlZmluaXRpb24gbG9jYWxpemVkRGF0YU9iamVjdERlZiwgUGFyYW1CZWFuIHBhcmFtcw==</text>
@@ -116,7 +121,7 @@
         <text encoding="base64">aW1wb3J0IGNvbS5zYXAuZGIuamRiY2V4dC53cmFwcGVyLkNvbm5lY3Rpb247Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Zml4IHRlc3Qg</text>
+        <text>fix test</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21taXRfY2hhbmdlc1w+</text>
