@@ -46,7 +46,7 @@
         <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/test/java/com/successfactors/picklist/dao/impl/oracle/OracleMDFPicklistDAOTest.java" timestamp="1591647833846" />
-      <file name="/Dummy.txt" timestamp="1591657552940">
+      <file name="/Dummy.txt" timestamp="1591659264763">
         <mark key="[" line="3" column="1" />
         <mark key="]" line="3" column="2" />
         <mark key="." line="3" column="2" />
@@ -91,7 +91,7 @@
   }</text>
       </register>
       <register name="&quot;" type="4">
-        <text>api</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICAgIE9iamVjdERlZmluaXRpb24gbG9jYWxpemVkRGF0YU9iamVjdERlZiwgUGFyYW1CZWFuIHBhcmFtcw==</text>
@@ -126,7 +126,7 @@
         <text encoding="base64">aW1wb3J0IGNvbS5zYXAuZGIuamRiY2V4dC53cmFwcGVyLkNvbm5lY3Rpb247Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>api</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21taXRfY2hhbmdlc1w+</text>
