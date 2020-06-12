@@ -46,11 +46,6 @@
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/smartsuite/util/PicklistMigrationClient.java" timestamp="1591943077395">
         <mark key="[" line="682" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-peopleprofile/au-peopleprofile-web/dependencies.gradle" timestamp="1591826285182">
-        <mark key="[" line="48" column="55" />
-        <mark key="]" line="48" column="55" />
-        <mark key="." line="48" column="55" />
-      </file>
       <file name="$USER_HOME$/dev/workspace/trunk/tomcat-sfs/sf_conf/log4j2.xml" timestamp="1591898596655">
         <mark key="[" line="106" column="68" />
         <mark key="]" line="106" column="68" />
