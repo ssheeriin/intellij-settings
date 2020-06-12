@@ -25,6 +25,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dev/workspace/trunk/au-ise/au-ise-service/dependencies.gradle" timestamp="1591973012645" />
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-ui/src/main/java/com/successfactors/picklist/ui/controller/PicklistController.java" timestamp="1591893823475">
         <mark key="[" line="248" column="38" />
         <mark key="]" line="244" column="18" />
@@ -62,7 +63,7 @@
         <mark key="]" line="8" column="30" />
         <mark key="." line="8" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/dependencies.gradle" timestamp="1591944109818">
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/dependencies.gradle" timestamp="1591972996710">
         <mark key="[" line="39" column="9" />
         <mark key="]" line="159" column="0" />
         <mark key="." line="159" column="0" />
