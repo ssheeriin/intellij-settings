@@ -61,13 +61,12 @@
       <file name="/fragment.java" timestamp="1591905578127">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/" timestamp="1591995622556">
+      <file name="/" timestamp="1591999058150">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-api/src/main/java/com/successfactors/smartsuite/util/PicklistMigrationUtils.java" timestamp="1591943308727">
         <mark key="[" line="2" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/smartsuite/util/PicklistMigrationServiceUtils.java" timestamp="1591994693014" />
     </filemarks>
     <jumps>
       <jump line="92" column="20" filename="$USER_HOME$/dev/workspace/my/devkit/refactor.sh" />

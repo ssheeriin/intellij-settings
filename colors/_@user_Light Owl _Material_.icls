@@ -4,17 +4,17 @@
     <property name="created">2020-06-12T13:53:04</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2020.2.0.0</property>
-    <property name="modified">2020-06-12T13:59:20</property>
+    <property name="modified">2020-06-12T14:57:51</property>
     <property name="originalScheme">Light Owl (Material)</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.4" />
+  <option name="LINE_SPACING" value="1.2" />
   <font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="11" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="11" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
@@ -26,6 +26,7 @@
     <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
   <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="49d0c5" />
     <option name="ANNOTATIONS_COLOR" value="90a7b2" />
@@ -593,7 +594,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="994cc3" />
+        <option name="FOREGROUND" value="8e28c3" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
