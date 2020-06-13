@@ -25,10 +25,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591999996933">
+      <file name="/Dummy.txt" timestamp="1592022560189">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="2" />
-        <mark key="." line="3" column="2" />
+        <mark key="]" line="6" column="2" />
+        <mark key="." line="6" column="2" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/build-system/sfs-local-overrides/tomcat-dev-docker-hana/sf_conf/sfserver.properties" timestamp="1591894633891">
         <mark key="[" line="295" column="0" />
