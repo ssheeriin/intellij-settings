@@ -35,10 +35,10 @@
       <file name="$USER_HOME$/dev/workspace/trunk/au-usermanagement/au-usermanagement-api/dependencies.gradle" timestamp="1592020994909">
         <mark key="[" line="38" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592238887174">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="16" />
-        <mark key="." line="1" column="16" />
+      <file name="/Dummy.txt" timestamp="1592240018292">
+        <mark key="[" line="1" column="37" />
+        <mark key="]" line="1" column="38" />
+        <mark key="." line="1" column="38" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/java/com/successfactors/smartsuite/service/impl/CreateDBViewFromGOForPickListLabelImpl.java" timestamp="1592237472139" />
       <file name="$USER_HOME$/test/src/main/java/test/hello.java" timestamp="1592004641632">
@@ -83,7 +83,7 @@
         <text encoding="base64">IDxQcm9wZXJ0aWVzPgogICAgICAgICAgICA8UHJvcGVydHkgbmFtZT0iTE9HX1BBVFRFUk4iPgoKICAgICAgICAgICAgPC9Qcm9wZXJ0eT4KICAgICAgICA8L1Byb3BlcnRpZXM+</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>V4</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPC9QYXR0ZXJuTGF5b3V0Pgo=</text>
@@ -111,7 +111,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>V4</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21taXRfY2hhbmdlc1w+</text>
