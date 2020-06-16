@@ -31,9 +31,6 @@
         <mark key="]" line="0" column="38" />
         <mark key="." line="0" column="38" />
       </file>
-      <file name="$USER_HOME$/test/src/test/java/test/WorldTest.java" timestamp="1592004915479">
-        <mark key="[" line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-timemanagement/au-timemanagement-applicationTest/src/applicationTest/java/com/successfactors/sit/timemanagement/absence/features/dwr/createandcancelabsences/CreateAndCancelAbsences.java" timestamp="1592284623424" />
       <file name="$USER_HOME$/dev/workspace/trunk/au-timemanagement/au-timemanagement-applicationTest/src/applicationTest/java/com/successfactors/sit/timemanagement/absence/features/dwr/createandcancelabsences/createAndCancelAbsences.feature" timestamp="1592263972972" />
       <file name="$USER_HOME$/dev/workspace/trunk/au-usermanagement/au-usermanagement-legacy/dependencies.gradle" timestamp="1592237920585">
@@ -51,9 +48,6 @@
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/smartsuite/service/impl/CreateDBViewFromGOForPickListLabelImpl.java" timestamp="1592238391416">
         <mark key="[" line="158" column="20" />
-      </file>
-      <file name="$USER_HOME$/test/src/main/java/test/Hello.java" timestamp="1592004958544">
-        <mark key="[" line="6" column="26" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-api/src/main/java/com/successfactors/smartsuite/util/PicklistMigrationUtils.java" timestamp="1592238240345">
         <mark key="[" line="2" column="4" />
