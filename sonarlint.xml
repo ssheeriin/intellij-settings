@@ -4,13 +4,13 @@
       <list>
         <SonarQubeServer>
           <option name="hostUrl" value="https://sf-sonar.devprod.sap.corp" />
+          <token>df9adfc9df92df93df92dfcfdfc9df99df93dfc9df98dfc9df9edfc8df98dfccdfccdfcedf92dfccdfcfdf99df9edfccdf9ddfc8dfcbdfcedf9cdf9cdf9fdf98df9adf9adf9ddfcfdfcedf98dfc8df9c</token>
           <option name="name" value="SF Sonar" />
-          <option name="login" value="I073367" />
-          <password>dfdedfc3dfc7dfdadf9edff9dfc6df93</password>
           <organizationKey>default-organization</organizationKey>
           <enableNotifications>true</enableNotifications>
         </SonarQubeServer>
       </list>
     </option>
+    <rules />
   </component>
 </application>
