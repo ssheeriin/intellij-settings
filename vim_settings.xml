@@ -55,6 +55,11 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.successfactors/au-picklist-service/trunk.1.0.202006170402/f8f372f47ee1617daaa0caebbc0c152081de01e0/au-picklist-service-trunk.1.0.202006170402-sources.jar!/com/successfactors/picklist/dao/impl/oracle/OracleMDFPicklistDAO.java" timestamp="1592431088867" />
       <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-ui/dependencies.gradle" timestamp="1592418719748" />
       <file name="$USER_HOME$/dev/workspace/my/devkit/refactor2.sh" timestamp="1592416110365" />
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/dependencies.gradle" timestamp="1592433442931">
+        <mark key="[" line="43" column="4" />
+        <mark key="]" line="43" column="4" />
+        <mark key="." line="43" column="4" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="92" column="20" filename="$USER_HOME$/dev/workspace/my/devkit/refactor.sh" />
@@ -70,7 +75,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>PicklistMigrationUtils</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ZGQK</text>
@@ -97,7 +102,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgVGVtcGxhdGUgZ2V0VGVtcGxhdGUoU2VydmljZUNvbW1hbmRIYW5kbGVyIHNjYUhhbmRsZXIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyB0ZW1wbGF0ZUlkLCBTZXQ8U3RyaW5nPiBleGNsdWRlZEZpZWxkcykKICAgICAgICB0aHJvd3MgU2VydmljZUFwcGxpY2F0aW9uRXhjZXB0aW9uIHsKICAgICAgVGVtcGxhdGUgdGVtcGxhdGUgPSBudWxsOwogICAgICB0cnkgewogICAgICAgIHRlbXBsYXRlID0gc2NhSGFuZGxlcgogICAgICAgICAgICAuZXhlY3V0ZShuZXcgR2V0VGVtcGxhdGUodGVtcGxhdGVJZCwgZXhjbHVkZWRGaWVsZHMpKTsKICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICBsb2dnZXIuZXJyb3IoIlVuYWJsZSB0byBnZXQgdGVtcGxhdGUgZm9yIGlkOigiICsgdGVtcGxhdGVJZCArICIpIiwgZSk7CiAgICAgICAgdGhyb3cgbmV3IFNlcnZpY2VBcHBsaWNhdGlvbkV4Y2VwdGlvbigKICAgICAgICAgICAgIlVuYWJsZSB0byBnZXQgdGVtcGxhdGUgZm9yIGlkOigiICsgdGVtcGxhdGVJZCArICIpIiwgZSk7CiAgICAgIH0KICAgICAgcmV0dXJuIHRlbXBsYXRlOwogICAgfQ==</text>
       </register>
       <register name="-" type="4">
-        <text>PicklistMigrationUtils</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21taXRfY2hhbmdlc1w+</text>
