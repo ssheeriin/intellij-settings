@@ -45,11 +45,12 @@
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/picklist/service/impl/GetPicklistImpl.java" timestamp="1592353040286">
         <mark key="[" line="87" column="107" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592355778627">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="2" />
-        <mark key="." line="1" column="2" />
+      <file name="/Dummy.txt" timestamp="1592401989822">
+        <mark key="[" line="1" column="25" />
+        <mark key="]" line="1" column="26" />
+        <mark key="." line="1" column="26" />
       </file>
+      <file name="$USER_HOME$/dev/workspace/my/devkit/refactor2.sh" timestamp="1592401942768" />
     </filemarks>
     <jumps>
       <jump line="92" column="20" filename="$USER_HOME$/dev/workspace/my/devkit/refactor.sh" />
@@ -65,7 +66,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>throwables.printStackTrace();</text>
+        <text>add picklist dependency</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ZGQK</text>
@@ -92,7 +93,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgVGVtcGxhdGUgZ2V0VGVtcGxhdGUoU2VydmljZUNvbW1hbmRIYW5kbGVyIHNjYUhhbmRsZXIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyB0ZW1wbGF0ZUlkLCBTZXQ8U3RyaW5nPiBleGNsdWRlZEZpZWxkcykKICAgICAgICB0aHJvd3MgU2VydmljZUFwcGxpY2F0aW9uRXhjZXB0aW9uIHsKICAgICAgVGVtcGxhdGUgdGVtcGxhdGUgPSBudWxsOwogICAgICB0cnkgewogICAgICAgIHRlbXBsYXRlID0gc2NhSGFuZGxlcgogICAgICAgICAgICAuZXhlY3V0ZShuZXcgR2V0VGVtcGxhdGUodGVtcGxhdGVJZCwgZXhjbHVkZWRGaWVsZHMpKTsKICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICBsb2dnZXIuZXJyb3IoIlVuYWJsZSB0byBnZXQgdGVtcGxhdGUgZm9yIGlkOigiICsgdGVtcGxhdGVJZCArICIpIiwgZSk7CiAgICAgICAgdGhyb3cgbmV3IFNlcnZpY2VBcHBsaWNhdGlvbkV4Y2VwdGlvbigKICAgICAgICAgICAgIlVuYWJsZSB0byBnZXQgdGVtcGxhdGUgZm9yIGlkOigiICsgdGVtcGxhdGVJZCArICIpIiwgZSk7CiAgICAgIH0KICAgICAgcmV0dXJuIHRlbXBsYXRlOwogICAgfQ==</text>
       </register>
       <register name="-" type="4">
-        <text>throwables.printStackTrace();</text>
+        <text>add picklist dependency</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21taXRfY2hhbmdlc1w+</text>
