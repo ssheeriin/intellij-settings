@@ -25,7 +25,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1592589080293">
+      <file name="/Dummy.txt" timestamp="1592590055063">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
@@ -51,11 +51,15 @@
         <mark key="^" line="88" column="37" />
         <mark key="." line="128" column="6" />
       </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/java/com/successfactors/smartsuite/service/impl/MigratePicklistAndLabelTableDataImpl.java" timestamp="1592589930217">
+        <mark key="[" line="270" column="61" />
+      </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/picklist/dao/impl/oracle/PaginationTypeEnum.java" timestamp="1592433909185">
         <mark key="[" line="5" column="26" />
         <mark key="]" line="5" column="26" />
         <mark key="." line="5" column="26" />
       </file>
+      <file name="$USER_HOME$/dev/workspace/my/devkit/refactor2.sh" timestamp="1592590049110" />
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/dependencies.gradle" timestamp="1592433442931">
         <mark key="[" line="43" column="4" />
         <mark key="]" line="43" column="4" />
