@@ -25,8 +25,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1592607667374">
-        <mark key="[" line="3" column="2" />
+      <file name="/Dummy.txt" timestamp="1592670870180">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
