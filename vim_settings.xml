@@ -25,7 +25,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.successfactors/au-V4-service/trunk.1.2.202006221241/30e7cca8dedbbbeeb0cc82cc02bb448b73d753df/au-V4-service-trunk.1.2.202006221241-sources.jar!/com/successfactors/instancesync/service/impl/GetExistingPickListsImpl.java" timestamp="1592935768671" />
+      <file name="/Dummy.txt" timestamp="1592940470831">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="13" />
+        <mark key="." line="1" column="13" />
+      </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/build/resources/main/activity-role-map.xml" timestamp="1592939199240">
         <mark key="[" line="1314" column="85" />
       </file>
@@ -40,10 +44,16 @@
         <mark key="." line="593" column="29" />
         <mark key="^" line="593" column="30" />
       </file>
+      <file name="/" timestamp="1592932020265">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-ui/src/main/resources/gas.xml" timestamp="1592850052694">
         <mark key="[" line="630" column="0" />
         <mark key="]" line="630" column="0" />
         <mark key="." line="630" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/resources/activity-feature-map.xml" timestamp="1592939222570">
+        <mark key="[" line="3142" column="18" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/resources/activity-role-map.xml" timestamp="1592939368723">
         <mark key="[" line="749" column="62" />
@@ -55,30 +65,6 @@
         <mark key="]" line="200" column="0" />
         <mark key="." line="200" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/picklist/dao/PicklistDAO.java" timestamp="1592936059505" />
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/picklist/dao/impl/oracle/OracleMDFPicklistDAO.java" timestamp="1592936093248" />
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-api/src/main/java/com/successfactors/picklist/service/PicklistService.java" timestamp="1592939007651">
-        <mark key="[" line="112" column="22" />
-        <mark key="]" line="112" column="23" />
-        <mark key="." line="112" column="22" />
-        <mark key="^" line="112" column="23" />
-      </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-api/src/main/java/com/successfactors/picklist/service/GetPicklistLabelByLabelId.java" timestamp="1592938259736">
-        <mark key="[" line="6" column="17" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1592939234576">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="3" />
-        <mark key="." line="3" column="3" />
-      </file>
-      <file name="/" timestamp="1592932020265">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/test/java/com/successfactors/picklist/service/impl/GetOptionIdAndNonUniqueExternalCodeByPicklistIdImplTest.java" timestamp="1592939477855" />
-      <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/resources/activity-feature-map.xml" timestamp="1592939222570">
-        <mark key="[" line="3142" column="18" />
-      </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-api/src/main/java/com/successfactors/picklist/service/GetOptionIdAndNonUniqueExternalCodeByPicklistId.java" timestamp="1592939454676" />
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/test/java/com/successfactors/picklist/service/impl/GetPicklistLabelByLabelIdImplTest.java" timestamp="1592939974391">
         <mark key="[" line="45" column="15" />
         <mark key="]" line="45" column="15" />
@@ -98,6 +84,15 @@
       <file name="/fragment.java" timestamp="1592939407002">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-api/src/main/java/com/successfactors/picklist/service/PicklistService.java" timestamp="1592939007651">
+        <mark key="[" line="112" column="22" />
+        <mark key="]" line="112" column="23" />
+        <mark key="." line="112" column="22" />
+        <mark key="^" line="112" column="23" />
+      </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-api/src/main/java/com/successfactors/picklist/service/GetPicklistLabelByLabelId.java" timestamp="1592938259736">
+        <mark key="[" line="6" column="17" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="92" column="20" filename="$USER_HOME$/dev/workspace/my/devkit/refactor.sh" />
@@ -112,8 +107,8 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Picklist modularization - refactor code and update references</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIGFzc2VydEVxdWFscyhyZXN1bHQsIGxhYmVsQmVhbik7Cg==</text>
@@ -140,7 +135,7 @@
         <text encoding="base64">IAogIEA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IExhYmVsQmVhbiByZXN1bHQgPQ==</text>
+        <text>Picklist modularization - refactor code and update references</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21taXRfY2hhbmdlc1w+</text>
