@@ -25,7 +25,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1592930817170">
+      <file name="/Dummy.txt" timestamp="1592931798293">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="3" />
         <mark key="." line="3" column="3" />
@@ -42,7 +42,7 @@
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/smartsuite/util/PicklistMigrationClient.java" timestamp="1592353959503">
         <mark key="[" line="243" column="55" />
       </file>
-      <file name="/" timestamp="1592931183363">
+      <file name="/" timestamp="1592932020265">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-ui/src/main/resources/gas.xml" timestamp="1592850052694">
@@ -74,13 +74,11 @@
         <mark key="]" line="64" column="95" />
         <mark key="." line="64" column="95" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/picklist/dao/PicklistDAO.java" timestamp="1592930741832" />
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/dependencies.gradle" timestamp="1592861479031">
         <mark key="[" line="65" column="62" />
         <mark key="]" line="67" column="4" />
         <mark key="." line="67" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/my/devkit/refactor2.sh" timestamp="1592849885893" />
       <file name="/fragment.java" timestamp="1592433948251">
         <mark key="[" line="0" column="0" />
       </file>
