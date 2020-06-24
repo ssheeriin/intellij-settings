@@ -14,5 +14,6 @@
     <mask>*.gradle</mask>
     <mask>gas.xml</mask>
     <mask>*.xml</mask>
+    <mask>*.xhtml</mask>
   </component>
 </application>
