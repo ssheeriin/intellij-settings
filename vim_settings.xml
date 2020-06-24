@@ -54,10 +54,10 @@
       <file name="$USER_HOME$/dev/workspace/trunk/au-recruiting/au-recruiting-web/src/main/webapp/ui/rcmcandidate/pages/fb_candidate_summary.jsp" timestamp="1593029542920">
         <mark key="[" line="56" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592975993438">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="14" />
-        <mark key="." line="0" column="14" />
+      <file name="/Dummy.txt" timestamp="1593029756375">
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="3" column="7" />
+        <mark key="." line="3" column="7" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/picklist/service/impl/GetPicklistLabelByOptionIdAndLocaleImpl.java" timestamp="1592976023660">
         <mark key="[" line="18" column="2" />
@@ -99,7 +99,16 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text>JIRA: AFT-17830
+Description: Picklist modularization - refactor code and update references
+Changes: 
+1) fix reverse dependency issue</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>issue</text>
+      </register>
+      <register name="2" type="4">
         <text>@Test(groups = {&quot;checkin&quot;}, expectedExceptions = ServiceApplicationException.class)
   public void testGetOptionIdAndNonUniqueExternalCodeByPicklistIdImpl_exception(
       @Mocked GetOptionIdAndNonUniqueExternalCodeByPicklistId cmd)
@@ -117,35 +126,29 @@
     impl.execute(cmd);
   }</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>2</text>
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgQXNzZXJ0LmFzc2VydEVxdWFscyhyZXN1bHQsIGxhYmVsQmVhbik7Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgQXNzZXJ0LmZhaWwoIlVuZXhwZWN0ZWQgZXhjZXB0aW9uIiwgZSk7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIH0gY2F0Y2ggKFNlcnZpY2VBcHBsaWNhdGlvbkV4Y2VwdGlvbiBlKSB7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgQXNzZXJ0LmFzc2VydE5vdE51bGwocmVzdWx0KTsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHRkZHJ5IHsK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">YXVnaHQgd2hpbGUgZ2V0dGluZyA8T3B0aW9uIGlkLCBleHRlcm5hbCBjb2RlPiBmb3IgcGlja2xpc3RJZCA6ICIKICAgICAgICAgICsgcGlja2xpc3RJRCwgZSk=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0gbG9jYWxlICAK</text>
-      </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>issue</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21taXRfY2hhbmdlc1w+</text>
