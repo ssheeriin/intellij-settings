@@ -25,11 +25,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/test/java/com/successfactors/picklist/service/impl/PicklistServiceImplTest.java" timestamp="1592975563849">
-        <mark key="[" line="300" column="36" />
-        <mark key="]" line="300" column="36" />
-        <mark key="." line="300" column="36" />
-      </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/build.config" timestamp="1593015941451">
         <mark key="[" line="0" column="91" />
       </file>
