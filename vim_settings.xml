@@ -73,11 +73,6 @@
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/build-system/package-def.xml" timestamp="1593025358990" />
       <file name="$USER_HOME$/dev/workspace/trunk/au-recruiting/au-recruiting-web/src/main/webapp/ui/rcmcareer/pages/fb_career_job_application.jsp" timestamp="1593026106112" />
-      <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/resources/activity-feature-map.xml" timestamp="1592975777423">
-        <mark key="[" line="3164" column="58" />
-        <mark key="]" line="3164" column="58" />
-        <mark key="." line="3164" column="58" />
-      </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-recruiting/au-recruiting-web/src/main/webapp/ui/rcmjobsearch/js/CareerJobSearch.js" timestamp="1593025323985" />
       <file name="$USER_HOME$/dev/workspace/trunk/tomcat-sfs/conf/web.xml" timestamp="1593023846228" />
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/dependencies.gradle" timestamp="1593020257558">
