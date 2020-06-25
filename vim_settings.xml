@@ -96,7 +96,7 @@ Changes:
 1) fix reverse dependency issue</text>
       </register>
       <register name="&quot;" type="4">
-        <text>issue</text>
+        <text>agination</text>
       </register>
       <register name="2" type="4">
         <text>@Test(groups = {&quot;checkin&quot;}, expectedExceptions = ServiceApplicationException.class)
@@ -138,7 +138,7 @@ Changes:
         <text encoding="base64">YXVnaHQgd2hpbGUgZ2V0dGluZyA8T3B0aW9uIGlkLCBleHRlcm5hbCBjb2RlPiBmb3IgcGlja2xpc3RJZCA6ICIKICAgICAgICAgICsgcGlja2xpc3RJRCwgZSk=</text>
       </register>
       <register name="-" type="4">
-        <text>issue</text>
+        <text>agination</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21taXRfY2hhbmdlc1w+</text>
