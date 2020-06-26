@@ -25,54 +25,73 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/test/java/com/successfactors/datamodel/util/SuccessionDataModelWriterTest.java" timestamp="1593113887890" />
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/test/java/com/successfactors/picklist/service/impl/PicklistServiceImplTest.java" timestamp="1593195553204">
+        <mark key="[" line="318" column="66" />
+        <mark key="]" line="318" column="67" />
+        <mark key="." line="318" column="58" />
+      </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/picklist/service/impl/GetOptionIdByPickListIdAndExternalCodeImpl.java" timestamp="1593194945471" />
       <file name="$USER_HOME$/dev/workspace/trunk/au-recruiting/au-recruiting-web/src/main/webapp/ui/rcmcandidate/pages/fb_candidate_adv_search_v2.jsp" timestamp="1593029531144">
         <mark key="[" line="53" column="44" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-ui/src/test/java/com/successfactors/datamodel/util/SuccessionDataModelWriterTest.java" timestamp="1593113901249">
         <mark key="[" line="290" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/build-system/dependencies.gradle" timestamp="1593026116149" />
-      <file name="$USER_HOME$/dev/workspace/trunk/au-recruiting/au-recruiting-web/src/main/webapp/ui/rcmcareer/pages/fb_career_search.jsp" timestamp="1593026726251">
-        <mark key="[" line="3" column="43" />
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/test/java/com/successfactors/picklist/service/impl/GetPicklistByExternalCodeImplTest.java" timestamp="1593196131379">
+        <mark key="[" line="12" column="47" />
+        <mark key="]" line="12" column="47" />
+        <mark key="." line="12" column="47" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/resources/feature-access.xml" timestamp="1593122132539">
-        <mark key="[" line="6" column="3" />
-        <mark key="]" line="6" column="3" />
-        <mark key="." line="6" column="3" />
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/test/java/com/successfactors/picklist/service/impl/GetOptionIdByPickListIdAndExternalCodeImplTest.java" timestamp="1593194964643" />
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-api/src/main/java/com/successfactors/picklist/service/GetPicklistByExternalCode.java" timestamp="1593194702099">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-ise/au-ise-ui/dependencies.gradle" timestamp="1593020359864">
-        <mark key="[" line="32" column="126" />
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/resources/feature-access.xml" timestamp="1593195764892">
+        <mark key="[" line="9" column="54" />
+        <mark key="]" line="9" column="54" />
+        <mark key="." line="9" column="54" />
+        <mark key="^" line="12" column="21" />
+      </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/picklist/service/impl/GetPicklistByExternalCodeImpl.java" timestamp="1593194929402">
+        <mark key="[" line="19" column="60" />
+      </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/picklist/service/impl/PicklistServiceImpl.java" timestamp="1593194444678">
+        <mark key="[" line="215" column="38" />
+        <mark key="]" line="215" column="38" />
+        <mark key="." line="215" column="38" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-recruiting/au-recruiting-web/src/main/webapp/ui/rcmjobreq/pages/fb_jobReqRenderer.jsp" timestamp="1593029514997">
         <mark key="[" line="175" column="45" />
       </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/picklist/dao/impl/oracle/OracleMDFPicklistDAO.java" timestamp="1593194134590" />
       <file name="$USER_HOME$/dev/workspace/trunk/au-recruiting/au-recruiting-web/src/main/webapp/ui/rcmcandidate/pages/fb_candidate_summary.jsp" timestamp="1593029542920">
         <mark key="[" line="56" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593120425443">
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-api/src/main/java/com/successfactors/picklist/service/PicklistService.java" timestamp="1593195724799">
+        <mark key="[" line="125" column="19" />
+        <mark key="]" line="114" column="2" />
+        <mark key="." line="114" column="2" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1593196159291">
         <mark key="a" line="3" column="31" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-ui/dependencies.gradle" timestamp="1593020281960">
-        <mark key="[" line="31" column="2" />
-      </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-recruiting/au-recruiting-web/src/main/webapp/ui/rcmjobposting/pages/fb_job_listing_summary.jsp" timestamp="1593029551594">
         <mark key="[" line="58" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/build-system/package-def.xml" timestamp="1593025358990" />
-      <file name="$USER_HOME$/dev/workspace/trunk/au-recruiting/au-recruiting-web/src/main/webapp/ui/rcmcareer/pages/fb_career_job_application.jsp" timestamp="1593026106112" />
-      <file name="$USER_HOME$/dev/workspace/trunk/au-recruiting/au-recruiting-web/src/main/webapp/ui/rcmjobsearch/js/CareerJobSearch.js" timestamp="1593025323985" />
-      <file name="$USER_HOME$/dev/workspace/trunk/tomcat-sfs/conf/web.xml" timestamp="1593023846228" />
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/resources/role-access.xml" timestamp="1593121968953">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-api/src/main/java/com/successfactors/picklist/service/GetOptionIdByPickListIdAndExternalCode.java" timestamp="1593194756755" />
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/resources/role-access.xml" timestamp="1593193389422">
+        <mark key="[" line="10" column="20" />
+        <mark key="]" line="10" column="20" />
+        <mark key="." line="10" column="19" />
+        <mark key="^" line="10" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/dependencies.gradle" timestamp="1593020257558">
-        <mark key="[" line="42" column="0" />
+      <file name="/fragment.java" timestamp="1593194953380">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -86,55 +105,37 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="4">
-        <text encoding="base64">IDxhY3Rpdml0eSBpZD0iY29tLnN1Y2Nlc3NmYWN0b3JzLmhyaXMuc2VydmljZS5zeW5jLkdldFBlcnNvbkJhc2VkRW1wbG95ZWVQcm9maWxlRmllbGRzIj4KICAgICAgPGZlYXR1cmUgaWQ9IioiLz4KICAgIDwvYWN0aXZpdHk+CiAgIA==</text>
+        <text encoding="base64">IHNjYUhhbmRsZXIuZXhlY3V0ZSh3aXRoSW5zdGFuY2VPZihHZXRQaWNrbGlzdExhYmVsQnlPcHRpb25JZEFuZExvY2FsZS5jbGFzcykpOwogICAg</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IDxhY3Rpdml0eSBpZD0iY29tLnN1Y2Nlc3NmYWN0b3JzLmhyaXMuc2VydmljZS5zeW5jLkdldFBlcnNvbkJhc2VkRW1wbG95ZWVQcm9maWxlRmllbGRzIj4KICAgICAgPGZlYXR1cmUgaWQ9IioiLz4KICAgIDwvYWN0aXZpdHk+CiAgIA==</text>
+        <text>GetPicklistLabelByOptionIdAndLocale</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IDxhY3Rpdml0eSBpZD0iY29tLnN1Y2Nlc3NmYWN0b3JzLmhyaXMuc2VydmljZS53Zi5Xb3JrZmxvd0VtYWlsVG9rZW5SZXNvbHZlciI+CiAgICAgIDxmZWF0dXJlIGlkPSIqIi8+CiAgICA8L2FjdGl2aXR5PgogICAgPGFjdGl2aXR5IGlkPSJjb20uc3VjY2Vzc2ZhY3RvcnMuaHJpcy5zZXJ2aWNlLndmLkdldFdvcmtmbG93Q29uZmlnIj4KICAgICAgPGZlYXR1cmUgaWQ9IioiLz4KICAgIDwvYWN0aXZpdHk+CiAgICA8YWN0aXZpdHkgaWQ9ImNvbS5zdWNjZXNzZmFjdG9ycy5ocmlzLnNlcnZpY2Uud2YucHVyZ2UuQmF0Y2hEZWxldGVXb3JrZmxvd1NlcnZpY2UiPgogICAgICA8ZmVhdHVyZSBpZD0iKiIvPgogICAgPC9hY3Rpdml0eT4KICAgIDxhY3Rpdml0eSBpZD0iY29tLnN1Y2Nlc3NmYWN0b3JzLmhyaXMuc2VydmljZS53Zi5wdXJnZS5HZXRTZWFtQ29tcG9uZW50RnJvbU5vblNDQSI+CiAgICAgIDxmZWF0dXJlIGlkPSIqIi8+CiAgICA8L2FjdGl2aXR5PgogICAgPGFjdGl2aXR5IGlkPSJjb20uc3VjY2Vzc2ZhY3RvcnMuaHJpcy5zZXJ2aWNlLndmLnB1cmdlLldvcmtmbG93UHVyZ2VGaW5kZXJTZXJ2aWNlIj4KICAgICAgPGZlYXR1cmUgaWQ9IioiLz4KICAgIDwvYWN0aXZpdHk+CiAgICA8YWN0aXZpdHkgaWQ9ImNvbS5zdWNjZXNzZmFjdG9ycy5ocmlzLnNlcnZpY2Uud2YucHVyZ2UuUmVsZWFzZVB1cmdlUmVzb3VyY2VTZXJ2aWNlIj4KICAgICAgPGZlYXR1cmUgaWQ9IioiLz4KICAgIDwvYWN0aXZpdHk+CiAgICA8YWN0aXZpdHkgaWQ9ImNvbS5zdWNjZXNzZmFjdG9ycy5ocmlzLnNlcnZpY2Uud2YucHVyZ2UucnVuY2xpZW50LldvcmtmbG93UHVyZ2VSdW5jbGllbnRTZXJ2aWNlIj4KICAgICAgPGZlYXR1cmUgaWQ9IioiLz4KICAgIDwvYWN0aXZpdHk+CiAgICA8YWN0aXZpdHkgaWQ9ImNvbS5zdWNjZXNzZmFjdG9ycy5ocmlzLnNlcnZpY2Uud2YucHVyZ2UuSW5pdGlhdGVNZGZXb3JrZmxvd0RlbGV0ZVNlcnZpY2UiPgogICAgICA8ZmVhdHVyZSBpZD0iKiIvPgogICAgPC9hY3Rpdml0eT4KICAgIDxhY3Rpdml0eSBpZD0iY29tLnN1Y2Nlc3NmYWN0b3JzLmhyaXMuc2VydmljZS53Zi5wdXJnZS5EUlRNV29ya2Zsb3dDb3VudHJ5UmVwb3J0Ij4KICAgICAgPGZlYXR1cmUgaWQ9IioiLz4KICAgIDwvYWN0aXZpdHk+CiAgICA8YWN0aXZpdHkgaWQ9ImNvbS5zdWNjZXNzZmFjdG9ycy5ocmlzLnNlcnZpY2Uud2YucHVyZ2UuRFJUTVdvcmtmbG93VXNlckJlYW5MaXN0Ij4KICAgICAgPGZlYXR1cmUgaWQ9IioiLz4KICAgIDwvYWN0aXZpdHk+CiAgICA8YWN0aXZpdHkgaWQ9ImNvbS5zdWNjZXNzZmFjdG9ycy5ocmlzLnNlcnZpY2Uud2YucHVyZ2UuZmluZGVyLmNoYWluLldvcmtmbG93RmluZGVyQ2hhaW5TZXJ2aWNlIj4KICAgICAgPGZlYXR1cmUgaWQ9IioiLz4KICAgIDwvYWN0aXZpdHk+CiAgICA8YWN0aXZpdHkgaWQ9ImNvbS5zdWNjZXNzZmFjdG9ycy5ocmlzLnNlcnZpY2UuR2V0RW50aXR5Q291bnQiPgogICAgICA8ZmVhdHVyZSBpZD0iKiIvPgogICAgPC9hY3Rpdml0eT4KICAgIDxhY3Rpdml0eSBpZD0iY29tLnN1Y2Nlc3NmYWN0b3JzLmhyaXMuc2VydmljZS53Zi5HZXRXb3JrZmxvd1BlbmRpbmdEYXRhIj4KICAgICAgPGZlYXR1cmUgaWQ9IioiLz4KICAgIDwvYWN0aXZpdHk+CiAgICA8YWN0aXZpdHkgaWQ9ImNvbS5zdWNjZXNzZmFjdG9ycy5ocmlzLnNlcnZpY2Uud2YuR2V0RWZmZWN0aXZlRW5kRGF0ZTRFQ0VudGl0eUJsb2NraW5nIj4KICAgICAgPGZlYXR1cmUgaWQ9IioiLz4KICAgIDwvYWN0aXZpdHk+CiAgICA8YWN0aXZpdHkgaWQ9ImNvbS5zdWNjZXNzZmFjdG9ycy5ocmlzLnNlcnZpY2Uuc2NoZWR1bGVkam9iLmFkbWluYWxlcnRzLkxvYWRBZG1pbkFsZXJ0cyI+CiAgICAgIDxmZWF0dXJlIGlkPSIqIi8+CiAgICA8L2FjdGl2aXR5PgogICAgPGFjdGl2aXR5IGlkPSJjb20uc3VjY2Vzc2ZhY3RvcnMucmNtaW50ZWdyYXRpb24uc2VydmljZS5lbnRpdHltYXBwaW5nLkdldEVudGl0eVN1bW1hcnkiPgogICAgICA8ZmVhdHVyZSBpZD0iKiIvPgogICAgPC9hY3Rpdml0eT4KICAgIDxhY3Rpdml0eSBpZD0iY29tLnN1Y2Nlc3NmYWN0b3JzLmhyaXMuc2VydmljZS5hZG1pbmFsZXJ0LkdldE9mZmxpbmVBZG1pbkFsZXJ0cyI+CiAgICAgIDxmZWF0dXJlIGlkPSIqIi8+CiAgICA8L2FjdGl2aXR5PgogICAgPGFjdGl2aXR5IGlkPSJjb20uc3VjY2Vzc2ZhY3RvcnMuaHJpcy5zZXJ2aWNlLkdldFBlcnNvbklkQnlFbWFpbEluZm9JZCI+CiAgICAgIDxmZWF0dXJlIGlkPSIqIi8+CiAgICA8L2FjdGl2aXR5PgogICAgPGFjdGl2aXR5IGlkPSJjb20uc3VjY2Vzc2ZhY3RvcnMuaHJpcy5zZXJ2aWNlLkdldFBlcnNvbklkQnlQZXJzb25hbEluZm9JZCI+CiAgICAgIDxmZWF0dXJlIGlkPSIqIi8+CiAgICA8L2FjdGl2aXR5PgogICAgPGFjdGl2aXR5IGlkPSJjb20uc3VjY2Vzc2ZhY3RvcnMuaHJpcy5zZXJ2aWNlLkdldFBlcnNvbklkQnlQaG9uZUluZm9JZCI+CiAgICAgIDxmZWF0dXJlIGlkPSIqIi8+CiAgICA8L2FjdGl2aXR5PgogICAgPGFjdGl2aXR5IGlkPSJjb20uc3VjY2Vzc2ZhY3RvcnMuaHJpcy5zZXJ2aWNlLkRlbGV0ZUF0dGFjaG1lbnQiPgogICAgICA8ZmVhdHVyZSBpZD0iKiIvPgogICAgPC9hY3Rpdml0eT4KICAgIDxhY3Rpdml0eSBpZD0iY29tLnN1Y2Nlc3NmYWN0b3JzLmhyaXMuc2VydmljZS53Zi5HZXRBbGVydHNGb3JSZXF1ZXN0Ij4KICAgICAgPGZlYXR1cmUgaWQ9IioiLz4KICAgIDwvYWN0aXZpdHk+CiAgICA8YWN0aXZpdHkgaWQ9ImNvbS5zdWNjZXNzZmFjdG9ycy5ocmlzLnNlcnZpY2Uud2YuRGVsZXRlRWNBbmRNZGZBbGVydHMiPgogICAgICA8ZmVhdHVyZSBpZD0iKiIvPgogICAgPC9hY3Rpdml0eT4KICAgIDxhY3Rpdml0eSBpZD0iY29tLnN1Y2Nlc3NmYWN0b3JzLmhyaXMuc2VydmljZS53Zi5HZXRQZW5kaW5nRWNBbmRNZGZUb0RvQWxlcnRGb3JSZXF1ZXN0Ij4KICAgICAgPGZlYXR1cmUgaWQ9IioiLz4KICAgIDwvYWN0aXZpdHk+CiAgICA8YWN0aXZpdHkgaWQ9ImNvbS5zdWNjZXNzZmFjdG9ycy5ocmlzLnNlcnZpY2Uud2YuRGVsZXRlUGVuZGluZ0VjQW5kTWRmVG9Eb0FsZXJ0cyI+CiAgICAgIDxmZWF0dXJlIGlkPSIqIi8+CiAgICA8L2FjdGl2aXR5PgoKICAgIDxhY3Rpdml0eSBpZD0iY29tLnN1Y2Nlc3NmYWN0b3JzLmhyaXMuc2VydmljZS5pbnN0YW5jZXN5bmMuZ2VuZXJpY29iamVjdHMuc2NhLkhyaXNHZW5lcmljT2JqSW50ZXJuYWxJZFRvRXh0ZXJuYWxJZCI+CiAgICAgIDxmZWF0dXJlIGlkPSIqIi8+CiAgICA8L2FjdGl2aXR5PgogICAgPGFjdGl2aXR5IGlkPSJjb20uc3VjY2Vzc2ZhY3RvcnMuaHJpcy5zZXJ2aWNlLmluc3RhbmNlc3luYy5nZW5lcmljb2JqZWN0cy5zY2EuSHJpc0dlbmVyaWNPYmpFeHRlcm5hbElkVG9JbnRlcm5hbElkIj4KICAgICAgPGZlYXR1cmUgaWQ9IioiLz4KICAgIDwvYWN0aXZpdHk+CgogICAgPGFjdGl2aXR5IGlkPSJjb20uc3VjY2Vzc2ZhY3RvcnMudXNlcm1hbmFnZW1lbnQuc2VydmljZS5ocmlzc3luYy5TYXZlVXNlckJlYW5Gb3JTeW5jIj4KICAgICAgPGZlYXR1cmUgaWQ9IioiLz4KICAgIDwvYWN0aXZpdHk+CiAgICA8YWN0aXZpdHkgaWQ9ImNvbS5zdWNjZXNzZmFjdG9ycy5ocmlzLnNlcnZpY2UuRWNTYWNUYWJsZUZ1bmN0aW9uQ3JlYXRvciI+CiAgICAgIDxmZWF0dXJlIGlkPSIqIi8+CiAgICA8L2FjdGl2aXR5PgogICAgPGFjdGl2aXR5IGlkPSJjb20uc3VjY2Vzc2ZhY3RvcnMuaHJpcy5zZXJ2aWNlLnVwZ3JhZGUuSW5pdExhYmVsSW5EYXRhTW9kZWxGb3JTQUMiPgogICAgICA8ZmVhdHVyZSBpZD0iKiIvPgogICAgPC9hY3Rpdml0eT4KCiAgICA8YWN0aXZpdHkgaWQ9ImNvbS5zdWNjZXNzZmFjdG9ycy5ocmlzLnNlcnZpY2VsYXllci5lc3MuRXNzU0xTYXZlRGF0YSI+CiAgICAgIDxmZWF0dXJlIGlkPSIqIi8+CiAgICA8L2FjdGl2aXR5PgogICAgPGFjdGl2aXR5IGlkPSJjb20uc3VjY2Vzc2ZhY3RvcnMuaHJpcy5zZXJ2aWNlLmVzcy5GaW5kUGVyc29uQnlVc2VySWRBbmRSb3dJZEZvclBlcnNvblJlbGF0ZWRFbnRpdHkiPgogICAgICA8ZmVhdHVyZSBpZD0iKiIvPgogICAgPC9hY3Rpdml0eT4KICAgIDxhY3Rpdml0eSBpZD0iY29tLnN1Y2Nlc3NmYWN0b3JzLmhyaXMuY29uZmlndXJhdGlvbi5oaXJlLm1pZ3JhdGlvbi5HZW5lcmF0ZVN0YW5kYXJkSGlyZVRlbXBsYXRlIj4KICAgICAgPGZlYXR1cmUgaWQ9IioiLz4KICAgIDwvYWN0aXZpdHk+CiAgICA8YWN0aXZpdHkgaWQ9ImNvbS5zdWNjZXNzZmFjdG9ycy5ocmlzLnNlcnZpY2UuRWNTYWNHZW5kZXJUYWJsZUZ1bmN0aW9uQ3JlYXRvciI+CiAgICAgIDxmZWF0dXJlIGlkPSIqIi8+CiAgICA8L2FjdGl2aXR5Pg==</text>
+        <text encoding="base64">ICAgc2NhSGFuZGxlci5leGVjdXRlKHdpdGhJbnN0YW5jZU9mKEdldFBpY2tsaXN0TGFiZWxCeU9wdGlvbklkQW5kTG9jYWxlLmNsYXNzKSk7CiAg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPGFjdGl2aXR5IGlkPSJjb20uc3VjY2Vzc2ZhY3RvcnMucGlja2xpc3Quc2VydmljZS5HZXRPcHRpb25JZExpc3RCeVBpY2tMaXN0SWRBbmRFeHRlcm5hbENvZGVzIi8+Cg==</text>
+        <text encoding="base64">ICBAVGVzdChncm91cHMgPSB7ImNoZWNraW4ifSwgZXhwZWN0ZWRFeGNlcHRpb25zID0gU2VydmljZUFwcGxpY2F0aW9uRXhjZXB0aW9uLmNsYXNzKQogIHB1YmxpYyB2b2lkIHRlc3RHZXRPcHRpb25JZEJ5UGlja0xpc3RJZEFuZEV4dGVybmFsQ29kZUltcGxfZXhjZXB0aW9uKAogICAgICBATW9ja2VkIEdldE9wdGlvbklkQnlQaWNrTGlzdElkQW5kRXh0ZXJuYWxDb2RlIGNtZCkKICAgICAgdGhyb3dzIFNlcnZpY2VBcHBsaWNhdGlvbkV4Y2VwdGlvbiB7CiAgICBuZXcgRXhwZWN0YXRpb25zKCkge3sKICAgICAgY21kLmdldFBpY2tMaXN0SWQoKTsKICAgICAgcmVzdWx0ID0gInBsIjsKICAgICAgY21kLmdldEV4dGVybmFsQ29kZSgpOwogICAgICByZXN1bHQgPSAiZXh0Q29kZSI7CiAgICAgIHBhcmFtQmVhbi5nZXRDb21wYW55U2NoZW1hKCk7CiAgICAgIHJlc3VsdCA9ICJzY2hlbWEiOwogICAgICBwaWNrbGlzdERBTwogICAgICAgICAgLmdldE9wdGlvbklkQnlQaWNrTGlzdElkQW5kRXh0ZXJuYWxDb2RlKHBhcmFtQmVhbi5nZXRDb21wYW55U2NoZW1hKCksIGRiQ29ubmVjdGlvbiwgY21kLmdldFBpY2tMaXN0SWQoKSwKICAgICAgICAgICAgICBjbWQuZ2V0RXh0ZXJuYWxDb2RlKCkpOwogICAgICByZXN1bHQgPSBuZXcgREFPRXhjZXB0aW9uKCJlcnJvciIpOwogICAgfX07CgogICAgaW1wbC5leGVjdXRlKGNtZCk7CiAgfQ==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IDxyb2xlIGlkPSJwcm92aXNpb25lcl9hcHBzZWNfZWRpdENvbXBhbnkiPgogICAgICA8YWN0aXZpdHktZ3JvdXAgcmVmaWQ9IkVDVC5DT1JFIi8+CiAgICA8L3JvbGU+</text>
+        <text encoding="base64">IEFzc2VydC5hc3NlcnROb3ROdWxsKHJlc3VsdCk7CiAgICAgIEFzc2VydC5hc3NlcnRFcXVhbHMocmVzdWx0LCBwaWNrbGlzdEJlYW4pOwogICAgfSBjYXRjaCAoU2VydmljZUFwcGxpY2F0aW9uRXhjZXB0aW9uIGUpIHsKICAgICAgQXNzZXJ0LmZhaWwoIlVuZXhwZWN0ZWQgZXhjZXB0aW9uIiwgZSk7CiAgICB9</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICA8YWN0aXZpdHkgaWQ9ImNvbS5zdWNjZXNzZmFjdG9ycy5ocmlzLnNlcnZpY2Uuc3luYy5HZXRQZXJzb25CYXNlZEVtcGxveWVlUHJvZmlsZUZpZWxkcyIvPgogICAgICA8YWN0aXZpdHkgaWQ9ImNvbS5zdWNjZXNzZmFjdG9ycy5ocmlzLnNlcnZpY2Uud2YuV29ya2Zsb3dFbWFpbFRva2VuUmVzb2x2ZXIiLz4KICAgICAgPGFjdGl2aXR5IGlkPSJjb20uc3VjY2Vzc2ZhY3RvcnMuaHJpcy5zZXJ2aWNlLndmLkdldFdvcmtmbG93Q29uZmlnIi8+CiAgICAgIDxhY3Rpdml0eSBpZD0iY29tLnN1Y2Nlc3NmYWN0b3JzLmhyaXMuc2VydmljZS53Zi5wdXJnZS5CYXRjaERlbGV0ZVdvcmtmbG93U2VydmljZSIvPgogICAgICA8YWN0aXZpdHkgaWQ9ImNvbS5zdWNjZXNzZmFjdG9ycy5ocmlzLnNlcnZpY2Uud2YucHVyZ2UuSW5pdGlhdGVNZGZXb3JrZmxvd0RlbGV0ZVNlcnZpY2UiLz4KICAgICAgPGFjdGl2aXR5IGlkPSJjb20uc3VjY2Vzc2ZhY3RvcnMuaHJpcy5zZXJ2aWNlLndmLnB1cmdlLkdldFNlYW1Db21wb25lbnRGcm9tTm9uU0NBIi8+CiAgICAgIDxhY3Rpdml0eSBpZD0iY29tLnN1Y2Nlc3NmYWN0b3JzLmhyaXMuc2VydmljZS53Zi5wdXJnZS5Xb3JrZmxvd1B1cmdlRmluZGVyU2VydmljZSIvPgogICAgICA8YWN0aXZpdHkgaWQ9ImNvbS5zdWNjZXNzZmFjdG9ycy5ocmlzLnNlcnZpY2Uud2YucHVyZ2UuUmVsZWFzZVB1cmdlUmVzb3VyY2VTZXJ2aWNlIi8+CiAgICAgIDxhY3Rpdml0eSBpZD0iY29tLnN1Y2Nlc3NmYWN0b3JzLmhyaXMuc2VydmljZS53Zi5wdXJnZS5ydW5jbGllbnQuV29ya2Zsb3dQdXJnZVJ1bmNsaWVudFNlcnZpY2UiLz4KICAgICAgPGFjdGl2aXR5IGlkPSJjb20uc3VjY2Vzc2ZhY3RvcnMuaHJpcy5zZXJ2aWNlLndmLnB1cmdlLkRSVE1Xb3JrZmxvd0NvdW50cnlSZXBvcnQiLz4KICAgICAgPGFjdGl2aXR5IGlkPSJjb20uc3VjY2Vzc2ZhY3RvcnMuaHJpcy5zZXJ2aWNlLndmLnB1cmdlLkRSVE1Xb3JrZmxvd1VzZXJCZWFuTGlzdCIvPgogICAgICA8YWN0aXZpdHkgaWQ9ImNvbS5zdWNjZXNzZmFjdG9ycy5ocmlzLnNlcnZpY2Uud2YucHVyZ2UuZmluZGVyLmNoYWluLldvcmtmbG93RmluZGVyQ2hhaW5TZXJ2aWNlIi8+CiAgICAgIDxhY3Rpdml0eSBpZD0iY29tLnN1Y2Nlc3NmYWN0b3JzLmhyaXMuc2VydmljZS5HZXRFbnRpdHlDb3VudCIvPgogICAgICA8YWN0aXZpdHkgaWQ9ImNvbS5zdWNjZXNzZmFjdG9ycy5ocmlzLnNlcnZpY2Uud2YuR2V0V29ya2Zsb3dQZW5kaW5nRGF0YSIvPgogICAgICA8YWN0aXZpdHkgaWQ9ImNvbS5zdWNjZXNzZmFjdG9ycy5ocmlzLnNlcnZpY2Uud2YuR2V0RWZmZWN0aXZlRW5kRGF0ZTRFQ0VudGl0eUJsb2NraW5nIi8+CiAgICAgIDxhY3Rpdml0eSBpZD0iY29tLnN1Y2Nlc3NmYWN0b3JzLmhyaXMuc2VydmljZS5zY2hlZHVsZWRqb2IuYWRtaW5hbGVydHMuTG9hZEFkbWluQWxlcnRzIi8+CiAgICAgIDxhY3Rpdml0eSBpZD0iY29tLnN1Y2Nlc3NmYWN0b3JzLnJjbWludGVncmF0aW9uLnNlcnZpY2UuZW50aXR5bWFwcGluZy5HZXRFbnRpdHlTdW1tYXJ5Ii8+CiAgICAgIDxhY3Rpdml0eSBpZD0iY29tLnN1Y2Nlc3NmYWN0b3JzLmhyaXMuc2VydmljZS5hZG1pbmFsZXJ0LkdldE9mZmxpbmVBZG1pbkFsZXJ0cyIvPgogICAgICA8YWN0aXZpdHkgaWQ9ImNvbS5zdWNjZXNzZmFjdG9ycy5ocmlzLnNlcnZpY2UuR2V0UGVyc29uSWRCeUVtYWlsSW5mb0lkIi8+CiAgICAgIDxhY3Rpdml0eSBpZD0iY29tLnN1Y2Nlc3NmYWN0b3JzLmhyaXMuc2VydmljZS5HZXRQZXJzb25JZEJ5UGhvbmVJbmZvSWQiLz4KICAgICAgPGFjdGl2aXR5IGlkPSJjb20uc3VjY2Vzc2ZhY3RvcnMuaHJpcy5zZXJ2aWNlLkdldFBlcnNvbklkQnlQZXJzb25hbEluZm9JZCIvPgogICAgICA8YWN0aXZpdHkgaWQ9ImNvbS5zdWNjZXNzZmFjdG9ycy5ocmlzLnNlcnZpY2UuRGVsZXRlQXR0YWNobWVudCIvPgogICAgICA8YWN0aXZpdHkgaWQ9ImNvbS5zdWNjZXNzZmFjdG9ycy5ocmlzLnNlcnZpY2Uud2YuR2V0QWxlcnRzRm9yUmVxdWVzdCIvPgogICAgICA8YWN0aXZpdHkgaWQ9ImNvbS5zdWNjZXNzZmFjdG9ycy5ocmlzLnNlcnZpY2Uud2YuRGVsZXRlRWNBbmRNZGZBbGVydHMiLz4KICAgICAgPGFjdGl2aXR5IGlkPSJjb20uc3VjY2Vzc2ZhY3RvcnMuaHJpcy5zZXJ2aWNlLndmLkdldFBlbmRpbmdFY0FuZE1kZlRvRG9BbGVydEZvclJlcXVlc3QiLz4KICAgICAgPGFjdGl2aXR5IGlkPSJjb20uc3VjY2Vzc2ZhY3RvcnMuaHJpcy5zZXJ2aWNlLndmLkRlbGV0ZVBlbmRpbmdFY0FuZE1kZlRvRG9BbGVydHMiLz4KICAgICAgPGFjdGl2aXR5IGlkPSJjb20uc3VjY2Vzc2ZhY3RvcnMuaHJpcy5zZXJ2aWNlLmluc3RhbmNlc3luYy5nZW5lcmljb2JqZWN0cy5zY2EuSHJpc0dlbmVyaWNPYmpJbnRlcm5hbElkVG9FeHRlcm5hbElkIi8+CiAgICAgIDxhY3Rpdml0eSBpZD0iY29tLnN1Y2Nlc3NmYWN0b3JzLmhyaXMuc2VydmljZS5pbnN0YW5jZXN5bmMuZ2VuZXJpY29iamVjdHMuc2NhLkhyaXNHZW5lcmljT2JqRXh0ZXJuYWxJZFRvSW50ZXJuYWxJZCIvPgogICAgICA8YWN0aXZpdHkgaWQ9ImNvbS5zdWNjZXNzZmFjdG9ycy51c2VybWFuYWdlbWVudC5zZXJ2aWNlLmhyaXNzeW5jLlNhdmVVc2VyQmVhbkZvclN5bmMiLz4KICAgICAgPGFjdGl2aXR5IGlkPSJjb20uc3VjY2Vzc2ZhY3RvcnMuaHJpcy5zZXJ2aWNlLkVjU2FjVGFibGVGdW5jdGlvbkNyZWF0b3IiLz4KICAgICAgPGFjdGl2aXR5IGlkPSJjb20uc3VjY2Vzc2ZhY3RvcnMuaHJpcy5zZXJ2aWNlLnVwZ3JhZGUuSW5pdExhYmVsSW5EYXRhTW9kZWxGb3JTQUMiLz4KICAgICAgPGFjdGl2aXR5IGlkPSJjb20uc3VjY2Vzc2ZhY3RvcnMuaHJpcy5zZXJ2aWNlbGF5ZXIuZXNzLkVzc1NMU2F2ZURhdGEiLz4KICAgICAgPGFjdGl2aXR5IGlkPSJjb20uc3VjY2Vzc2ZhY3RvcnMuaHJpcy5zZXJ2aWNlLmVzcy5GaW5kUGVyc29uQnlVc2VySWRBbmRSb3dJZEZvclBlcnNvblJlbGF0ZWRFbnRpdHkiLz4KICAgICAgPGFjdGl2aXR5IGlkPSJjb20uc3VjY2Vzc2ZhY3RvcnMuaHJpcy5jb25maWd1cmF0aW9uLmhpcmUubWlncmF0aW9uLkdlbmVyYXRlU3RhbmRhcmRIaXJlVGVtcGxhdGUiLz4KICAgICAgPGFjdGl2aXR5IGlkPSJjb20uc3VjY2Vzc2ZhY3RvcnMuaHJpcy5zZXJ2aWNlLkVjU2FjR2VuZGVyVGFibGVGdW5jdGlvbkNyZWF0b3IiLz4=</text>
+        <text encoding="base64">ICB0cnkgewogICAgICBQaWNrbGlzdEJlYW4gcmVzdWx0ID0=</text>
       </register>
-      <register name="6" type="2">
-        <text>JIRA: AFT-17830
-Description: Picklist modularization - refactor code and update references
-Changes: 
-1) fix reverse dependency issue</text>
+      <register name="6" type="4">
+        <text encoding="base64">Y21kLmdldFBpY2tMaXN0SWQoKTsKICAgICAgcmVzdWx0ID0gInBsIjsKICAgICAg</text>
       </register>
-      <register name="7" type="4">
-        <text>@Test(groups = {&quot;checkin&quot;}, expectedExceptions = ServiceApplicationException.class)
-  public void testGetOptionIdAndNonUniqueExternalCodeByPicklistIdImpl_exception(
-      @Mocked GetOptionIdAndNonUniqueExternalCodeByPicklistId cmd)
-      throws ServiceApplicationException {
-    new Expectations() {{
-      cmd.getPicklistID();
-      result = &quot;pl&quot;;
-      cmd.isIncludeDeletedOptions();
-      result = false;
-      picklistDAO.getOptionIDExternalCodeMapByPicklistID(paramBean, dbConnection, cmd.getPicklistID(),
-          cmd.isIncludeDeletedOptions());
-      result = new DAOException(&quot;error&quot;);
-    }};
-
-    impl.execute(cmd);
-  }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgQXNzZXJ0LmFzc2VydEVxdWFscyhyZXN1bHQsIGxhYmVsQmVhbik7Cg==</text>
+        <text encoding="base64">ICogQHBhcmFtICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>user</text>
+        <text>GetPicklistLabelByOptionIdAndLocale</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21taXRfY2hhbmdlc1w+</text>
