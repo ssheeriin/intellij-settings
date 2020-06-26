@@ -25,11 +25,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/test/java/com/successfactors/picklist/service/impl/PicklistServiceImplTest.java" timestamp="1593195553204">
-        <mark key="[" line="318" column="66" />
-        <mark key="]" line="318" column="67" />
-        <mark key="." line="318" column="58" />
-      </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/picklist/service/impl/GetOptionIdByPickListIdAndExternalCodeImpl.java" timestamp="1593194945471" />
       <file name="$USER_HOME$/dev/workspace/trunk/au-recruiting/au-recruiting-web/src/main/webapp/ui/rcmcandidate/pages/fb_candidate_adv_search_v2.jsp" timestamp="1593029531144">
         <mark key="[" line="53" column="44" />
@@ -49,18 +44,15 @@
         <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/resources/feature-access.xml" timestamp="1593195764892">
-        <mark key="[" line="9" column="54" />
-        <mark key="]" line="9" column="54" />
-        <mark key="." line="9" column="54" />
-        <mark key="^" line="12" column="21" />
+        <mark key="^" line="9" column="21" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/picklist/service/impl/GetPicklistByExternalCodeImpl.java" timestamp="1593194929402">
         <mark key="[" line="19" column="60" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/picklist/service/impl/PicklistServiceImpl.java" timestamp="1593194444678">
-        <mark key="[" line="215" column="38" />
-        <mark key="]" line="215" column="38" />
-        <mark key="." line="215" column="38" />
+        <mark key="[" line="8" column="38" />
+        <mark key="]" line="8" column="38" />
+        <mark key="." line="8" column="38" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-recruiting/au-recruiting-web/src/main/webapp/ui/rcmjobreq/pages/fb_jobReqRenderer.jsp" timestamp="1593029514997">
         <mark key="[" line="175" column="45" />
@@ -69,26 +61,21 @@
       <file name="$USER_HOME$/dev/workspace/trunk/au-recruiting/au-recruiting-web/src/main/webapp/ui/rcmcandidate/pages/fb_candidate_summary.jsp" timestamp="1593029542920">
         <mark key="[" line="56" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-api/src/main/java/com/successfactors/picklist/service/PicklistService.java" timestamp="1593195724799">
-        <mark key="[" line="125" column="19" />
-        <mark key="]" line="114" column="2" />
-        <mark key="." line="114" column="2" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1593196159291">
+      <file name="/Dummy.txt" timestamp="1593198616482">
         <mark key="a" line="3" column="31" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="3" />
-        <mark key="." line="3" column="3" />
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="9" />
+        <mark key="." line="2" column="9" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-recruiting/au-recruiting-web/src/main/webapp/ui/rcmjobposting/pages/fb_job_listing_summary.jsp" timestamp="1593029551594">
         <mark key="[" line="58" column="44" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-api/src/main/java/com/successfactors/picklist/service/GetOptionIdByPickListIdAndExternalCode.java" timestamp="1593194756755" />
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/resources/role-access.xml" timestamp="1593193389422">
-        <mark key="[" line="10" column="20" />
-        <mark key="]" line="10" column="20" />
-        <mark key="." line="10" column="19" />
-        <mark key="^" line="10" column="20" />
+        <mark key="[" line="9" column="20" />
+        <mark key="]" line="9" column="20" />
+        <mark key="." line="9" column="19" />
+        <mark key="^" line="9" column="20" />
       </file>
       <file name="/fragment.java" timestamp="1593194953380">
         <mark key="[" line="0" column="0" />
@@ -108,7 +95,7 @@
         <text encoding="base64">IHNjYUhhbmRsZXIuZXhlY3V0ZSh3aXRoSW5zdGFuY2VPZihHZXRQaWNrbGlzdExhYmVsQnlPcHRpb25JZEFuZExvY2FsZS5jbGFzcykpOwogICAg</text>
       </register>
       <register name="&quot;" type="4">
-        <text>GetPicklistLabelByOptionIdAndLocale</text>
+        <text>new SCA, new service API , test cases</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">ICAgc2NhSGFuZGxlci5leGVjdXRlKHdpdGhJbnN0YW5jZU9mKEdldFBpY2tsaXN0TGFiZWxCeU9wdGlvbklkQW5kTG9jYWxlLmNsYXNzKSk7CiAg</text>
@@ -135,7 +122,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>GetPicklistLabelByOptionIdAndLocale</text>
+        <text>new SCA, new service API , test cases</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21taXRfY2hhbmdlc1w+</text>
