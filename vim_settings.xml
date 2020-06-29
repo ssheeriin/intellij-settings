@@ -25,28 +25,28 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1593457190854">
+      <file name="/Dummy.txt" timestamp="1593469695447">
         <mark key="a" line="3" column="31" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="9" />
-        <mark key="." line="2" column="9" />
+        <mark key="[" line="1" column="57" />
+        <mark key="]" line="1" column="57" />
+        <mark key="." line="1" column="57" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/test/java/com/successfactors/picklist/service/impl/PicklistServiceImplTest.java" timestamp="1593455058933">
         <mark key="[" line="400" column="26" />
         <mark key="]" line="400" column="25" />
         <mark key="." line="400" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-ui/src/main/java/com/successfactors/picklist/ui/controller/PicklistController.java" timestamp="1593468071250">
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-ui/src/main/java/com/successfactors/picklist/ui/controller/PicklistController.java" timestamp="1593469341003">
         <mark key="[" line="62" column="22" />
-        <mark key="]" line="298" column="92" />
-        <mark key="." line="298" column="92" />
+        <mark key="]" line="297" column="92" />
+        <mark key="." line="297" column="92" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/test/java/com/successfactors/picklist/service/impl/GetPicklistsByIdsImplTest.java" timestamp="1593453024836">
         <mark key="[" line="43" column="28" />
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/picklist/service/impl/GetPicklistsByIdsImpl.java" timestamp="1593452320893">
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/picklist/service/impl/GetPicklistsByIdsImpl.java" timestamp="1593469753858">
         <mark key="'" line="38" column="41" />
         <mark key="[" line="41" column="43" />
         <mark key="]" line="41" column="43" />
@@ -61,26 +61,32 @@
         <mark key="]" line="238" column="52" />
         <mark key="." line="238" column="52" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/resources/role-access.xml" timestamp="1593466767649">
-        <mark key="[" line="29" column="14" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="38" column="0" />
+      <file name="$USER_HOME$/dev/workspace/trunk/build-system/ivy-versions.properties" timestamp="1593470412383">
+        <mark key="[" line="1107" column="26" />
+        <mark key="]" line="1107" column="26" />
+        <mark key="." line="1107" column="26" />
       </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/resources/role-access.xml" timestamp="1593466767649">
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/picklist/dao/impl/oracle/OracleMDFPicklistDAO.java" timestamp="1593469459671" />
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-api/src/main/java/com/successfactors/picklist/service/GetPicklistsById.java" timestamp="1593451823362">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="10" column="27" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1593465415881">
+      <file name="/fragment.java" timestamp="1593469507747">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="35" />
-        <mark key="." line="0" column="35" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-api/src/main/java/com/successfactors/picklist/service/PicklistService.java" timestamp="1593452566807">
         <mark key="[" line="176" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-api/src/main/java/com/successfactors/picklist/service/GetPicklistLabelByLabelId.java" timestamp="1593469349644" />
     </filemarks>
     <jumps>
       <jump line="92" column="20" filename="$USER_HOME$/dev/workspace/my/devkit/refactor.sh" />
@@ -90,42 +96,46 @@
       <jump line="69" column="25" filename="$USER_HOME$/dev/workspace/my/devkit/checkoutAndAddDependencies.py" />
       <jump line="10" column="0" filename="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-api/src/main/java/com/successfactors/picklist/service/GetPicklistsById.java" />
       <jump line="36" column="41" filename="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/picklist/service/impl/GetPicklistsByIdsImpl.java" />
+      <jump line="0" column="55" filename="/fragment.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPGFjdGl2aXR5LWdyb3VwIHJlZmlkPSJwaWNrbGlzdC5hY2Nlc3MiLz4K</text>
+        <text>_AUTHENTICATION
+2020-06-29 15:24:47.768  INFO --- [atalina-exec-26] c.s.p.u.f.LogFilter                      : Start request: /sessionmgmt/api/v1/zonesession/CORE
+2020-06-29 15:24:47.780  INFO --- [atalina-exec-25] c.s.a.s.s.SessionUtils                   : SessionUtils: zoneSessionId=null, company_id=BizXTest, id=admin
+2020-06-29 15:24:47.781  INFO --- [atalina-exec-25] c.s.l.u.s.DPConsentStatement</text>
       </register>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>a</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcGlja2xpc3RCZWFuLmdldAo=</text>
+        <text>GetPicklistLabelByLabelId</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">ICAgICAgPGFjdGl2aXR5LWdyb3VwIHJlZmlkPSJwaWNrbGlzdC5hY2Nlc3MiLz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">ICAgICAgcGlja2xpc3RCZWFuLmdldAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgQXNzZXJ0LmZhaWwoIlVuZXhwZWN0ZWQgZXhjZXB0aW9uIiwgZSk7Cg==</text>
+        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKFNlcnZpY2VBcHBsaWNhdGlvbkV4Y2VwdGlvbiBlKSB7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgQXNzZXJ0LmFzc2VydEVxdWFscyhyZXN1bHQuZ2V0KCJhYmMiKSwgcGlja2xpc3RCZWFuKTsK</text>
+        <text encoding="base64">ICAgICAgQXNzZXJ0LmZhaWwoIlVuZXhwZWN0ZWQgZXhjZXB0aW9uIiwgZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgQXNzZXJ0LmFzc2VydEZhbHNlKHJlc3VsdC5pc0VtcHR5KCkpOwo=</text>
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKFNlcnZpY2VBcHBsaWNhdGlvbkV4Y2VwdGlvbiBlKSB7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21taXRfY2hhbmdlc1w+</text>
