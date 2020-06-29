@@ -26,31 +26,33 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/dev/workspace/trunk/au-recruiting/au-recruiting-applicationTests/src/applicationTest/resources/config/engcd/company.xml" timestamp="1593412547480" />
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/picklist/dao/impl/oracle/OraclePicklistDAO.java" timestamp="1593451205810" />
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-api/src/main/java/com/successfactors/picklist/service/GetPicklistsByIds.java" timestamp="1593452633596" />
       <file name="$USER_HOME$/dev/workspace/trunk/au-recruiting/au-recruiting-web/build/output/copyNonProcessedWebFiles/ui/rcmjobposting/pages/fb_job_listing.jsp" timestamp="1593412968486">
         <mark key="[" line="47" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/test/java/com/successfactors/picklist/service/impl/GetPicklistByExternalCodeImplTest.java" timestamp="1593196131379">
-        <mark key="[" line="12" column="47" />
-        <mark key="]" line="12" column="47" />
-        <mark key="." line="12" column="47" />
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-api/src/main/java/com/successfactors/picklist/service/GetOptionIdListByPickListIdAndExternalCodes.java" timestamp="1593451644580" />
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/test/java/com/successfactors/picklist/service/impl/GetPicklistsByIdsImplTest.java" timestamp="1593453024836">
+        <mark key="[" line="43" column="28" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-api/src/main/java/com/successfactors/picklist/service/GetPicklistByExternalCode.java" timestamp="1593194702099">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/picklist/service/impl/GetPicklistsByIdsImpl.java" timestamp="1593452320893">
+        <mark key="'" line="38" column="41" />
+        <mark key="[" line="41" column="43" />
+        <mark key="]" line="41" column="43" />
+        <mark key="." line="41" column="43" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/resources/feature-access.xml" timestamp="1593195764892">
-        <mark key="^" line="9" column="21" />
-      </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/picklist/service/impl/GetPicklistByExternalCodeImpl.java" timestamp="1593194929402">
-        <mark key="[" line="19" column="60" />
-      </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/picklist/service/impl/PicklistServiceImpl.java" timestamp="1593194444678">
-        <mark key="[" line="8" column="38" />
-        <mark key="]" line="8" column="38" />
-        <mark key="." line="8" column="38" />
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/picklist/service/impl/PicklistServiceImpl.java" timestamp="1593452626994">
+        <mark key="[" line="244" column="2" />
+        <mark key="]" line="238" column="52" />
+        <mark key="." line="238" column="52" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-recruiting/au-recruiting-applicationTests/src/applicationTest/java/com/successfactors/sit/rcm/features/bq/BuildQualificationImpl.java" timestamp="1593412755335" />
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/picklist/dao/impl/oracle/OracleMDFPicklistDAO.java" timestamp="1593451280973" />
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-api/src/main/java/com/successfactors/picklist/service/PicklistService.java" timestamp="1593452566807">
+        <mark key="[" line="176" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1593413131635">
         <mark key="a" line="3" column="31" />
         <mark key="[" line="0" column="0" />
@@ -61,12 +63,20 @@
       <file name="$USER_HOME$/dev/workspace/trunk/au-recruiting/au-recruiting-web/src/main/webapp/ui/rcmjobposting/pages/fb_job_listing.jsp" timestamp="1593412947629">
         <mark key="[" line="47" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-V4/au-V4-service/src/main/resources/gas.xml" timestamp="1593274734042" />
       <file name="$USER_HOME$/dev/workspace/trunk/au-recruiting/au-recruiting-applicationTests/src/applicationTest/resources/config/engcd/rcm_environment.properties" timestamp="1593412944410" />
       <file name="$USER_HOME$/dev/workspace/trunk/au-recruiting/au-recruiting-applicationTests/src/applicationTest/java/com/successfactors/sit/rcm/features/bq/buildQualification.feature" timestamp="1593412500602" />
-      <file name="$USER_HOME$/dev/workspace/my/devkit/refactor2.sh" timestamp="1593274696231" />
-      <file name="/fragment.java" timestamp="1593194953380">
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/test/java/com/successfactors/picklist/service/impl/GetPicklistLabelByLabelIdImplTest.java" timestamp="1593452668859" />
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-api/src/main/java/com/successfactors/picklist/service/GetPicklistsById.java" timestamp="1593451823362">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="10" column="27" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/picklist/service/impl/GetPicklistLabelByLabelIdImpl.java" timestamp="1593452663024" />
+      <file name="/fragment.java" timestamp="1593452654025">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="35" />
+        <mark key="." line="0" column="35" />
       </file>
     </filemarks>
     <jumps>
@@ -75,42 +85,44 @@
       <jump line="266" column="8" filename="$USER_HOME$/dev/workspace/my/devkit/checkoutAndAddDependencies.py" />
       <jump line="74" column="56" filename="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/test/java/com/successfactors/smartsuite/service/impl/SaveLegacyPicklistsToMDFPickListsImplTest.java" />
       <jump line="69" column="25" filename="$USER_HOME$/dev/workspace/my/devkit/checkoutAndAddDependencies.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-api/src/main/java/com/successfactors/picklist/service/GetPicklistsById.java" />
+      <jump line="36" column="41" filename="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/picklist/service/impl/GetPicklistsByIdsImpl.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">IHNjYUhhbmRsZXIuZXhlY3V0ZSh3aXRoSW5zdGFuY2VPZihHZXRQaWNrbGlzdExhYmVsQnlPcHRpb25JZEFuZExvY2FsZS5jbGFzcykpOwogICAg</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>new SCA, new service API , test cases</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgc2NhSGFuZGxlci5leGVjdXRlKHdpdGhJbnN0YW5jZU9mKEdldFBpY2tsaXN0TGFiZWxCeU9wdGlvbklkQW5kTG9jYWxlLmNsYXNzKSk7CiAg</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBAVGVzdChncm91cHMgPSB7ImNoZWNraW4ifSwgZXhwZWN0ZWRFeGNlcHRpb25zID0gU2VydmljZUFwcGxpY2F0aW9uRXhjZXB0aW9uLmNsYXNzKQogIHB1YmxpYyB2b2lkIHRlc3RHZXRPcHRpb25JZEJ5UGlja0xpc3RJZEFuZEV4dGVybmFsQ29kZUltcGxfZXhjZXB0aW9uKAogICAgICBATW9ja2VkIEdldE9wdGlvbklkQnlQaWNrTGlzdElkQW5kRXh0ZXJuYWxDb2RlIGNtZCkKICAgICAgdGhyb3dzIFNlcnZpY2VBcHBsaWNhdGlvbkV4Y2VwdGlvbiB7CiAgICBuZXcgRXhwZWN0YXRpb25zKCkge3sKICAgICAgY21kLmdldFBpY2tMaXN0SWQoKTsKICAgICAgcmVzdWx0ID0gInBsIjsKICAgICAgY21kLmdldEV4dGVybmFsQ29kZSgpOwogICAgICByZXN1bHQgPSAiZXh0Q29kZSI7CiAgICAgIHBhcmFtQmVhbi5nZXRDb21wYW55U2NoZW1hKCk7CiAgICAgIHJlc3VsdCA9ICJzY2hlbWEiOwogICAgICBwaWNrbGlzdERBTwogICAgICAgICAgLmdldE9wdGlvbklkQnlQaWNrTGlzdElkQW5kRXh0ZXJuYWxDb2RlKHBhcmFtQmVhbi5nZXRDb21wYW55U2NoZW1hKCksIGRiQ29ubmVjdGlvbiwgY21kLmdldFBpY2tMaXN0SWQoKSwKICAgICAgICAgICAgICBjbWQuZ2V0RXh0ZXJuYWxDb2RlKCkpOwogICAgICByZXN1bHQgPSBuZXcgREFPRXhjZXB0aW9uKCJlcnJvciIpOwogICAgfX07CgogICAgaW1wbC5leGVjdXRlKGNtZCk7CiAgfQ==</text>
+        <text encoding="base64">ICAgICAgQXNzZXJ0LmZhaWwoIlVuZXhwZWN0ZWQgZXhjZXB0aW9uIiwgZSk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IEFzc2VydC5hc3NlcnROb3ROdWxsKHJlc3VsdCk7CiAgICAgIEFzc2VydC5hc3NlcnRFcXVhbHMocmVzdWx0LCBwaWNrbGlzdEJlYW4pOwogICAgfSBjYXRjaCAoU2VydmljZUFwcGxpY2F0aW9uRXhjZXB0aW9uIGUpIHsKICAgICAgQXNzZXJ0LmZhaWwoIlVuZXhwZWN0ZWQgZXhjZXB0aW9uIiwgZSk7CiAgICB9</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKFNlcnZpY2VBcHBsaWNhdGlvbkV4Y2VwdGlvbiBlKSB7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICB0cnkgewogICAgICBQaWNrbGlzdEJlYW4gcmVzdWx0ID0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgQXNzZXJ0LmFzc2VydEVxdWFscyhyZXN1bHQuZ2V0KCJhYmMiKSwgcGlja2xpc3RCZWFuKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Y21kLmdldFBpY2tMaXN0SWQoKTsKICAgICAgcmVzdWx0ID0gInBsIjsKICAgICAg</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgQXNzZXJ0LmFzc2VydEZhbHNlKHJlc3VsdC5pc0VtcHR5KCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICAgICAgQXNzZXJ0LmFzc2VydE5vdE51bGwocmVzdWx0KTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICogQHBhcmFtICAK</text>
+      <register name="8" type="4">
+        <text encoding="base64">IE1hcDxTdHJpbmcsIFBpY2tsaXN0QmVhbj4gciA9IE1hcHMubmV3SGFzaE1hcCgpOwogICAgICByLnB1dCgiYWJjIiwgcGlja2xpc3RCZWFuKTs=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>new SCA, new service API , test cases</text>
+        <text encoding="base64">TWFwPFN0cmluZywgUGlja2xpc3RCZWFuPiByZXN1bHQgPSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21taXRfY2hhbmdlc1w+</text>
