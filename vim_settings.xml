@@ -47,11 +47,6 @@
         <mark key="]" line="297" column="92" />
         <mark key="." line="297" column="92" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/test/java/com/successfactors/picklist/service/impl/GetPicklistsByIdsImplTest.java" timestamp="1593453024836">
-        <mark key="[" line="43" column="28" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/picklist/service/impl/GetPicklistsByIdsImpl.java" timestamp="1593469753858">
         <mark key="'" line="38" column="41" />
         <mark key="[" line="41" column="43" />
@@ -83,6 +78,12 @@
         <mark key="^" line="34" column="0" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/picklist/dao/impl/oracle/OracleMDFPicklistDAO.java" timestamp="1593469459671" />
+      <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/main/java/com/successfactors/picklist/dao/PicklistDAO.java" timestamp="1593540177731">
+        <mark key="[" line="527" column="31" />
+        <mark key="]" line="527" column="31" />
+        <mark key="." line="527" column="30" />
+        <mark key="^" line="527" column="31" />
+      </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/dependencies.gradle" timestamp="1593472104660">
         <mark key="[" line="121" column="6" />
       </file>
@@ -109,8 +110,8 @@
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5iZXVzdC5qY29tbWFuZGVyLmludGVybmFsLk1hcHM7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5iZXVzdC5qY29tbWFuZGVyLmludGVybmFsLk1hcHM7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>P</text>
       </register>
       <register name="2" type="2">
         <text>import com.beust.jcommander.internal.Maps;</text>
@@ -140,7 +141,7 @@
         <text encoding="base64">ICAgIHRyeSB7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>P</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21taXRfY2hhbmdlc1w+</text>
