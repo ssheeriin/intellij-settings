@@ -25,10 +25,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1593544933425">
+      <file name="/Dummy.txt" timestamp="1593545767356">
         <mark key="a" line="3" column="31" />
-        <mark key="]" line="1" column="57" />
-        <mark key="." line="1" column="57" />
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
       </file>
       <file name="$USER_HOME$/dev/workspace/trunk/au-picklist/au-picklist-service/src/test/java/com/successfactors/picklist/service/impl/PicklistServiceImplTest.java" timestamp="1593545528594">
         <mark key="[" line="417" column="33" />
@@ -125,8 +126,8 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>19052</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Pj4+Pj4+PlN0YXNoZWQgY2hhbmdlcw==</text>
@@ -153,7 +154,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>19052</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21taXRfY2hhbmdlc1w+</text>
