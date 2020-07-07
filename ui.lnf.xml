@@ -2,5 +2,8 @@
   <component name="UISettings">
     <option name="ANIMATE_WINDOWS" value="false" />
     <option name="compactTreeIndents" value="true" />
+    <option name="EDITOR_TAB_PLACEMENT" value="0" />
+    <option name="IDE_AA_TYPE" value="Greyscale" />
+    <option name="showTreeIndentGuides" value="true" />
   </component>
 </application>

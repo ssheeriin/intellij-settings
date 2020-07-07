@@ -5,14 +5,15 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
     <mask>*.html</mask>
-    <mask>*.jsp</mask>
     <mask>*.config</mask>
     <mask>*.properties</mask>
     <mask>*Test.java</mask>
     <mask>*.js</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.gradle</mask>
     <mask>gas.xml</mask>
+    <mask>*.xhtml</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
