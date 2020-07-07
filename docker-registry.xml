@@ -1,0 +1,14 @@
+<application>
+  <component name="DockerRegistry">
+    <DockerRegistry email="sherin.stephen@sap.com">
+      <option name="address" value="registry.hcm-eng.c.eu-de-1.cloud.sap" />
+      <option name="name" value="Docker Registry SF Default" />
+      <option name="username" value="I073367" />
+    </DockerRegistry>
+    <DockerRegistry email="sherin.stephen@sap.com">
+      <option name="address" value="saas-docker-dub.mo.sap.corp" />
+      <option name="name" value="Docker Registry" />
+      <option name="username" value="I073367" />
+    </DockerRegistry>
+  </component>
+</application>
