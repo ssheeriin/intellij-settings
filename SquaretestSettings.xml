@@ -1,0 +1,48 @@
+<application>
+  <component name="SquaretestSettings">
+    <option name="usageStatsEnabled" value="true" />
+    <option name="projectNameToSettingsMap">
+      <map>
+        <entry key="trunk">
+          <value>
+            <ProjectSettings>
+              <option name="projectName" value="trunk" />
+              <option name="templateLanguage" value="Java" />
+              <option name="template">
+                <Template>
+                  <option name="presentationName" value="TestNGMockito.java.ft" />
+                  <option name="internalTemplateSaveName" value="SQTJ-TestNGMockito.java" />
+                  <option name="isInternal" value="true" />
+                </Template>
+              </option>
+              <option name="moduleAutoConfigSetting" value="AUTOMATICALLY_CONFIGURE_WHEN_POSSIBLE" />
+            </ProjectSettings>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectNameModuleNameToSettingsMap">
+      <map>
+        <entry key="trunk_au-picklist-service_main">
+          <value>
+            <ModuleSettings>
+              <option name="moduleName" value="au-picklist-service_main" />
+              <option name="testDirectoryRoot" value="au-picklist/au-picklist-service/src/test/java" />
+            </ModuleSettings>
+          </value>
+        </entry>
+        <entry key="trunk_au-picklist-ui_main">
+          <value>
+            <ModuleSettings>
+              <option name="moduleName" value="au-picklist-ui_main" />
+              <option name="testDirectoryRoot" value="au-picklist/au-picklist-ui/src/test/java" />
+            </ModuleSettings>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="collectUsageStats" value="true" />
+    <option name="hasShownMetricsDisclosure" value="true" />
+    <option name="id" value="4323b5ce-2ea3-49ed-bcf5-e7791007d322" />
+  </component>
+</application>
