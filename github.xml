@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="77eb7fcc-11f7-4a8c-b5f2-bd2de72f5c09" name="I073367">
+      <server useHttp="false" host="github.wdf.sap.corp" />
+    </account>
+  </component>
+</application>
