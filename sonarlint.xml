@@ -4,7 +4,7 @@
       <list>
         <SonarQubeServer>
           <option name="hostUrl" value="https://sf-sonar.devprod.sap.corp" />
-          <token>df9adfc9df92df93df92dfcfdfc9df99df93dfc9df98dfc9df9edfc8df98dfccdfccdfcedf92dfccdfcfdf99df9edfccdf9ddfc8dfcbdfcedf9cdf9cdf9fdf98df9adf9adf9ddfcfdfcedf98dfc8df9c</token>
+          <token>df92dfcfdf99dfc8df9cdfc8df9cdf98df93df9ddfcfdf99df9fdf93df9cdf98df9fdfcedf9ddfccdfc8df9edfc9df9ddf9bdfcedf9ddfc9df9edfcbdfcbdfc8df9edf9adf9edf98df9fdf92df9cdf9f</token>
           <option name="name" value="SF Sonar" />
           <organizationKey>default-organization</organizationKey>
           <enableNotifications>true</enableNotifications>
