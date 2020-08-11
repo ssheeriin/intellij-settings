@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '.../au-picklist/au-picklist-service/src/main/java/com/successfactors/picklist/dao/impl/oracle/OraclePicklistDAO.java [trunk.au-picklist.au-picklist-service.main]'" />
+    <option name="defaultScopeName" value="File '.../au-picklist/au-picklist-service/src/main/java/com/successfactors/picklist/dao/impl/oracle/OraclePicklistDAO.java [trunk.au-picklist.au-picklist-service.main]'" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '.../au-picklist/au-picklist-service/src/main/java/com/successfactors/picklist/dao/impl/oracle/OraclePicklistDAO.java [trunk.au-picklist.au-picklist-service.main]'" />
     <option name="FILE_MASK" value="*.gradle" />
     <mask>*.css</mask>
     <mask>*.html</mask>
