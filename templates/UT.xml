@@ -1,0 +1,23 @@
+<templateSet group="UT">
+  <template name="tstan" value="@Test(groups = {&quot;checkin&quot;})&#10;public void test$METHOD$() {&#10;  &#10;}    " description="test annotation" toReformat="false" toShortenFQNames="true">
+    <variable name="METHOD" expression="methodName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="tstanex" value="@Test(groups = {&quot;checkin&quot;}, expectedExceptions = $EX$ )&#10;public void test$METHOD$() {&#10;&#10;}    " description="test annotation with expect exception" toReformat="false" toShortenFQNames="true">
+    <variable name="EX" expression="expectedType()" defaultValue="Exception.class" alwaysStopAt="true" />
+    <variable name="METHOD" expression="methodName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
+      <option name="MAVEN" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="SHELL_SCRIPT" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+</templateSet>
