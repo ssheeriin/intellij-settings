@@ -1,9 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../au-picklist/au-picklist-service/src/main/java/com/successfactors/picklist/dao/impl/oracle/OraclePicklistDAO.java [trunk.au-picklist.au-picklist-service.main]'" />
-    <option name="defaultScopeName" value="File '.../au-picklist/au-picklist-service/src/main/java/com/successfactors/picklist/dao/impl/oracle/OraclePicklistDAO.java [trunk.au-picklist.au-picklist-service.main]'" />
-    <option name="SEARCH_SCOPE" value="File '.../au-picklist/au-picklist-service/src/main/java/com/successfactors/picklist/dao/impl/oracle/OraclePicklistDAO.java [trunk.au-picklist.au-picklist-service.main]'" />
-    <option name="FILE_MASK" value="*.gradle" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
