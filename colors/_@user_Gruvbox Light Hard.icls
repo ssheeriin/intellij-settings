@@ -1,22 +1,11 @@
 <scheme name="_@user_Gruvbox Light Hard" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2020-08-31T14:39:50</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2020.2.1.0.0</property>
-    <property name="modified">2020-09-11T09:43:10</property>
+    <property name="modified">2020-12-07T09:39:29</property>
     <property name="originalScheme">Gruvbox Light Hard</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.0" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code Retina" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </font>
-  <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="b8bb26" />
     <option name="ANNOTATIONS_COLOR" value="928374" />
