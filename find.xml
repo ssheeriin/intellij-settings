@@ -1,18 +1,18 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../au-picklist/au-picklist-service/src/main/java/com/successfactors/smartsuite [trunk.au-picklist.au-picklist-service.main]'" />
-    <option name="defaultScopeName" value="Directory '.../au-picklist/au-picklist-service/src/main/java/com/successfactors/smartsuite [trunk.au-picklist.au-picklist-service.main]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '.../au-picklist/au-picklist-service/src/main/java/com/successfactors/smartsuite [trunk.au-picklist.au-picklist-service.main]'" />
-    <option name="FILE_MASK" value="*Test.java" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.gradle</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*Test.java</mask>
+    <mask>*.java</mask>
   </component>
 </application>
