@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'trunk'" />
-    <option name="defaultScopeName" value="Project 'trunk'" />
+    <option name="customScope" value="File '.../au-picklist/au-picklist-service/src/main/java/com/successfactors/smartsuite/dao/impl/oracle/PicklistMigrationDAO.java [trunk.au-picklist.au-picklist-service.main]'" />
+    <option name="defaultScopeName" value="File '.../au-picklist/au-picklist-service/src/main/java/com/successfactors/smartsuite/dao/impl/oracle/PicklistMigrationDAO.java [trunk.au-picklist.au-picklist-service.main]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'trunk'" />
+    <option name="SEARCH_SCOPE" value="File '.../au-picklist/au-picklist-service/src/main/java/com/successfactors/smartsuite/dao/impl/oracle/PicklistMigrationDAO.java [trunk.au-picklist.au-picklist-service.main]'" />
     <option name="FILE_MASK" value="*Test.java" />
     <mask>*.css</mask>
     <mask>*.html</mask>
