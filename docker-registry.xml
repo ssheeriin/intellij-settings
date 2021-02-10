@@ -1,0 +1,9 @@
+<application>
+  <component name="DockerRegistry">
+    <DockerRegistry email="sherin.stephen@sap.com">
+      <option name="address" value="https://docker.wdf.sap.corp:50000" />
+      <option name="name" value="Docker Registry" />
+      <option name="username" value="I073367" />
+    </DockerRegistry>
+  </component>
+</application>
