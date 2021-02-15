@@ -1,5 +1,7 @@
 <application>
   <component name="SonarLintGlobalSettings">
+    <option name="autoTrigger" value="false" />
+    <option name="nodejsPath" value="" />
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
@@ -7,7 +9,6 @@
           <token>df92dfcfdf99dfc8df9cdfc8df9cdf98df93df9ddfcfdf99df9fdf93df9cdf98df9fdfcedf9ddfccdfc8df9edfc9df9ddf9bdfcedf9ddfc9df9edfcbdfcbdfc8df9edf9adf9edf98df9fdf92df9cdf9f</token>
           <option name="name" value="SF Sonar" />
           <organizationKey>default-organization</organizationKey>
-          <enableNotifications>true</enableNotifications>
         </SonarQubeServer>
       </list>
     </option>
