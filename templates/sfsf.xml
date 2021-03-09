@@ -1,0 +1,7 @@
+<templateSet group="sfsf">
+  <template name="tac" value=" @Test(groups = {&quot;checkin&quot;})" description="test annotation checkin" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
