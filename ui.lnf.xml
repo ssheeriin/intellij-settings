@@ -3,6 +3,7 @@
     <option name="UI_SHOW_MODULE_GROUPS" value="false" />
   </component>
   <component name="UISettings">
+    <option name="EDITOR_AA_TYPE" value="Greyscale" />
     <option name="EDITOR_TAB_PLACEMENT" value="0" />
     <option name="IDE_AA_TYPE" value="Greyscale" />
     <option name="PRESENTATION_MODE_FONT_SIZE" value="20" />
