@@ -18,9 +18,13 @@
           <option name="url" value="https://github.wdf.sap.corp/bizx/au-genericobject.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.wdf.sap.corp/Portal-CF/flex-proxyservice.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/dev/workspace/trunk" />
+    <option name="cloneParentDir" value="$USER_HOME$/dev/workspace/my" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
